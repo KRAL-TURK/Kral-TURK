@@ -1,118 +1,311 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bein spor haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
-https://istanbul.tvizlehd.com/live/beinsporthaber.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports UHD 1
-http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/4272.ts
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports FHD 1
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234520.ts
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports HD 1
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234367.ts
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN SPORTS 4K
-https://sectokentest.parkbtcpanel.com/test/chann35/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports(FEED YAYIN)
-https://srvccc.write8824dont.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports (ÖZEL YAYIN)
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234519.ts
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports(Maç Saati1)
-http://olmbenidarlamayinananizisikerim.oldstreaming.diyim.ananin.amina.sokalim.nolvadexpricescompare.com:80/nirvana5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports-(Maç Saati2)
-https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
-
-EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports-(Maç Saati3)
-https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",Beinsport 1 MAÇ SAATİ AKTİF
-http://klasman1.xyz/hls/b1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
-https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
-https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
-https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
-
-#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
-https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
-
-#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
-https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", BİR SPOR HD
-https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
-https://sectokentest.parkbtcpanel.com/test/chann14/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
-https://sectokentest.parkbtcpanel.com/test/chann15/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
-https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
-https://sectokentest.parkbtcpanel.com/test/chann10/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
-https://sectokentest.parkbtcpanel.com/test/chann11/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" group-title="SPOR KANALI",Tivibu Spor 4
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234479.ts
-
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
-https://sectokentest.parkbtcpanel.com/test/chann12/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
-https://sectokentest.parkbtcpanel.com/test/chann13/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
-http://istanbul.tvizlehd.com/live/fbtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234382.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
-https://sectokentest.parkbtcpanel.com/test/chann31/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
-https://www.mediacdnclub.club/hlslive/95.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
-https://sectokentest.parkbtcpanel.com/test/chann32/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
-https://www.mediacdnclub.club/hlslive/96.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234383.ts
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
-https://sectokentest.parkbtcpanel.com/test/chann33/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 3
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234384.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234385.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 4
-https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234386.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234387.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234388.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: 24 TV" tvg-logo="" group-title="Turk Channel",TR: 24 TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48425
+#EXTINF:-1 tvg-ID="" tvg-name="TR: 360 TV" tvg-logo="" group-title="Turk Channel",TR: 360 TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4065
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A Haber HD" tvg-logo="" group-title="Turk Channel",TR: A Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3165
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A2" tvg-logo="" group-title="Turk Channel",TR: A2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4064
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ANADOLU TV" tvg-logo="" group-title="Turk Channel",TR: ANADOLU TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50801
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV Avrupa" tvg-logo="" group-title="Turk Channel",TR: ATV Avrupa
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48413
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turk Channel",TR: ATV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/826
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Aksu TV" tvg-logo="" group-title="Turk Channel",TR: Aksu TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48416
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="Turk Channel",TR: BEIN MOVIES ACTION 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50142
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES VICE HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES VICE HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50148
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES SCI-FI HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES SCI-FI HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50799
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES DRAMA HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES DRAMA HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50146
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES COMEDY HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES COMEDY HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50147
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN IZ TV" tvg-logo="" group-title="Turk Channel",TR: beIN IZ TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48274
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Family HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Family HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1553
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sport 1 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/469
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sport 2 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1547
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sport 3 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Sport 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1549
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sport 4 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Sport 4 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49946
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 1 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Box Office 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4066
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 2 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Box Office 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4067
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Box Office 3 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Box Office 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4068
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Turk HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48275
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Stars HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Stars HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48276
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Premiere 2 HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Premiere 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48277
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3179
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Animal Planet HD" tvg-logo="" group-title="Turk Channel",TR: Animal Planet HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48415
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="Turk Channel",TR: A Spor HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/828
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EuroSport 1" tvg-logo="" group-title="Turk Channel",TR: EuroSport 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48253
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Euro D" tvg-logo="" group-title="Turk Channel",TR: Euro D
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48384
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Euro Star" tvg-logo="" group-title="Turk Channel",TR: Euro Star
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48383
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EuroSport 2" tvg-logo="" group-title="Turk Channel",TR: EuroSport 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48252
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nat Geo People" tvg-logo="" group-title="Turk Channel",TR: Nat Geo People
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1773
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="" group-title="Turk Channel",TR: Nat Geo Wild HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1760
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D HD" tvg-logo="" group-title="Turk Channel",TR: Kanal D HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1646
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Junior" tvg-logo="" group-title="Turk Channel",TR: Disney Junior
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1759
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Channel" tvg-logo="" group-title="Turk Channel",TR: Disney Channel
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1758
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kral POP HD" tvg-logo="" group-title="Turk Channel",TR: Kral POP HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1550
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Salon 1 FHD" tvg-logo="" group-title="Turk Channel",TR: Salon 1 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/802
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Salon 2 HD" tvg-logo="" group-title="Turk Channel",TR: Salon 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/801
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Salon 3 HD" tvg-logo="" group-title="Turk Channel",TR: Salon 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/800
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEREKET  TV" tvg-logo="" group-title="Turk Channel",TR: BEREKET  TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50802
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turk Channel",TR: TRT 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/409
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Show Turk" tvg-logo="" group-title="Turk Channel",TR: Show Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/411
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 7 HD" tvg-logo="" group-title="Turk Channel",TR: Kanal 7 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/413
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 24" tvg-logo="" group-title="Turk Channel",TR: Kanal 24
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/414
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CNN Turk HD" tvg-logo="" group-title="Turk Channel",TR: CNN Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/415
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bloomberg TV" tvg-logo="" group-title="Turk Channel",TR: Bloomberg TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/416
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BenguTurk TV" tvg-logo="" group-title="Turk Channel",TR: BenguTurk TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/418
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fox Crime" tvg-logo="" group-title="Turk Channel",TR: Fox Crime
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3169
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fox HD" tvg-logo="" group-title="Turk Channel",TR: Fox HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3163
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fox Life" tvg-logo="" group-title="Turk Channel",TR: Fox Life
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3168
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Dizismart PREMIUM HD" tvg-logo="" group-title="Turk Channel",TR: Dizismart PREMIUM HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50804
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TJK TV" tvg-logo="" group-title="Turk Channel",TR: TJK TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48332
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TGRT Haber HD" tvg-logo="" group-title="Turk Channel",TR: TGRT Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48320
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Star HD" tvg-logo="" group-title="Turk Channel",TR: Star HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48337
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Smart Sport 2 HD" tvg-logo="" group-title="Turk Channel",TR: Smart Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48242
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Smart Sport 1 HD" tvg-logo="" group-title="Turk Channel",TR: Smart Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48243
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Sinema Action HD" tvg-logo="" group-title="Turk Channel",TR: Sinema Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48273
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Sinema TV YERLI" tvg-logo="" group-title="Turk Channel",TR: Sinema TV YERLI
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48257
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Show Max" tvg-logo="" group-title="Turk Channel",TR: Show Max
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48335
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Show HD" tvg-logo="" group-title="Turk Channel",TR: Show HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48336
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Semerkant TV" tvg-logo="" group-title="Turk Channel",TR: Semerkant TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48338
+#EXTINF:-1 tvg-ID="" tvg-name="TR: S Sports TV" tvg-logo="" group-title="Turk Channel",TR: S Sports TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48251
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Power Turk HD" tvg-logo="" group-title="Turk Channel",TR: Power Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48341
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Planet Turk" tvg-logo="" group-title="Turk Channel",TR: Planet Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48342
+#EXTINF:-1 tvg-ID="" tvg-name="TR: AS TV" tvg-logo="" group-title="Turk Channel",TR: AS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48343
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Planet Cocuk HD" tvg-logo="" group-title="Turk Channel",TR: Planet Cocuk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48345
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NTV Sport HD" tvg-logo="" group-title="Turk Channel",TR: NTV Sport HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48350
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NTV HD" tvg-logo="" group-title="Turk Channel",TR: NTV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48351
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NR1 Turk" tvg-logo="" group-title="Turk Channel",TR: NR1 Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48353
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KRAL POP AKUSTIK" tvg-logo="" group-title="Turk Channel",TR: KRAL POP AKUSTIK
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50806
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nick JR" tvg-logo="" group-title="Turk Channel",TR: Nick JR
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48349
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nat Geo HD" tvg-logo="" group-title="Turk Channel",TR: Nat Geo HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48348
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Family HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Family HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48266
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Action HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49214
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Turk HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49213
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Fest HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Fest HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49212
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Classic HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Classic HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49215
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Platin HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Platin HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49216
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MovieSmart Platin 2 HD" tvg-logo="" group-title="Turk Channel",TR: MovieSmart Platin 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48264
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Dizismart Max HD" tvg-logo="" group-title="Turk Channel",TR: Dizismart Max HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48263
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Minika Go HD" tvg-logo="" group-title="Turk Channel",TR: Minika Go HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48354
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Minika Cocuk HD" tvg-logo="" group-title="Turk Channel",TR: Minika Cocuk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48355
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MagicBox Komedi HD" tvg-logo="" group-title="Turk Channel",TR: MagicBox Komedi HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48267
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MagicBox Animasyon HD" tvg-logo="" group-title="Turk Channel",TR: MagicBox Animasyon HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48268
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Lalegul TV" tvg-logo="" group-title="Turk Channel",TR: Lalegul TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48357
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kon TV" tvg-logo="" group-title="Turk Channel",TR: Kon TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48360
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEYKENT TV" tvg-logo="" group-title="Turk Channel",TR: BEYKENT TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48362
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Karaden" tvg-logo="" group-title="Turk Channel",TR: Karaden
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48363
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="" group-title="Turk Channel",TR: Kanal 7 Avrupa
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48369
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 58" tvg-logo="" group-title="Turk Channel",TR: Kanal 58
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48365
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 3" tvg-logo="" group-title="Turk Channel",TR: Kanal 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48370
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 26" tvg-logo="" group-title="Turk Channel",TR: Kanal 26
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48366
+#EXTINF:-1 tvg-ID="" tvg-name="TR: IDMan TV" tvg-logo="" group-title="Turk Channel",TR: IDMan TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48371
+#EXTINF:-1 tvg-ID="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="Turk Channel",TR: History Channel HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48373
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Halk TV" tvg-logo="" group-title="Turk Channel",TR: Halk TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48374
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Haber Turk HD" tvg-logo="" group-title="Turk Channel",TR: Haber Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48375
+#EXTINF:-1 tvg-ID="" tvg-name="TR: GS TV" tvg-logo="" group-title="Turk Channel",TR: GS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48255
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Genc TV HD" tvg-logo="" group-title="Turk Channel",TR: Genc TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48376
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Filmbox Fantastik HD" tvg-logo="" group-title="Turk Channel",TR: Filmbox Fantastik HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48339
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KUDUS TV" tvg-logo="" group-title="Turk Channel",TR: KUDUS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48382
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fenerbahce" tvg-logo="" group-title="Turk Channel",TR: Fenerbahce
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48254
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Dream TV" tvg-logo="" group-title="Turk Channel",TR: Dream TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48389
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Dream Truk" tvg-logo="" group-title="Turk Channel",TR: Dream Truk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48388
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Dost TV" tvg-logo="" group-title="Turk Channel",TR: Dost TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48390
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney XD" tvg-logo="" group-title="Turk Channel",TR: Disney XD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48391
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Discovery SIENCE HD" tvg-logo="" group-title="Turk Channel",TR: Discovery SIENCE HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48394
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Discovery IDX HD" tvg-logo="" group-title="Turk Channel",TR: Discovery IDX HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48395
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="" group-title="Turk Channel",TR: Da Vinci Learning HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48398
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Cem TV" tvg-logo="" group-title="Turk Channel",TR: Cem TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48400
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Cay TV" tvg-logo="" group-title="Turk Channel",TR: Cay TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48401
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Cartoon Network HD" tvg-logo="" group-title="Turk Channel",TR: Cartoon Network HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48402
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BRT 2 HD" tvg-logo="" group-title="Turk Channel",TR: BRT 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48403
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BRT 1 HD" tvg-logo="" group-title="Turk Channel",TR: BRT 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48404
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BJK TV" tvg-logo="" group-title="Turk Channel",TR: BJK TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48256
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Beyaz TV HD" tvg-logo="" group-title="Turk Channel",TR: Beyaz TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48406
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEN TV" tvg-logo="" group-title="Turk Channel",TR: BEN TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48409
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="Turk Channel",TR: Discovery Channel
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3171
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Baby TV" tvg-logo="" group-title="Turk Channel",TR: Baby TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48411
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nickeledeon HD" tvg-logo="" group-title="Turk Channel",TR: Nickeledeon HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48352
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Diyanet" tvg-logo="" group-title="Turk Channel",TR: TRT Diyanet
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48328
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Haber HD" tvg-logo="" group-title="Turk Channel",TR: TRT Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48327
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Okul" tvg-logo="" group-title="Turk Channel",TR: TRT Okul
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48324
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Sport HD" tvg-logo="" group-title="Turk Channel",TR: TRT Sport HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48323
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Turk" tvg-logo="" group-title="Turk Channel",TR: TRT Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48322
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 2 HD" tvg-logo="" group-title="Turk Channel",TR: TV 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48317
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 4" tvg-logo="" group-title="Turk Channel",TR: TV 4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48316
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 5" tvg-logo="" group-title="Turk Channel",TR: TV 5
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48315
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="Turk Channel",TR: TV 8.5 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48313
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV EM" tvg-logo="" group-title="Turk Channel",TR: TV EM
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48312
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV Kayseri" tvg-logo="" group-title="Turk Channel",TR: TV Kayseri
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48311
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Ulke TV" tvg-logo="" group-title="Turk Channel",TR: Ulke TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48310
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Muzik HD" tvg-logo="" group-title="Turk Channel",TR: TRT Muzik HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3170
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Belgesel HD" tvg-logo="" group-title="Turk Channel",TR: TRT Belgesel HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/406
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT Cocuk" tvg-logo="" group-title="Turk Channel",TR: TRT Cocuk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/405
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="Turk Channel",TR: Yaban TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48309
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT World" tvg-logo="" group-title="Turk Channel",TR: TRT World
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/401
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TiviBu Sport 1 HD" tvg-logo="" group-title="Turk Channel",TR: TiviBu Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48241
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV8 FHD" tvg-logo="" group-title="Turk Channel",TR: TV8 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/795
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TiviBu Sport 2 HD" tvg-logo="" group-title="Turk Channel",TR: TiviBu Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48240
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TiviBu Sport 3 HD" tvg-logo="" group-title="Turk Channel",TR: TiviBu Sport 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48239
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="Turk Channel",TR: TRT AVAZ
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50809
+#EXTINF:-1 tvg-ID="" tvg-name="TR: YOL TV" tvg-logo="" group-title="Turk Channel",TR: YOL TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51541
+#EXTINF:-1 tvg-ID="" tvg-name="TR: bein Movies Premiere 1 HD" tvg-logo="" group-title="Turk Channel",TR: bein Movies Premiere 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52708
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TGRT EU" tvg-logo="" group-title="Turk Channel",TR: TGRT EU
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52714
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TVNET HD" tvg-logo="" group-title="Turk Channel",TR: TVNET HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52715
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KANAL B" tvg-logo="" group-title="Turk Channel",TR: KANAL B
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52716
+#EXTINF:-1 tvg-ID="" tvg-name="TR: POWER TV HD" tvg-logo="" group-title="Turk Channel",TR: POWER TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53016
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Exxen Sport 1 FHD" tvg-logo="" group-title="Turk Channel",TR: Exxen Sport 1 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54439
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EXXEN SPORT 2 FHD" tvg-logo="" group-title="Turk Channel",TR: EXXEN SPORT 2 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54440
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Sport HABER" tvg-logo="" group-title="Turk Channel",TR: beIN Sport HABER
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54465
+#EXTINF:-1 tvg-ID="" tvg-name="TR: VIASAT History HD" tvg-logo="" group-title="Turk Channel",TR: VIASAT History HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54466
+#EXTINF:-1 tvg-ID="" tvg-name="TR: VIASAT EXPLORER HD" tvg-logo="" group-title="Turk Channel",TR: VIASAT EXPLORER HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54467
+#EXTINF:-1 tvg-ID="" tvg-name="TR: DOCUBOX HD" tvg-logo="" group-title="Turk Channel",TR: DOCUBOX HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54468
