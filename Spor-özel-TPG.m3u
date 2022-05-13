@@ -1,0 +1,118 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein spor haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
+https://istanbul.tvizlehd.com/live/beinsporthaber.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports UHD 1
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/4272.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports FHD 1
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234520.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports HD 1
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234367.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN SPORTS 4K
+https://sectokentest.parkbtcpanel.com/test/chann35/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports(FEED YAYIN)
+https://srvccc.write8824dont.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports (ÖZEL YAYIN)
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234519.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports(Maç Saati1)
+http://olmbenidarlamayinananizisikerim.oldstreaming.diyim.ananin.amina.sokalim.nolvadexpricescompare.com:80/nirvana5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports-(Maç Saati2)
+https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
+
+EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",BeIN Sports-(Maç Saati3)
+https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI",Beinsport 1 MAÇ SAATİ AKTİF
+http://klasman1.xyz/hls/b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
+https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
+https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
+https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
+
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
+https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
+
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
+https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", BİR SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
+https://sectokentest.parkbtcpanel.com/test/chann14/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
+https://sectokentest.parkbtcpanel.com/test/chann15/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
+https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
+https://sectokentest.parkbtcpanel.com/test/chann10/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
+https://sectokentest.parkbtcpanel.com/test/chann11/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" group-title="SPOR KANALI",Tivibu Spor 4
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234479.ts
+
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
+https://sectokentest.parkbtcpanel.com/test/chann12/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
+https://sectokentest.parkbtcpanel.com/test/chann13/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
+http://istanbul.tvizlehd.com/live/fbtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234382.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
+https://sectokentest.parkbtcpanel.com/test/chann31/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
+https://www.mediacdnclub.club/hlslive/95.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
+https://sectokentest.parkbtcpanel.com/test/chann32/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
+https://www.mediacdnclub.club/hlslive/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234383.ts
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
+https://sectokentest.parkbtcpanel.com/test/chann33/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 3
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234384.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234385.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 4
+https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234386.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234387.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234388.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
+http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234389.ts
