@@ -57,9 +57,9 @@ http://1.balans12.xyz:50750/live/digerpanel/MBh5nLHTz8Rw/2565.ts
 http://1.balans12.xyz:50750/live/digerpanel/MBh5nLHTz8Rw/2564.ts
 
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48243.ts
+http://server.sibfungold.info:8080/live/bagio19821/WhE4rbagio19821@dooby/48243.ts
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48242.ts
+http://server.sibfungold.info:8080/live/bagio19821/WhE4rbagio19821@dooby/48242.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
