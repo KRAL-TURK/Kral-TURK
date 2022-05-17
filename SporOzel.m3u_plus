@@ -75,57 +75,41 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="★✦★ EXXEN SPORTS ★✦★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="EXXEN ☪ SPORT ⚽",★✦★ EXXEN SPOR ★✦★
-http://ip.luxetv.club:8080/senkron24/2123686/90354
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HEVC (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 1 HEVC (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90356
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 1 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90357
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 1 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90358
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 2 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90359
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 2 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90360
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 3 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90361
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 3 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90362
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 4 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90363
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 4 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90364
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 5 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90365
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 5 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90366
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 6 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90367
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 6 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90368
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 7 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90369
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 7 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90370
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 8 FHD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90371
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 8 HD (MAC ZAMANI)
-http://ip.luxetv.club:8080/senkron24/2123686/90372
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" grubu -title="EXXEN ☪ SPOR ⚽",Exxen Spor 1HD
-http://ip.luxetv.club:8080/senkron24/2123686/90373
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" grubu -title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 1
-http://ip.luxetv.club:8080/senkron24/2123686/90374
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-2.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 2 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90375
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-3.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPOR 3 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90376
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 4 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-4.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPORT 4 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90377
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 5 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-5.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPORT 5 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90378
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="EXXEN SPORT 6 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-6 .png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPORT 6 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90379
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 7 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-7.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPORT 7 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90380
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 8 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-8.png" group-title="EXXEN ☪ SPORT ⚽",EXXEN SPORT 8 HD
-http://ip.luxetv.club:8080/senkron24/2123686/90381
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91401
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91402
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91403
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 4 FHD (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 4 FHD (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93110
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93111
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93112
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93113
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92455
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92457
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92459
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1*
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92010
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2*
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92011
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3*
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92012
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 1 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 1 720p
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92456
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 2 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 2 720p
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92458
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 3 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 3 720p
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92460
+#EXTINF:-1 tvg-id="" tvg-name="TR | Exxenn Sports 1  ʜᴅ" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | Exxenn Sports 1  ʜᴅ
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92007
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 2 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 2 HD
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92008
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 3 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 3 HD
+http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92009
