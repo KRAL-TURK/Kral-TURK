@@ -370,21 +370,6 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/98.ts
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/107.ts
 
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live Earth tv 24/7 
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=3qdEMXmwTkQ/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PwE-V-dowjx8lTfsJk2p3j2DP0rM8dVCyA&usqp=CAU"tvg-url="" group-title="BELGESEL",🔴Live 🌎 Nasa Live Stream - Earth From Space 24/7 
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live Earth Views: Earth From Space
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Y1qQZbTF8iQ/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live Webcam Rolling Cam World 24/7 
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8KGXSjtS5pk/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live City Panorama - 24/7 Webcams LIVE Stream
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=iwkQrmx9smM/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live Armchair Traveling Beautiful Earth 100+ Live World Cameras / Calm Relaxing Music
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=cUk-Xvlfs1I/live
-#EXTINF:-1 tvg-id=".tr"tvg-name="" tvg-logo="https://lh3.googleusercontent.com/QzYRLjJhTE1jnSWeqT9ssdvBuxpwenS9o-yL5hRWM0q2v7O_m43vIPJLjkDnyh7qqUJPOiI=s85"tvg-url="" group-title="BELGESEL",🔴Live 4K Cameras of Ponte delle Guglie Venice / Relaxing Music
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HpZAez2oYsA/live
-
 
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",ÖZEL YAPIM
