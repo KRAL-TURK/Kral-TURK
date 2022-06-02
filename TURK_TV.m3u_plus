@@ -384,3 +384,190 @@ https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/in
 https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="----- Yerli_Diziler_Son_Blm -----" tvg-logo="" group-title="	Yerli_Diziler_Son_Blm",----- Yerli_Diziler_Son_Blm -----
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23914.
+#EXTINF:-1 tvg-id="" tvg-name="10 Bin Adim" tvg-logo="" group-title="	Yerli_Diziler_Son_Blm",10 Bin Adim
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/28413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="103 Gol (2021)" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",103 Gol (2021)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acik Mikrofon" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Acik Mikrofon
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/33829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acil Cagri" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Acil Cagri
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/26281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adi Sevgi" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Adi Sevgi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/47913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adim Basi Kafe" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Adim Basi Kafe
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alef" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Alef
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alparslan Büyük Selcuklu" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Alparslan Büyük Selcuklu
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/19900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annemizi Saklarken" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Annemizi Saklarken
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annenin Sirridir Cocuk" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Annenin Sirridir Cocuk
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arabeskin Asik Kadinlari" tvg-logo="http://195.154.184.242:1983/images/0984fe4853d3436dc89d0ce2a6b3b956.jpg" group-title="	Yerli_Diziler_Son_Blm",Arabeskin Asik Kadinlari
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/37963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arda (2021)" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Arda (2021)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arka Sokaklar" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Arka Sokaklar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ask Kumardir" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Ask Kumardir
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ask Mantik Intikam" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Ask Mantik Intikam
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ayak Isleri" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Ayak Isleri
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aynen Aynen" tvg-logo="http://195.154.184.242:1983/images/bdc723194e1dbcd0f881d09c7cc3617f.jpg" group-title="	Yerli_Diziler_Son_Blm",Aynen Aynen
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aziz (2021)" tvg-logo="http://195.154.184.242:1983/images/fb1edfdade0ec96b5e0aa35ad927ec9c.jpg" group-title="	Yerli_Diziler_Son_Blm",Aziz (2021)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/19825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbaroslar Akdenizin Kilici" tvg-logo="http://195.154.184.242:1983/images/fb1edfdade0ec96b5e0aa35ad927ec9c.jpg" group-title="	Yerli_Diziler_Son_Blm",Barbaroslar Akdenizin Kilici
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Zamanlar Cukurova" tvg-logo="http://195.154.184.242:1983/images/fb1edfdade0ec96b5e0aa35ad927ec9c.jpg" group-title="	Yerli_Diziler_Son_Blm",Bir Zamanlar Cukurova
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir_Yeralti_SitComu" tvg-logo="http://195.154.184.242:1983/images/fb1edfdade0ec96b5e0aa35ad927ec9c.jpg" group-title="	Yerli_Diziler_Son_Blm",Bir_Yeralti_SitComu
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bize Müsaade (2021)" tvg-logo="http://195.154.184.242:1983/images/3df1e8d8caff5f6cae7d8280b24e8365.jpg" group-title="	Yerli_Diziler_Son_Blm",Bize Müsaade (2021)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bizi Ayiran Cizgi" tvg-logo="http://195.154.184.242:1983/images/3df1e8d8caff5f6cae7d8280b24e8365.jpg" group-title="	Yerli_Diziler_Son_Blm",Bizi Ayiran Cizgi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BKM Mutfak Stand Up" tvg-logo="http://195.154.184.242:1983/images/3df1e8d8caff5f6cae7d8280b24e8365.jpg" group-title="	Yerli_Diziler_Son_Blm",BKM Mutfak Stand Up
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/9809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boom (2003)" tvg-logo="http://195.154.184.242:1983/images/03d3d35238ad67fa16e80d521fd95835.jpg" group-title="	Yerli_Diziler_Son_Blm",Boom (2003)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Börü_2039" tvg-logo="http://195.154.184.242:1983/images/03d3d35238ad67fa16e80d521fd95835.jpg" group-title="	Yerli_Diziler_Son_Blm",Börü_2039
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/27736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camdaki Kiz" tvg-logo="http://195.154.184.242:1983/images/03d3d35238ad67fa16e80d521fd95835.jpg" group-title="	Yerli_Diziler_Son_Blm",Camdaki Kiz
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciplak" tvg-logo="http://195.154.184.242:1983/images/d6a7bf10115bdc2df4453b8b6d6762cb.jpg" group-title="	Yerli_Diziler_Son_Blm",Ciplak
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dayi Sov" tvg-logo="http://195.154.184.242:1983/images/d6a7bf10115bdc2df4453b8b6d6762cb.jpg" group-title="	Yerli_Diziler_Son_Blm",Dayi Sov
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destan (1980)" tvg-logo="http://195.154.184.242:1983/images/2d4829535b1a4240909f8a4ea4606cbd.jpg" group-title="	Yerli_Diziler_Son_Blm",Destan (1980)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dogu" tvg-logo="http://195.154.184.242:1983/images/2d4829535b1a4240909f8a4ea4606cbd.jpg" group-title="	Yerli_Diziler_Son_Blm",Dogu
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dogu Demirkol" tvg-logo="http://195.154.184.242:1983/images/2d4829535b1a4240909f8a4ea4606cbd.jpg" group-title="	Yerli_Diziler_Son_Blm",Dogu Demirkol
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/28328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duran (2018)" tvg-logo="http://195.154.184.242:1983/images/16f0bd656848c5cbacaafc217e8f527c.jpg" group-title="	Yerli_Diziler_Son_Blm",Duran (2018)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/32494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emanet (2016)" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Emanet (2016)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enis Arikan" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Enis Arikan
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Erkek Severse" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Erkek Severse
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/32882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evlilik Hakinda Her Sey" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Evlilik Hakinda Her Sey
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gibi" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Gibi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girift" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Girift
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Dagi" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Gönül Dagi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Güldür Güldür Show" tvg-logo="http://195.154.184.242:1983/images/3e83c7ae449044be1c70ae1e19ebc863.jpg" group-title="	Yerli_Diziler_Son_Blm",Güldür Güldür Show
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hakim (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Hakim (2008)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hamlet (1990)" tvg-logo="http://195.154.184.242:1983/images/a63b36072b12cf3fed41af5dc97713cb.jpg" group-title="	Yerli_Diziler_Son_Blm",Hamlet (1990)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/12806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hayaller ve Hayatlar" tvg-logo="http://195.154.184.242:1983/images/a63b36072b12cf3fed41af5dc97713cb.jpg" group-title="	Yerli_Diziler_Son_Blm",Hayaller ve Hayatlar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HIC (2017)" tvg-logo="http://195.154.184.242:1983/images/00798061b3191803873dba0e642e5595.jpg" group-title="	Yerli_Diziler_Son_Blm",HIC (2017)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hükümsüz" tvg-logo="http://195.154.184.242:1983/images/00798061b3191803873dba0e642e5595.jpg" group-title="	Yerli_Diziler_Son_Blm",Hükümsüz
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ibo Show" tvg-logo="http://195.154.184.242:1983/images/00798061b3191803873dba0e642e5595.jpg" group-title="	Yerli_Diziler_Son_Blm",Ibo Show
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ilginc Bazi Olaylar" tvg-logo="http://195.154.184.242:1983/images/00798061b3191803873dba0e642e5595.jpg" group-title="	Yerli_Diziler_Son_Blm",Ilginc Bazi Olaylar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaderimin Oyunu (1972)" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kaderimin Oyunu (1972)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/23625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kanunsuz Topraklar" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kanunsuz Topraklar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Tahta" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kara Tahta
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kardeslerim" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kardeslerim
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karsunun Odasi" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Karsunun Odasi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kasaba Doktoru" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kasaba Doktoru
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Katarsiz" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Katarsiz
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kirmizi Oda" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Kirmizi Oda
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Konteynir Brothers Hurdalik" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Konteynir Brothers Hurdalik
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Konusanlar" tvg-logo="http://195.154.184.242:1983/images/4eef9fd0f0052069f45f49f7d73f1f25.jpg" group-title="	Yerli_Diziler_Son_Blm",Konusanlar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi: Vatan (2017)" tvg-logo="http://195.154.184.242:1983/images/266659a8c1538c61f28eada5c4bed338.jpg" group-title="	Yerli_Diziler_Son_Blm",Kurtlar Vadisi: Vatan (2017)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/43314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurulus Osman" tvg-logo="http://195.154.184.242:1983/images/266659a8c1538c61f28eada5c4bed338.jpg" group-title="	Yerli_Diziler_Son_Blm",Kurulus Osman
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyla ile Mecnun (1983)" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Leyla ile Mecnun (1983)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Masal Satosu Peri Hirsizi" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Masal Satosu Peri Hirsizi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef 2021" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",MasterChef 2021
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Masumlar Apartmani" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Masumlar Apartmani
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Müge Anli" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Müge Anli
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/11615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasil Fenomen Oldum" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Nasil Fenomen Oldum
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/48073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oglum" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Oglum
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/37962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olagan Süpheliler" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Olagan Süpheliler
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Orta Kafa Ask" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Orta Kafa Ask
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sadakatsiz" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Sadakatsiz
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarkilar Bizi Söyler" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Sarkilar Bizi Söyler
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saygi" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Saygi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seksenler" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Seksenler
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seref Bey" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Seref Bey
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sihirli Annem" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Sihirli Annem
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sokagin Cocuklari" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Sokagin Cocuklari
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son Nefesime Kadar" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Son Nefesime Kadar
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son Yaz" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Son Yaz
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stand Up Evreni" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Stand Up Evreni
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Survivor All Star 2022" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Survivor All Star 2022
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/43313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teskilat" tvg-logo="http://195.154.184.242:1983/images/2da5767915efd55736c78e903c1f0049.jpg" group-title="	Yerli_Diziler_Son_Blm",Teskilat
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tozkoparan İskender: 1071 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Tozkoparan İskender: 1071 (2021)
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yalniz Kurt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Yalniz Kurt
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/33828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Yargi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yazgi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Yazgi
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/17798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Yesilcam
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yetis Zeynep" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Yetis Zeynep
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ölüm Zamani" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Ölüm Zamani
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/14610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Özelden Yürüyenler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Özelden Yürüyenler
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üc Kizkardes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Üc Kizkardes
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üc Kurus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Üc Kurus
+http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/19743.mkv 
