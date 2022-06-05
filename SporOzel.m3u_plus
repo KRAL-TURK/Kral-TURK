@@ -38,8 +38,8 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16878
 
-#EXTINF:-1, SÜPER LİG TV tvg-logo="" group-title="SPOR KANALI",SÜPER LİG TV
-http://37.221.121.166:8080/hls/sporligtv/playlist.m3u8
+#EXTINF:-1, STAR Spor TV tvg-logo="" group-title="SPOR KANALI",STAR SPOR TV
+http://37.221.121.166:8383/hls/trspor/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", BİR SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
