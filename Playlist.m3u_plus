@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 timeshift="1" tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV FHD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV FHD
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24712.ts
 #EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV HD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV HD
