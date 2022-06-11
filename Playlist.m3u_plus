@@ -686,3 +686,579 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/17414
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste HD DE" tvg-logo="" group-title="Germany",Das Erste HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39897
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste [B] HD DE" tvg-logo="" group-title="Germany",Das Erste [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39898
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste DE" tvg-logo="" group-title="Germany",Das Erste DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39899
+#EXTINF:-1 tvg-id="" tvg-name="ZDF FHD DE" tvg-logo="" group-title="Germany",ZDF FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39900
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD DE" tvg-logo="" group-title="Germany",ZDF HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39901
+#EXTINF:-1 tvg-id="" tvg-name="ZDF Neo HD DE" tvg-logo="" group-title="Germany",ZDF Neo HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39902
+#EXTINF:-1 tvg-id="" tvg-name="RTL FHD DE" tvg-logo="" group-title="Germany",RTL FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39903
+#EXTINF:-1 tvg-id="" tvg-name="RTL FHD [B] DE" tvg-logo="" group-title="Germany",RTL FHD [B] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39904
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD DE" tvg-logo="" group-title="Germany",RTL HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39905
+#EXTINF:-1 tvg-id="" tvg-name="Sat.1 FHD DE" tvg-logo="" group-title="Germany",Sat.1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39906
+#EXTINF:-1 tvg-id="" tvg-name="Sat.1 HD DE" tvg-logo="" group-title="Germany",Sat.1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39907
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben FHD DE" tvg-logo="" group-title="Germany",ProSieben FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39908
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben [B] FHD DE" tvg-logo="" group-title="Germany",ProSieben [B] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39909
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben HD DE" tvg-logo="" group-title="Germany",ProSieben HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39910
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben [B] HD DE" tvg-logo="" group-title="Germany",ProSieben [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39911
+#EXTINF:-1 tvg-id="" tvg-name="VOX FHD DE" tvg-logo="" group-title="Germany",VOX FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39912
+#EXTINF:-1 tvg-id="" tvg-name="VOX HD DE" tvg-logo="" group-title="Germany",VOX HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39913
+#EXTINF:-1 tvg-id="" tvg-name="VOXup DE" tvg-logo="" group-title="Germany",VOXup DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39914
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 FHD DE" tvg-logo="" group-title="Germany",Kabel 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39915
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 Classic FHD DE" tvg-logo="" group-title="Germany",Kabel 1 Classic FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39916
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 Classic HD DE" tvg-logo="" group-title="Germany",Kabel 1 Classic HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39917
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 FHD DE" tvg-logo="" group-title="Germany",RTL 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39918
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD DE" tvg-logo="" group-title="Germany",RTL 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39919
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro FHD DE" tvg-logo="" group-title="Germany",RTL Nitro FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39920
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro HD DE" tvg-logo="" group-title="Germany",RTL Nitro HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39921
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion FHD DE" tvg-logo="" group-title="Germany",RTL Passion FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39922
+#EXTINF:-1 tvg-id="" tvg-name="RTLup HD DE" tvg-logo="" group-title="Germany",RTLup HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39923
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime FHD DE" tvg-logo="" group-title="Germany",RTL Crime FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39924
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime HD DE" tvg-logo="" group-title="Germany",RTL Crime HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39925
+#EXTINF:-1 tvg-id="" tvg-name="RTL Living HD DE" tvg-logo="" group-title="Germany",RTL Living HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39926
+#EXTINF:-1 tvg-id="" tvg-name="Sat1 Emotion DE" tvg-logo="" group-title="Germany",Sat1 Emotion DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39927
+#EXTINF:-1 tvg-id="" tvg-name="Sat1 Gold FHD DE" tvg-logo="" group-title="Germany",Sat1 Gold FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39928
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Fun FHD DE" tvg-logo="" group-title="Germany",ProSieben Fun FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39929
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Fun HD DE" tvg-logo="" group-title="Germany",ProSieben Fun HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39930
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Fun [B] HD DE" tvg-logo="" group-title="Germany",ProSieben Fun [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39931
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Maxx FHD DE" tvg-logo="" group-title="Germany",ProSieben Maxx FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39932
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben Maxx HD DE" tvg-logo="" group-title="Germany",ProSieben Maxx HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39933
+#EXTINF:-1 tvg-id="" tvg-name="Pro Sieben Maxx HD DE" tvg-logo="" group-title="Germany",Pro Sieben Maxx HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39934
+#EXTINF:-1 tvg-id="" tvg-name="Pro Sieben Maxx FHD DE" tvg-logo="" group-title="Germany",Pro Sieben Maxx FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39935
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1 DE" tvg-logo="" group-title="Germany",SRF 1 DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39936
+#EXTINF:-1 tvg-id="" tvg-name="MDR HD DE" tvg-logo="" group-title="Germany",MDR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39937
+#EXTINF:-1 tvg-id="" tvg-name="3Sat FHD DE" tvg-logo="" group-title="Germany",3Sat FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39938
+#EXTINF:-1 tvg-id="" tvg-name="3sat HD DE" tvg-logo="" group-title="Germany",3sat HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39939
+#EXTINF:-1 tvg-id="" tvg-name="NDR HD DE" tvg-logo="" group-title="Germany",NDR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39940
+#EXTINF:-1 tvg-id="" tvg-name="HR FHD DE" tvg-logo="" group-title="Germany",HR FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39941
+#EXTINF:-1 tvg-id="" tvg-name="HR HD DE" tvg-logo="" group-title="Germany",HR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39942
+#EXTINF:-1 tvg-id="" tvg-name="RBB Berlin HD DE" tvg-logo="" group-title="Germany",RBB Berlin HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39943
+#EXTINF:-1 tvg-id="" tvg-name="BR HD DE" tvg-logo="" group-title="Germany",BR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39944
+#EXTINF:-1 tvg-id="" tvg-name="BR DE" tvg-logo="" group-title="Germany",BR DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39945
+#EXTINF:-1 tvg-id="" tvg-name="SWR HD DE" tvg-logo="" group-title="Germany",SWR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39946
+#EXTINF:-1 tvg-id="" tvg-name="WDR HD DE" tvg-logo="" group-title="Germany",WDR HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39947
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="" group-title="Germany",Franken Fernsehen FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39948
+#EXTINF:-1 tvg-id="" tvg-name="BW Family TV HD DE" tvg-logo="" group-title="Germany",BW Family TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39949
+#EXTINF:-1 tvg-id="" tvg-name="QVC HD DE" tvg-logo="" group-title="Germany",QVC HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39950
+#EXTINF:-1 tvg-id="" tvg-name="QVC Style FHD DE" tvg-logo="" group-title="Germany",QVC Style FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39951
+#EXTINF:-1 tvg-id="" tvg-name="Sonnenklar TV FHD DE" tvg-logo="" group-title="Germany",Sonnenklar TV FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39952
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ DE Sports ⭒✽✽" tvg-logo="" group-title="Germany",✽✽⭒ DE Sports ⭒✽✽
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39953
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD DE" tvg-logo="" group-title="Germany",Sky Sport F1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39954
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 [B] FHD DE" tvg-logo="" group-title="Germany",Sky Sport F1 [B] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39955
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD DE" tvg-logo="" group-title="Germany",Sky Sport F1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39956
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News FHD DE" tvg-logo="" group-title="Germany",Sky Sports News FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39957
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News HD DE" tvg-logo="" group-title="Germany",Sky Sports News HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39958
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 FHD DE" tvg-logo="" group-title="Germany",Sky Sport 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39959
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD DE" tvg-logo="" group-title="Germany",Sky Sport 1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39960
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 DE" tvg-logo="" group-title="Germany",Sky Sport 1 DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39961
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 [B] DE" tvg-logo="" group-title="Germany",Sky Sport 1 [B] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39962
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 FHD DE" tvg-logo="" group-title="Germany",Sky Sport 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39963
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD DE" tvg-logo="" group-title="Germany",Sky Sport 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39964
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 [B] HD DE" tvg-logo="" group-title="Germany",Sky Sport 2 [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39965
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport 3 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39966
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 3 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39967
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport 4 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39968
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 4 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39969
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 FHD DE" tvg-logo="" group-title="Germany",Sky Sport 5 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39970
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport 5 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39971
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 6 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39972
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 7 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39973
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 8 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39974
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 9 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39975
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport 10 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39976
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39977
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39978
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39979
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] HD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39980
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39981
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39982
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39983
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39984
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39985
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39986
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39987
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39988
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5 [Match Time] DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39989
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39990
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7 [Match Time] DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 7 [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39991
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39992
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 9 [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39993
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="" group-title="Germany",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39994
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD DE" tvg-logo="" group-title="Germany",DAZN 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39995
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [B] FHD DE" tvg-logo="" group-title="Germany",DAZN 1 [B] FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39996
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD DE" tvg-logo="" group-title="Germany",DAZN 1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39997
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [B] HD DE" tvg-logo="" group-title="Germany",DAZN 1 [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39998
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="" group-title="Germany",DAZN 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/39999
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD DE" tvg-logo="" group-title="Germany",DAZN 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40000
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime [Match Time] HD DE" tvg-logo="" group-title="Germany",Amazon Prime [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40001
+#EXTINF:-1 tvg-id="" tvg-name="Sport1 FHD DE" tvg-logo="" group-title="Germany",Sport1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40002
+#EXTINF:-1 tvg-id="" tvg-name="Sport1 HD DE" tvg-logo="" group-title="Germany",Sport1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40003
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ FHD DE" tvg-logo="" group-title="Germany",Sport1+ FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40004
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ HD [B] DE" tvg-logo="" group-title="Germany",Sport1+ HD [B] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40005
+#EXTINF:-1 tvg-id="" tvg-name="eSports 1 HD DE" tvg-logo="" group-title="Germany",eSports 1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40006
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 1 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40007
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 2 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40008
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 3 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40009
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 4 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40010
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 5 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40011
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 6 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40012
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="" group-title="Germany",Telekom Fußball 7 HD [Match Time] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40013
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 8 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Fußball 8 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40014
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Eishockey 1 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40015
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Eishockey 2 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40016
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Eishockey 3 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40017
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Eishockey 4 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40018
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Basketball 1 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40019
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Basketball 2 [Match Time] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40020
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD DE" tvg-logo="" group-title="Germany",Eurosport 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40021
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD DE" tvg-logo="" group-title="Germany",Eurosport 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40022
+#EXTINF:-1 tvg-id="" tvg-name="Sport Digital FHD DE" tvg-logo="" group-title="Germany",Sport Digital FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40023
+#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD DE" tvg-logo="" group-title="Germany",Sport Digital HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40024
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD DE" tvg-logo="" group-title="Germany",Motorvision HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40025
+#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport FHD DE" tvg-logo="" group-title="Germany",Auto Motor Sport FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40026
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern TV HD DE" tvg-logo="" group-title="Germany",FC Bayern TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40027
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ DE Movies & Series ⭒✽✽" tvg-logo="" group-title="Germany",✽✽⭒ DE Movies & Series ⭒✽✽
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40028
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Action FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40029
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD DE" tvg-logo="" group-title="Germany",Sky Cinema Action HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40030
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Special FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Special FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40031
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Special HD DE" tvg-logo="" group-title="Germany",Sky Cinema Special HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40032
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Thriller FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40033
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="" group-title="Germany",Sky Cinema Thriller HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40034
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller DE" tvg-logo="" group-title="Germany",Sky Cinema Thriller DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40035
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Premieren FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40036
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="" group-title="Germany",Sky Cinema Premieren HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40037
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Premieren +24 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40038
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="" group-title="Germany",Sky Cinema Premieren +24 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40039
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action DE" tvg-logo="" group-title="Germany",Sky Cinema Action DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40040
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Fun HD DE" tvg-logo="" group-title="Germany",Sky Cinema Fun HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40041
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Fun DE" tvg-logo="" group-title="Germany",Sky Cinema Fun DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40042
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Best Of FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40043
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="" group-title="Germany",Sky Cinema Best Of HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40044
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family FHD DE" tvg-logo="" group-title="Germany",Sky Cinema Family FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40045
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD DE" tvg-logo="" group-title="Germany",Sky Cinema Family HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40046
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Classics HD DE" tvg-logo="" group-title="Germany",Sky Cinema Classics HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40047
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Classics DE" tvg-logo="" group-title="Germany",Sky Cinema Classics DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40048
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy VIP HD DE" tvg-logo="" group-title="Germany",Sky Cinema Comedy VIP HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40049
+#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi VIP HD DE" tvg-logo="" group-title="Germany",Sky Krimi VIP HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40050
+#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi HD DE" tvg-logo="" group-title="Germany",Sky Krimi HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40051
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD DE" tvg-logo="" group-title="Germany",Sky Atlantic FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40052
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD DE" tvg-logo="" group-title="Germany",Sky Atlantic HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40053
+#EXTINF:-1 tvg-id="" tvg-name="Sky 13TH Street FHD DE" tvg-logo="" group-title="Germany",Sky 13TH Street FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40054
+#EXTINF:-1 tvg-id="" tvg-name="Sky 13TH Street HD DE" tvg-logo="" group-title="Germany",Sky 13TH Street HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40055
+#EXTINF:-1 tvg-id="" tvg-name="Sky 13TH Street [B] HD DE" tvg-logo="" group-title="Germany",Sky 13TH Street [B] HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40056
+#EXTINF:-1 tvg-id="" tvg-name="Sky One FHD DE" tvg-logo="" group-title="Germany",Sky One FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40057
+#EXTINF:-1 tvg-id="" tvg-name="One HD DE" tvg-logo="" group-title="Germany",One HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40058
+#EXTINF:-1 tvg-id="" tvg-name="Sky Replay FHD DE" tvg-logo="" group-title="Germany",Sky Replay FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40059
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD DE" tvg-logo="" group-title="Germany",Syfy FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40060
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD DE" tvg-logo="" group-title="Germany",Syfy HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40061
+#EXTINF:-1 tvg-id="" tvg-name="Syfy DE" tvg-logo="" group-title="Germany",Syfy DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40062
+#EXTINF:-1 tvg-id="" tvg-name="WarnerTV Comedy FHD DE" tvg-logo="" group-title="Germany",WarnerTV Comedy FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40063
+#EXTINF:-1 tvg-id="" tvg-name="WarnerTV Comedy HD DE" tvg-logo="" group-title="Germany",WarnerTV Comedy HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40064
+#EXTINF:-1 tvg-id="" tvg-name="Warner Film FHD DE" tvg-logo="" group-title="Germany",Warner Film FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40065
+#EXTINF:-1 tvg-id="" tvg-name="WarnerTV Serie FHD DE" tvg-logo="" group-title="Germany",WarnerTV Serie FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40066
+#EXTINF:-1 tvg-id="" tvg-name="WarnerTV Serie HD DE" tvg-logo="" group-title="Germany",WarnerTV Serie HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40067
+#EXTINF:-1 tvg-id="" tvg-name="WarnerTV Serie DE" tvg-logo="" group-title="Germany",WarnerTV Serie DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40068
+#EXTINF:-1 tvg-id="" tvg-name="Universal FHD DE" tvg-logo="" group-title="Germany",Universal FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40069
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD DE" tvg-logo="" group-title="Germany",Sony Channel HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40070
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt FHD DE" tvg-logo="" group-title="Germany",Kinowelt FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40071
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt HD DE" tvg-logo="" group-title="Germany",Kinowelt HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40072
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere FHD DE" tvg-logo="" group-title="Germany",Eagle Cinema Premiere FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40073
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror FHD DE" tvg-logo="" group-title="Germany",Eagle Cinema Horror FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40074
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller FHD DE" tvg-logo="" group-title="Germany",Eagle Cinema Thriller FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40075
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi FHD DE" tvg-logo="" group-title="Germany",Eagle Cinema Sci-Fi FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40076
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="" group-title="Germany",Eagle Cinema Animation HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40077
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie HD DE" tvg-logo="" group-title="Germany",Eagle Cinema Mythologie HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40078
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="" group-title="Germany",Eagle Cinema Lächeln HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40079
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="" group-title="Germany",Eagle Cinema Geschichte HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40080
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch FHD DE" tvg-logo="" group-title="Germany",Eagle Cinema Romantisch FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40081
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1 FHD DE" tvg-logo="" group-title="Germany",Sky Select 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40082
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1 HD DE" tvg-logo="" group-title="Germany",Sky Select 1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40083
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2 FHD DE" tvg-logo="" group-title="Germany",Sky Select 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40084
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2 HD DE" tvg-logo="" group-title="Germany",Sky Select 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40085
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3 FHD DE" tvg-logo="" group-title="Germany",Sky Select 3 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40086
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3 HD DE" tvg-logo="" group-title="Germany",Sky Select 3 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40087
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 4 FHD DE" tvg-logo="" group-title="Germany",Sky Select 4 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40088
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 4 HD DE" tvg-logo="" group-title="Germany",Sky Select 4 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40089
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 5 HD DE" tvg-logo="" group-title="Germany",Sky Select 5 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40090
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 5 HD [demnächst] DE" tvg-logo="" group-title="Germany",Sky Select 5 HD [demnächst] DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40091
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 6 HD DE" tvg-logo="" group-title="Germany",Sky Select 6 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40092
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 7 HD DE" tvg-logo="" group-title="Germany",Sky Select 7 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40093
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 8 HD DE" tvg-logo="" group-title="Germany",Sky Select 8 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40094
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 HD DE" tvg-logo="" group-title="Germany",PopCorn Select 1 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40095
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 FHD DE" tvg-logo="" group-title="Germany",PopCorn Select 2 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40096
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 HD DE" tvg-logo="" group-title="Germany",PopCorn Select 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40097
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 FHD DE" tvg-logo="" group-title="Germany",PopCorn Select 3 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40098
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 HD DE" tvg-logo="" group-title="Germany",PopCorn Select 3 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40099
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 4 HD DE" tvg-logo="" group-title="Germany",PopCorn Select 4 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40100
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5 HD DE" tvg-logo="" group-title="Germany",PopCorn Select 5 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40101
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="" group-title="Germany",HyperCinema Boxset FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40102
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD DE" tvg-logo="" group-title="Germany",HyperCinema INFO FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40103
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 1 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40104
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2 HD DE" tvg-logo="" group-title="Germany",HyperCinema 2 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40105
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 3 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40106
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 4 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40107
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5 HD DE" tvg-logo="" group-title="Germany",HyperCinema 5 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40108
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 6 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40109
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 7 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40110
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 FHD DE" tvg-logo="" group-title="Germany",HyperCinema 8 FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40111
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD DE" tvg-logo="" group-title="Germany",AXN FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40112
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD DE" tvg-logo="" group-title="Germany",AXN HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40113
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD DE" tvg-logo="" group-title="Germany",Comedy Central FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40114
+#EXTINF:-1 tvg-id="" tvg-name="Romance TV HD DE" tvg-logo="" group-title="Germany",Romance TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40115
+#EXTINF:-1 tvg-id="" tvg-name="Romance TV DE" tvg-logo="" group-title="Germany",Romance TV DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40116
+#EXTINF:-1 tvg-id="" tvg-name="Sky Heimat Kanal HD DE" tvg-logo="" group-title="Germany",Sky Heimat Kanal HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40117
+#EXTINF:-1 tvg-id="" tvg-name="Sky Heimat Kanal DE" tvg-logo="" group-title="Germany",Sky Heimat Kanal DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40118
+#EXTINF:-1 tvg-id="" tvg-name="Sixx FHD DE" tvg-logo="" group-title="Germany",Sixx FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40119
+#EXTINF:-1 tvg-id="" tvg-name="Servus TV HD DE" tvg-logo="" group-title="Germany",Servus TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40120
+#EXTINF:-1 tvg-id="" tvg-name="Tele 5 HD DE" tvg-logo="" group-title="Germany",Tele 5 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40121
+#EXTINF:-1 tvg-id="" tvg-name="Bibel TV HD DE" tvg-logo="" group-title="Germany",Bibel TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40122
+#EXTINF:-1 tvg-id="" tvg-name="Genius Family DE" tvg-logo="" group-title="Germany",Genius Family DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40123
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Documentary ⭒✽✽" tvg-logo="" group-title="Germany",✽✽⭒ Documentary ⭒✽✽
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40124
+#EXTINF:-1 tvg-id="" tvg-name="ZDF Info HD DE" tvg-logo="" group-title="Germany",ZDF Info HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40125
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku DE" tvg-logo="" group-title="Germany",N24 Doku DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40126
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Doku FHD DE" tvg-logo="" group-title="Germany",Kabel Eins Doku FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40127
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Doku DE" tvg-logo="" group-title="Germany",Kabel Eins Doku DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40128
+#EXTINF:-1 tvg-id="" tvg-name="History Channel FHD DE" tvg-logo="" group-title="Germany",History Channel FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40129
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD DE" tvg-logo="" group-title="Germany",Spiegel Geschichte HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40130
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen HD DE" tvg-logo="" group-title="Germany",Spiegel TV Wissen HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40131
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD DE" tvg-logo="" group-title="Germany",Discovery FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40132
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD DE" tvg-logo="" group-title="Germany",Discovery HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40133
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation FHD DE" tvg-logo="" group-title="Germany",Crime & Investigation FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40134
+#EXTINF:-1 tvg-id="" tvg-name="Bergblick HD DE" tvg-logo="" group-title="Germany",Bergblick HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40135
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD DE" tvg-logo="" group-title="Germany",Animal Planet FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40136
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD DE" tvg-logo="" group-title="Germany",Animal Planet HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40137
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD DE" tvg-logo="" group-title="Germany",National Geographic FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40138
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD DE" tvg-logo="" group-title="Germany",National Geographic HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40139
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo wild FHD DE" tvg-logo="" group-title="Germany",Nat Geo wild FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40140
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD DE" tvg-logo="" group-title="Germany",Nat Geo Wild HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40141
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature FHD DE" tvg-logo="" group-title="Germany",Sky Nature FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40142
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries FHD DE" tvg-logo="" group-title="Germany",Sky Documentaries FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40143
+#EXTINF:-1 tvg-id="" tvg-name="HG TV HD DE" tvg-logo="" group-title="Germany",HG TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40144
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD DE" tvg-logo="" group-title="Germany",Welt der Wunder HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40145
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder DE" tvg-logo="" group-title="Germany",Welt der Wunder DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40146
+#EXTINF:-1 tvg-id="" tvg-name="Anixe HD DE" tvg-logo="" group-title="Germany",Anixe HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40147
+#EXTINF:-1 tvg-id="" tvg-name="Dmax FHD DE" tvg-logo="" group-title="Germany",Dmax FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40148
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD DE" tvg-logo="" group-title="Germany",TLC HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40149
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD DE" tvg-logo="" group-title="Germany",E! Entertainment FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40150
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte FHD DE" tvg-logo="" group-title="Germany",Sky Arte FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40151
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD DE" tvg-logo="" group-title="Germany",Sky Arte HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40152
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte DE" tvg-logo="" group-title="Germany",Sky Arte DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40153
+#EXTINF:-1 tvg-id="" tvg-name="ARD Alpha HD DE" tvg-logo="" group-title="Germany",ARD Alpha HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40154
+#EXTINF:-1 tvg-id="" tvg-name="Waidwerk FHD DE" tvg-logo="" group-title="Germany",Waidwerk FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40155
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ DE News ⭒✽✽" tvg-logo="" group-title="Germany",✽✽⭒ DE News ⭒✽✽
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40156
+#EXTINF:-1 tvg-id="" tvg-name="Euronews DE" tvg-logo="" group-title="Germany",Euronews DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40157
+#EXTINF:-1 tvg-id="" tvg-name="Welt HD DE" tvg-logo="" group-title="Germany",Welt HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40158
+#EXTINF:-1 tvg-id="" tvg-name="N-TV FHD DE" tvg-logo="" group-title="Germany",N-TV FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40159
+#EXTINF:-1 tvg-id="" tvg-name="N-TV HD DE" tvg-logo="" group-title="Germany",N-TV HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40160
+#EXTINF:-1 tvg-id="" tvg-name="N-TV DE" tvg-logo="" group-title="Germany",N-TV DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40161
+#EXTINF:-1 tvg-id="" tvg-name="Munchen TV DE" tvg-logo="" group-title="Germany",Munchen TV DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40162
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix HD DE" tvg-logo="" group-title="Germany",Phoenix HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40163
+#EXTINF:-1 tvg-id="" tvg-name="Tagesschau 24 HD DE" tvg-logo="" group-title="Germany",Tagesschau 24 HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40164
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL FHD DE" tvg-logo="" group-title="Germany",Super RTL FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40166
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL HD DE" tvg-logo="" group-title="Germany",Super RTL HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40167
+#EXTINF:-1 tvg-id="" tvg-name="KiKa FHD DE" tvg-logo="" group-title="Germany",KiKa FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40168
+#EXTINF:-1 tvg-id="" tvg-name="Kika HD DE" tvg-logo="" group-title="Germany",Kika HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40169
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus HD DE" tvg-logo="" group-title="Germany",Toggo Plus HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40170
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus DE" tvg-logo="" group-title="Germany",Toggo Plus DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40171
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD DE" tvg-logo="" group-title="Germany",Boomerang HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40172
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD DE" tvg-logo="" group-title="Germany",Cartoon Network FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40173
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD DE" tvg-logo="" group-title="Germany",Disney Channel FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40174
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD DE" tvg-logo="" group-title="Germany",Nickelodeon HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40175
+#EXTINF:-1 tvg-id="" tvg-name="Fix & Foxi DE" tvg-logo="" group-title="Germany",Fix & Foxi DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40176
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ DE Music ⭒✽✽" tvg-logo="" group-title="Germany",✽✽⭒ DE Music ⭒✽✽
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40177
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD DE" tvg-logo="" group-title="Germany",MTV FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40178
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s DE" tvg-logo="" group-title="Germany",MTV 80s DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40179
+#EXTINF:-1 tvg-id="" tvg-name="Sky Classica DE" tvg-logo="" group-title="Germany",Sky Classica DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40180
+#EXTINF:-1 tvg-id="" tvg-name="Classica HD DE" tvg-logo="" group-title="Germany",Classica HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40181
+#EXTINF:-1 tvg-id="" tvg-name="Jukebox DE" tvg-logo="" group-title="Germany",Jukebox DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40182
+#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music HD DE" tvg-logo="" group-title="Germany",Deluxe Music HD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40183
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit FHD DE" tvg-logo="" group-title="Germany",Kronehit FHD DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40184
+#EXTINF:-1 tvg-id="" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="" group-title="Germany",Deutsches Musik Fernsehen DE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/40185
