@@ -261,7 +261,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-https://list.iptvcat.com/my_list/s/8a1c3c4146138b5342c85a6f521e0050.m3u8
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20164.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
@@ -275,35 +275,32 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vw6hE9i.png" group-title="ÇOCUK KANALI" , Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/qYEVDbP.png" group-title="ÇOCUK KANALI" , Disney Channel
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/86.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Niyola TV" tvg-logo="https://i.imgur.com/0iUh0ib.png" group-title="ÇOCUK KANALI", Niloya TV
-https://nilotv.ozelip.com:3665/multi_web/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı TV" tvg-logo="https://i.imgur.com/ZdB0stp.png" group-title="ÇOCUK KANALI", Maşa ile Koca Ayı TV
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/96924
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.resimyukle.xyz/55LaOf.png" group-title="ÇOCUK KANALI", NICK JR
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/88.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://i.resimyukle.xyz/bxKy30.png" group-title="ÇOCUK KANALI", NICKELODEON HD
-https://list.iptvcat.com/my_list/s/91815c920c9a543d0a9d0f11aafee4d8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i.resimyukle.xyz/dTRPQ2.png" group-title="ÇOCUK KANALI", DISNEY JR HD
-https://list.iptvcat.com/my_list/s/61eeb3608f4d8d155a18bcca0722e732.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.resimyukle.xyz/0aGQ6T.png" group-title="ÇOCUK KANALI", BABY TV
-https://list.iptvcat.com/my_list/s/daec1ae5534b02cdf1fd63dcdc4ebb7f.m3u8
-
-#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR:COCUK SMART HD" tvg-logo="" group-title="ÇOCUK KANALI",COCUK SMART HD
-http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:CBEEBIES HD" tvg-logo="" group-title="ÇOCUK KANALI",CBEEBIES HD
-https://list.iptvcat.com/my_list/s/47c50fd85c4e3d9e67357764a4a13804.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ÇOCUK KANALI",KIDS TURK
-https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.tr" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://www.superkabonet.com/yukleme/download/130.png" group -title="ÇOCUK KANALI",DISNEY CHANNEL
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20160.ts
+#EXTINF:-1 tvg-id="Disney.Junior.tr" tvg-name="TR: DISNEY JUNIOR" tvg-logo="https://w7.pngwing.com/pngs/94/960/png-transparent -logo-disney-junior-the-walt-disney-company-playhouse-disney-channel-disney-junior-text-logo-snout.png" group-title="ÇOCUK KANALI",DISNEY JUNIOR
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20161.ts
+#EXTINF:-1 tvg-id="Disney.XD.tr" tvg-name="TR: DISNEY XD" tvg-logo="https://www.pngjoy.com/pngm/273/5225085_disney-xd-logo -new-disney-xd-logo-transparent.png" group-title="ÇOCUK KANALI",DISNEY XD
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20162.ts
+#EXTINF:-1 tvg-id="Cartoon.Network.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05 /cn-loho.png" group-title="ÇOCUK KANALI",CARTOON NETWORK
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20163.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="https://www.superkablonet.com/yukleme/download/351.png" group-title="ÇOCUK KANALI",MİNİKA ÇOCUK
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20164.ts
+#EXTINF:-1 tvg-id="MinikaGO.tr" tvg-name="TR: MINIKA GO" tvg-logo="https://www.superkablonet.com/yukleme/download/349.png" group-title ="ÇOCUK KANALI",MINIKA GO
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20165.ts
+#EXTINF:-1 tvg-id="BOOMERANG.HD.tr" tvg-name="TR: BOOMERANG TV" tvg-logo="https://www.fashionluxury.info/wp-content/uploads/2019/09 /217.png" group-title="ÇOCUK KANALI",BOOMERANG TV
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20166.ts
+#EXTINF:-1 tvg-id="Baby.TV.tr" tvg-name="TR: BABY TV" tvg-logo="https://www.superkablonet.com/yukleme/download/278.png" grubu -title="ÇOCUK KANALI",BEBEK TV
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20167.ts
+#EXTINF:-1 tvg-id="Nick.Jr..tr" tvg-name="TR: NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="ÇOCUK KANALI",NICK JR
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20168.ts
+#EXTINF:-1 tvg-id="TRT.Çocuk.tr" tvg-name="TR: TRT COCUK" tvg-logo="https://www.superkabonet.com/yukleme/download/350.png" grubu -title="ÇOCUK KANALI",TRT ÇOCUK
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20169.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/14.png" group-title="ÇOCUK KANALI",SMART COCUK
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20170.ts
+#EXTINF:-1 tvg-id="Nickelodeon.HD.tr" tvg-name="TR: NICKELEDEON" tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-EE5D227F65-seeklogo. com.png" group-title="ÇOCUK KANALI",NICKELEDEON
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29312.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC CBEEBiES HD" tvg-logo="https://seeklogo.com/images/C/CBeebies-logo-AB52F45F3C-seeklogo.com.png " group-title="ÇOCUK KANALI",BBC CBEEBiES HD
+http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29407.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV İlkokul" tvg-logo="https://i.imgur.com/O8KPQ9J.png" group-title="ÇOCUK KANALI" , EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
