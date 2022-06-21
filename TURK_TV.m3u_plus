@@ -315,58 +315,51 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 
 
 #EXTM3U
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",TRT BELGESEL HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DMAX HD
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DMAX HD
+http://195.175.224.219:6610/001/2/ch00000090990000001139/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001139&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",TLC HD
-https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TLC HD
+http://195.175.224.218:6610/001/2/ch00000090990000001246/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001246&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",YABAN TV HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",YABAN TV HD
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",TGRT BELGESEL HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TGRT BELGESEL HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",AV TV HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",AV TV HD
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/112.ts
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
+http://195.175.224.219:6610/001/2/ch00000090990000001195/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001195&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://505plus.eu:8080/live/5656/5656/711.ts
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY CHANNEL HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/110.ts
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",NAT GEO WILD HD
+http://195.175.224.218:6610/001/2/ch00000090990000001213/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001213&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY CHANNEL HD
+http://195.175.224.219:6610/001/2/ch00000090990000001355/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001355&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SCIENCE HD
-#EXTVLCOPT:http-user-agent=stream
-http://194.40.240.171:83/play/n6AYe30oDXrMtonQt5mlcAnHo-C56fKT3vlqOA6mUp0hY8rzxm_GtKhmGKMjbnWTpkXEsVAEILXg8auNxdgMZMlAveOmvz4wsKYZczlTjstLgkASVErhruR3EWtSfvIEa3e-m2DvUNBzid0uSZLiXg?ext=.ts
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SCIENCE HD
+http://195.175.224.219:6610/001/2/ch00000090990000001136/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001136&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=SVErhruR3EWtSfvIEa3e-m2DvUNBzid0uSZLiXg?ext=.ts
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY ID HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/106.ts
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY ID HD
+http://195.175.224.219:6610/001/2/ch00000090990000001205/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001205&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SHOWCASE HD
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SHOWCASE HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/54c34a1d8f66450.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",ANIMAL PLANET HD
 http://505plus.eu:8080/live/5656/5656/31668.ts
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BBC EARTH HD
-#EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://194.40.240.171:83/play/n6AYe30oDXrMtonQt5mlcAnHo-C56fKT3vlqOA6mUp0hY8rzxm_GtKhmGKMjbnWTMtpgAGwQEOau2ON9n53PC2FM6hh-Q3J2_A35jo1gDxEPCakbXRlC44wiTSz3KzxHNoVQ_li7r216yPckZ_Zwzw?ext=.ts
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",HISTORY HD
-#EXTVLCOPT:http-user-agent=stream
-http://194.40.240.171:83/play/x-QOorRu-2btTlfPIvqzPIobiTivc03QkKPUMeyGuGoNXSMQMCJR2AfeyI9TVuh092E4Tc6Agmr4LPrWY98bvA5WGr5BzBqt01GQu-03F3ZnniaaIpgY3A0-NV2bfABBVBqLKbR7zECi8a7XQN9VBg?ext=.ts
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",Viasat HISTORY HD
-#EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/65678
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN GURME HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BBC EARTH HD
+http://195.175.224.219:6610/001/2/ch00000090990000001352/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001352&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",HISTORY HD
+http://195.175.224.219:6610/001/2/ch00000090990000001173/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001173&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",Viasat HISTORY HD
+http://195.175.224.219:6610/001/2/ch00000090990000001771/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001771&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN GURME HD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/98.ts
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/107.ts
 
 
