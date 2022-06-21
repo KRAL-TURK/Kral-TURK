@@ -143,7 +143,7 @@ https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
-https://aeonian-wage.000webhostapp.com/kanal/showmax.php
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 
 
 #EXTM3U
