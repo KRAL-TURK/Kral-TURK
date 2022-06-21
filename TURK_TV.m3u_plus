@@ -84,7 +84,7 @@ https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
 https://dogus-live.daioncdn.net:443/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+http://ipshka03.dyndns.tv:80/tr04/mpegts?token=2ee3c067132c62
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
@@ -96,7 +96,7 @@ https://kanald.blutv.com/blutv_kanald_live/live.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+http://ipshka03.dyndns.tv:80/tr05/mpegts?token=2ee3c067132c62
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
