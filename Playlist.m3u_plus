@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="bein spor haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/11/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
+http://ipshka03.dyndns.tv:80/tr30/mpegts?token=2ee3c067132c62
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1735.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+http://dezonlineku.xyz:8080/live/13/13/3267.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+http://dezonlineku.xyz:8080/live/13/13/3060.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1735.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1737.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1739.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/7450.m3u8
+
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/8224.m3u8
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/16878.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1753.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/10167.m3u8
+
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1750.m3u8
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/50121.m3u8
+
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1746.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1748.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1749.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", BİR SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1 timeshift="1" tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV FHD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV FHD
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24712.ts
 #EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV HD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV HD
