@@ -563,3 +563,113 @@ http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/8178.mkv
 http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38302.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Üc Kurus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Üc Kurus
 http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/19743.mkv 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Yeni Hit Şarkılar" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Yeni Hit Şarkılar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71802
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2021 01" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2021 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/32242
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2021 02" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2021 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/55512
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2020 HITS" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2020 HITS
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18867
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2020 POP" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2020 POP
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23942
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 4K" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 4K
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/31482
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Alternatif & Rock" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Alternatif & Rock
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30722
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Ankara Havaları 2014" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Ankara Havaları 2014
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/21055
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Arabesk" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Arabesk
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23980
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - COVER" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - COVER
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30726
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Damar Şarkılar" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Damar Şarkılar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34802
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Enstrümental" tvg-logo="http://detr.eu:8000/images/8ce576dab6815a1d03084f2290410eee.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Enstrümental
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30725
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 01" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36117
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 02" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36118
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 03" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 03
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36119
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 04" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 04
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36120
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 05" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 05
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/57038
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 06" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 06
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/57039
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Halk 2020" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Halk 2020
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18868
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Karadeniz" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Karadeniz
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23978
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Oyun Havaları" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Oyun Havaları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/16195
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Remix" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Remix
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30723
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Slow" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Slow
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23981
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Sufi" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Sufi
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23982
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - TOPLİSTE" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - TOPLİSTE
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/27827
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Turan Müzikleri" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Turan Müzikleri
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/55607
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türk Dünyası Müzikleri" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türk Dünyası Müzikleri
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18718
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe Pop 01 2021" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe Pop 01 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34800
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe Pop 02 2021" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe Pop 02 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71794
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe RAP 01" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe RAP 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30637
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe RAP 02" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe RAP 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/37155
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe RAP 03" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe RAP 03
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/37156
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe RAP 04" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe RAP 04
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71799
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe RAP 05" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe RAP 05
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71800
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Özgün Müzik" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Özgün Müzik
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23979
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2019 HITS" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2019 HITS
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23977
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2017" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2017
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18829
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 2016" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 2016
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18871
+#EXTINF:-1 tvg-id="" tvg-name="Afacan Çocuk Şarkıları" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Afacan Çocuk Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/35799
+#EXTINF:-1 tvg-id="" tvg-name="Ay Ay Ayıcıklar" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Ay Ay Ayıcıklar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/35542
+#EXTINF:-1 tvg-id="" tvg-name="Can Bebek Çocuk Şarkıları | Little Angel Türkçe" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Can Bebek Çocuk Şarkıları | Little Angel Türkçe
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34191
+#EXTINF:-1 tvg-id="" tvg-name="Doru Atı  Şarkıları" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Doru Atı  Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30724
+#EXTINF:-1 tvg-id="" tvg-name="Emiray" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Emiray
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/12451
+#EXTINF:-1 tvg-id="" tvg-name="Minima  Çizgi Film ve Şarkıları" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:ÇOCUK TV KANALLARI",Minima  Çizgi Film ve Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23941
+#EXTINF:-1 tvg-id="" tvg-name="Zeynoş ile Adiş Bebek Şarkıları" tvg-logo="http://detr.eu:8000/images/86cd3850a5c89da2730ceb5ce086624e.png" group-title="TR:ÇOCUK TV KANALLARI",Zeynoş ile Adiş Bebek Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/75676
+#EXTINF:-1 tvg-id="" tvg-name="Zeynoş ile Adiş Çocuk Şarkıları" tvg-logo="http://detr.eu:8000/images/151a9507a54423d93e9bdad1914895e3.png" group-title="TR:ÇOCUK TV KANALLARI",Zeynoş ile Adiş Çocuk Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/75677
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - 4K Turkce Pop 2022" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - 4K Turkce Pop 2022
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79088
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe Pop  2022" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe Pop  2022
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79239
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe Pop 03 2021" tvg-logo="" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe Pop 03 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79240
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - Türkçe Pop 04 2021" tvg-logo="" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - Türkçe Pop 04 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79241
+#EXTINF:-1 tvg-id="" tvg-name="Ozan Arif" tvg-logo="http://detr.eu:8000/images/80d78c5ad5fc5c0c130c7cf96c7434f6.png" group-title="TR:MÜZİK TV KANALLARI",Ozan Arif
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79912
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - AŞK Şarkıları 01" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - AŞK Şarkıları 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/80154
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - AŞK Şarkıları 02" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - AŞK Şarkıları 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/80162
+#EXTINF:-1 tvg-id="" tvg-name="Müzik TV - AŞK Şarkıları 03" tvg-logo="http://detr.eu:8000/images/e8a915fda36b630588fac7527455fb6d.png" group-title="TR:MÜZİK TV KANALLARI",Müzik TV - AŞK Şarkıları 03
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/80163
