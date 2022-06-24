@@ -77,14 +77,14 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV HD
-http://techouspluslive.orgfree.com/canlitvtoken.php?channel=atv
+http://ipshka03.dyndns.tv:80/tr23/mpegts?token=2ee3c067132c62
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
 https://dogus-live.daioncdn.net:443/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
-http://techouspluslive.orgfree.com/canlitvtoken.php?channel=startv
+http://ipshka03.dyndns.tv:80/tr04/mpegts?token=2ee3c067132c62
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
@@ -96,7 +96,7 @@ https://kanald.blutv.com/blutv_kanald_live/live.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
-http://techouspluslive.orgfree.com/canlitvtoken.php?channel=showtv
+http://ipshka03.dyndns.tv:80/tr05/mpegts?token=2ee3c067132c62
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
@@ -110,7 +110,7 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
 http://195.175.224.218:6610/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
-http://techouspluslive.orgfree.com/canlitvtoken.php?channel=tv8
+http://ipshka03.dyndns.tv:80/tr11/mpegts?token=2ee3c067132c62
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 http://195.142.1.211:4002/udp/224.2.2.33:10001
 
