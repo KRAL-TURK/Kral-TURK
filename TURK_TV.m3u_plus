@@ -364,10 +364,10 @@ http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/45938.ts
 
 
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",ÖZEL YAPIM
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",AKSİYON
-https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",PLAY 1
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",PLAY 2
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",KOMEDI
 https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",BELGESEL
