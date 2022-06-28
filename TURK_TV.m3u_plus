@@ -278,11 +278,11 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.tr" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://www.superkabonet.com/yukleme/download/130.png" group -title="ÇOCUK KANALI",DISNEY CHANNEL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20160.ts
+http://dezonlineku.xyz:8080/live/13/13/3214.ts
 #EXTINF:-1 tvg-id="Disney.Junior.tr" tvg-name="TR: DISNEY JUNIOR" tvg-logo="https://w7.pngwing.com/pngs/94/960/png-transparent -logo-disney-junior-the-walt-disney-company-playhouse-disney-channel-disney-junior-text-logo-snout.png" group-title="ÇOCUK KANALI",DISNEY JUNIOR
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20161.ts
+http://dezonlineku.xyz:8080/live/13/13/3224.ts
 #EXTINF:-1 tvg-id="Disney.XD.tr" tvg-name="TR: DISNEY XD" tvg-logo="https://www.pngjoy.com/pngm/273/5225085_disney-xd-logo -new-disney-xd-logo-transparent.png" group-title="ÇOCUK KANALI",DISNEY XD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20162.ts
+http://dezonlineku.xyz:8080/live/13/13/3225.ts
 #EXTINF:-1 tvg-id="Cartoon.Network.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05 /cn-loho.png" group-title="ÇOCUK KANALI",CARTOON NETWORK
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20163.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="https://www.superkablonet.com/yukleme/download/351.png" group-title="ÇOCUK KANALI",MİNİKA ÇOCUK
