@@ -368,12 +368,29 @@ http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/45938.ts
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",PLAY 2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",KOMEDI
-https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",BELGESEL
-https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",NOSTALJI
-https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:-1,group-title="SİNEMA KANALLARI, SINEMA TV 1
+http://bit.ly/3GytGyk
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 2
+http://bit.ly/3GwxVu7
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AKSIYON
+http://bit.ly/3a93XjP
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AKSIYON 2
+http://bit.ly/3wXhGTL
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV YERLİ 1
+http://bit.ly/3N3z7Yk
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV YERLİ 2
+http://bit.ly/3LXuptR
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV KOMEDİ 1
+http://bit.ly/3N2PnbW
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV KOMEDİ 2
+http://bit.ly/3PR0I0A
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AİLE 2
+http://bit.ly/3N1fKiq
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AİLE 2
+http://bit.ly/38uoJdb
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 1001
+http://bit.ly/3lWMTjI
+#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 1002
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
