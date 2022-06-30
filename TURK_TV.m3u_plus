@@ -266,7 +266,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-http://195.189.60.227:9091/play/a033
+http://46.29.169.27:8000/play/a01k
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
@@ -287,26 +287,28 @@ http://dezonlineku.xyz:8080/live/13/13/3224.ts
 #EXTINF:-1 tvg-id="Disney.XD.tr" tvg-name="TR: DISNEY XD" tvg-logo="https://www.pngjoy.com/pngm/273/5225085_disney-xd-logo -new-disney-xd-logo-transparent.png" group-title="ÇOCUK KANALI",DISNEY XD
 http://dezonlineku.xyz:8080/live/13/13/3225.ts
 #EXTINF:-1 tvg-id="Cartoon.Network.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05 /cn-loho.png" group-title="ÇOCUK KANALI",CARTOON NETWORK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20163.ts
+http://195.175.224.218:6610/001/2/ch00000090990000001202/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001202&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="https://www.superkablonet.com/yukleme/download/351.png" group-title="ÇOCUK KANALI",MİNİKA ÇOCUK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20164.ts
+http://46.29.169.27:8000/play/a01k
 #EXTINF:-1 tvg-id="MinikaGO.tr" tvg-name="TR: MINIKA GO" tvg-logo="https://www.superkablonet.com/yukleme/download/349.png" group-title ="ÇOCUK KANALI",MINIKA GO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20165.ts
+http://46.29.169.27:8000/play/a01l
+
 #EXTINF:-1 tvg-id="BOOMERANG.HD.tr" tvg-name="TR: BOOMERANG TV" tvg-logo="https://www.fashionluxury.info/wp-content/uploads/2019/09 /217.png" group-title="ÇOCUK KANALI",BOOMERANG TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20166.ts
+http://195.175.224.219:6610/001/2/ch00000090990000001179/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001179&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="Baby.TV.tr" tvg-name="TR: BABY TV" tvg-logo="https://www.superkablonet.com/yukleme/download/278.png" grubu -title="ÇOCUK KANALI",BEBEK TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20167.ts
+http://195.175.224.218:6610/001/2/ch00000090990000001130/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001130&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="Nick.Jr..tr" tvg-name="TR: NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="ÇOCUK KANALI",NICK JR
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20168.ts
 #EXTINF:-1 tvg-id="TRT.Çocuk.tr" tvg-name="TR: TRT COCUK" tvg-logo="https://www.superkabonet.com/yukleme/download/350.png" grubu -title="ÇOCUK KANALI",TRT ÇOCUK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20169.ts
+http://46.29.169.27:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/14.png" group-title="ÇOCUK KANALI",SMART COCUK
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20170.ts
 #EXTINF:-1 tvg-id="Nickelodeon.HD.tr" tvg-name="TR: NICKELEDEON" tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-EE5D227F65-seeklogo. com.png" group-title="ÇOCUK KANALI",NICKELEDEON
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29312.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BBC CBEEBiES HD" tvg-logo="https://seeklogo.com/images/C/CBeebies-logo-AB52F45F3C-seeklogo.com.png " group-title="ÇOCUK KANALI",BBC CBEEBiES HD
 http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29407.ts
-
+#EXTINF:-1,NICKTOONS
+http://195.175.224.218:6610/001/2/ch00000090990000001214/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001214&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV İlkokul" tvg-logo="https://i.imgur.com/O8KPQ9J.png" group-title="ÇOCUK KANALI" , EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV Ortaokul" tvg-logo="https://i.imgur.com/G6Vo5OH.png" group-title="ÇOCUK KANALI" , EBA TV Ortaokul
