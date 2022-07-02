@@ -64,7 +64,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://46.29.169.27:8000/play/a019http://213.183.47.50:2085/play/TRT1uhdlutfendeisme/index.m3u8
+http://213.183.47.50:2085/play/TRT1uhdlutfendeisme/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://ipshka03.dyndns.tv:80/tr27/mpegts?token=2ee3c067132c62
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
