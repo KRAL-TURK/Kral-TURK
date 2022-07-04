@@ -16,10 +16,8 @@ http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1735.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
 http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1737.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
 http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1739.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
 http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/7450.m3u8
 
@@ -47,13 +45,10 @@ http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/1749.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
@@ -61,13 +56,12 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
-
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
 http://213.183.47.50:2085/play/TRT1uhdlutfendeisme/index.m3u8
-
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://ipshka03.dyndns.tv:80/tr27/mpegts?token=2ee3c067132c62
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
@@ -129,28 +123,22 @@ http://213.172.73.171:8081/nimble_live/1166__TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa 
 http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/296360.m3u8
-
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV UHD
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
@@ -320,8 +308,6 @@ https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
 https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/U7sTha8.png" group-title="ÇOCUK KANALI" , EBA TV Lise
 https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-
-
 
 
 #EXTM3U
