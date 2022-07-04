@@ -54,679 +54,682 @@ http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1 timeshift="1" tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV FHD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24712.ts
-#EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="TR: FOX TV HD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/f/fox_tv_logo.png" group-title="TR ⟾ ULUSAL",TR: FOX TV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24711.ts
-#EXTINF:-1 timeshift="1" tvg-id="TURKTV8" tvg-name="TR: TV 8 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/386.png" group-title="TR ⟾ ULUSAL",TR: TV 8 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24714.ts
-#EXTINF:-1 tvg-id="TURKTV8" tvg-name="TR: TV 8 HD" tvg-logo="https://www.superkablonet.com/yukleme/download/386.png" group-title="TR ⟾ ULUSAL",TR: TV 8 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24713.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/595.png" group-title="TR ⟾ ULUSAL",TR: TV 8.5 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25508.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" tvg-logo="https://www.superkablonet.com/yukleme/download/595.png" group-title="TR ⟾ ULUSAL",TR: TV 8.5 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24715.ts
-#EXTINF:-1 timeshift="1" tvg-id="ATV.HD.tr" tvg-name="TR: ATV FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/391.png" group-title="TR ⟾ ULUSAL",TR: ATV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24717.ts
-#EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="TR: ATV HD" tvg-logo="https://www.superkablonet.com/yukleme/download/391.png" group-title="TR ⟾ ULUSAL",TR: ATV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24716.ts
-#EXTINF:-1 timeshift="1" tvg-id="Star.TV.HD.tr" tvg-name="TR: STAR TV FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/389.png" group-title="TR ⟾ ULUSAL",TR: STAR TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24720.ts
-#EXTINF:-1 tvg-id="Star.TV.HD.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://www.superkablonet.com/yukleme/download/389.png" group-title="TR ⟾ ULUSAL",TR: STAR TV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24719.ts
-#EXTINF:-1 timeshift="1" tvg-id="Show.TV.HD.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/392.png" group-title="TR ⟾ ULUSAL",TR: SHOW TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24723.ts
-#EXTINF:-1 tvg-id="Show.TV.HD.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://www.superkablonet.com/yukleme/download/392.png" group-title="TR ⟾ ULUSAL",TR: SHOW TV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24722.ts
-#EXTINF:-1 timeshift="1" tvg-id="Kanal.D.HD.tr" tvg-name="TR: KANAL D FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/390.png" group-title="TR ⟾ ULUSAL",TR: KANAL D FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24726.ts
-#EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://www.superkablonet.com/yukleme/download/390.png" group-title="TR ⟾ ULUSAL",TR: KANAL D HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24725.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="https://ewsat.com/img/TRT.png" group-title="TR ⟾ ULUSAL",TR: TRT 4K
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24734.ts
-#EXTINF:-1 timeshift="1" tvg-id="TRT1ENG" tvg-name="TR: TRT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/2560px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ⟾ ULUSAL",TR: TRT 1 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24728.ts
-#EXTINF:-1 tvg-id="TRT1ENG" tvg-name="TR: TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/2560px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ⟾ ULUSAL",TR: TRT 1 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/96387.ts
-#EXTINF:-1 tvg-id="TRT.2.HD.tr" tvg-name="TR: TRT 2" tvg-logo="data:image/png;base64,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" group-title="TR ⟾ ULUSAL",TR: TRT 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24729.ts
-#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TR: TRT AVAZ" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.03/0285e2cef9cc4c6ab30d98932257ec99.png" group-title="TR ⟾ ULUSAL",TR: TRT AVAZ
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24730.ts
-#EXTINF:-1 tvg-id="TRT.TURK.tr" tvg-name="TR: TRT TURK HD" tvg-logo="https://www.superkablonet.com/yukleme/download/375.png" group-title="TR ⟾ ULUSAL",TR: TRT TURK HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24731.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD" tvg-logo="https://www.superkablonet.com/yukleme/download/377.png" group-title="TR ⟾ ULUSAL",TR: TRT WORLD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24732.ts
-#EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="TR: BEYAZ TV" tvg-logo="https://seeklogo.com/images/B/beyaz-tv-logo-A2FCBFD73E-seeklogo.com.png" group-title="TR ⟾ ULUSAL",TR: BEYAZ TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24735.ts
-#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/388.png" group-title="TR ⟾ ULUSAL",TR: KANAL 7 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24736.ts
-#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="TR: Kanal 7 HD" tvg-logo="https://www.superkablonet.com/yukleme/download/388.png" group-title="TR ⟾ ULUSAL",TR: Kanal 7 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/51960.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo="https://www.kolaytv.biz/kanal-7-avrupa.png" group-title="TR ⟾ ULUSAL",TR: KANAL 7 AVRUPA
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24737.ts
-#EXTINF:-1 tvg-id="A2TURKH" tvg-name="TR: A2 TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106299_ll_h3_aa.png" group-title="TR ⟾ ULUSAL",TR: A2 TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24738.ts
-#EXTINF:-1 tvg-id="Teve2.HD.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/198.png" group-title="TR ⟾ ULUSAL",TR: TEVE 2 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47706.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD" tvg-logo="https://www.superkablonet.com/yukleme/download/198.png" group-title="TR ⟾ ULUSAL",TR: TEVE 2 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24739.ts
-#EXTINF:-1 tvg-id="SHOWMAX" tvg-name="TR: SHOW MAX" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="TR ⟾ ULUSAL",TR: SHOW MAX
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32482.ts
-#EXTINF:-1 tvg-id="AVRPTU" tvg-name="TR: ATV Avrupa" tvg-logo="http://fanc.tmsimg.com/assets/s96483_ll_h3_ab.png" group-title="TR ⟾ ULUSAL",TR: ATV Avrupa
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32483.ts
-#EXTINF:-1 tvg-id="EUROSTU" tvg-name="TR: EURO STAR TV" tvg-logo="http://fanc.tmsimg.com/assets/s96487_ll_h3_an.png" group-title="TR ⟾ ULUSAL",TR: EURO STAR TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62049.ts
-#EXTINF:-1 tvg-id="EURODTU" tvg-name="TR: EURO D" tvg-logo="http://fanc.tmsimg.com/assets/s96482_h3_aa.png" group-title="TR ⟾ ULUSAL",TR: EURO D
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62050.ts
-#EXTINF:-1 tvg-id="TRT.Haber.HD.tr" tvg-name="TR: TRT HABER FHD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" group-title="TR ⟾ HABER",TR: TRT HABER FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24748.ts
-#EXTINF:-1 tvg-id="HALKTU" tvg-name="TR: HALK TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s98960_ll_h3_ab.png" group-title="TR ⟾ HABER",TR: HALK TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24740.ts
-#EXTINF:-1 tvg-id="TELE.1.HD.tr" tvg-name="TR: TELE 1 HD" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR ⟾ HABER",TR: TELE 1 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24753.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://www.superkablonet.com/yukleme/download/509.png" group-title="TR ⟾ HABER",TR: ULUSAL KANAL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/63068.ts
-#EXTINF:-1 tvg-id="KRT.TV.HD.tr" tvg-name="TR: KRT TV FHD" tvg-logo="http://sttc.medyaalemi.com.tr/i/haber/krt_top_740x410.jpg" group-title="TR ⟾ HABER",TR: KRT TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/99111.ts
-#EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="TR: TV 100 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/600.png" group-title="TR ⟾ HABER",TR: TV 100 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/45882.ts
-#EXTINF:-1 tvg-id="NTV.HD.tr" tvg-name="TR: NTV HABER FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/374.png" group-title="TR ⟾ HABER",TR: NTV HABER FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24741.ts
-#EXTINF:-1 tvg-id="CNNTURK" tvg-name="TR: CNN TURK FHD" tvg-logo="https://epghizmeti.com/logo_0xb/29.png" group-title="TR ⟾ HABER",TR: CNN TURK FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24742.ts
-#EXTINF:-1 tvg-id="HATURK" tvg-name="TR: HABERTURK FHD" tvg-logo="https://epghizmeti.com/logo_0xb/31.png" group-title="TR ⟾ HABER",TR: HABERTURK FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24743.ts
-#EXTINF:-1 tvg-id="HABER.GLOBAL.HD.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Haber_Global_logosu.png" group-title="TR ⟾ HABER",TR: HABER GLOBAL FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/60868.ts
-#EXTINF:-1 tvg-id="A.Haber.HD.tr" tvg-name="TR: A HABER FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/367.png" group-title="TR ⟾ HABER",TR: A HABER FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24747.ts
-#EXTINF:-1 tvg-id="Ülke.TV.HD.tr" tvg-name="TR: ULKE TV FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/75.png" group-title="TR ⟾ HABER",TR: ULKE TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24750.ts
-#EXTINF:-1 tvg-id="KANAL.24.HD.tr" tvg-name="TR: KANAL 24 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/373.png" group-title="TR ⟾ HABER",TR: KANAL 24 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24751.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKIT TV FHD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZcAAAB8CAMAAACSTA3KAAABMlBMVEX///+dEgCZAADAXFH45uSyY2OWAAD29vbq6uqbDwCfAAD/19GbgYHy8fG5uLiMEQBkAACSb2ziwb5TAACREQDx4N3x7OumLySTAAD++vncs69cAAB6DAC3XlhtAACYEgChJBtuNC+EEACigX5wQ0FOAADc0c+qOC3n3dzrz8t1CABfIBzLt7SNAABFAACFAACyl5WeGRFpDQDIiIN4AABgAAC9cGmvS0SsPzbXp6Lr09BBAAC4oqC/dG3e3t7cu7rTgXjjjoWjcnLyqaHNzc3ALBaWJh+INy99IhyxUkyhPTiQRULLj4qFGBDNm5V6QT5WFA60eXKaVVBqNzOOYV1xKCIxAABcIyDAlI+JZGKvhH/RvryiZ2GukIyfR0KUMSuQWlfFn5qBOza4qqrFQTLxwr132EbsAAANlklEQVR4nO2dC3faOBbHbS91quxSCA9jhwQICYEQHiEQIIRMZru706FNk7bpbB9ptjPT3e//FdbmKVtXsmRoIYn+58w5cxqw5PvT4+rqSiiKlJSUlJSUlJSUlJSUlJSUlJSU1FRW6FHIWradBXXR/suj0M9/9bz42lLMzam1J9ojkb7+d9ebP326JJNz6bmmPhbp2j+wF3/6z6XZnENPW8u21g+U/i9sjnkWXp7V/XWnL9tYP1BofTbFhJ8t0er++tvjGcYkl1WV5LKaklxWU5LLakpyWU09ci6IuuRezGNQ4IoF49JbQmTtO3BBqWIKVlHoOZSH2ApcsyBcDjqdh8HFjFFLe2ny2xAlaU8xfskGq1kALrGBqW8/EC6b1NJe1PktyuDya90ZyhBV1EcKcrFiA3vs1R4+l51ygvsxDC6HWw7eHE0NGhhBLrFt3bHOY+CSWQyXss1FjxkUbVYpYIS4HNgj2PBbkovbiH5cDmh/vygnYDACXGJdc2IZycVtxMBcKun8fFysi4E+s4vk4jZicC6FubjYs72JW0VycRtxSVw8VCQXj5bCxYoVTa9FJBeXlsLlgqAiuXi0FC6bwLa65OKS5LJgmafU0iQXXkkuLkkuvsr2rDCotdIHh4spuYhpQVzUl6+u92CdbEku2FvhG4j0YPrCuOj1VgbWVgTJcUxFmq6bpq6pqW5nMNi2Neh0iw3N+Ucd2NRdFBc1m6DJCfMzuWRVaC8mKJd5DBxQbC4OEi3VaTdPL3pJw8JlhHqx08vzQUrzwuHngvQ5VKVzib9uTJTj42IlhwqdAubQBsmZjCSkEFiPEP9HRbjYVst1zk97zAM9Vqi32exksfArPxcNbcaC68KglbJWwuzwEusBdC4hnZHSgQ3g1VhRBzJBcqCJOsBHq3TjuETjgnSzcR7jhKskr1LV6YN4uWgaPRHAlkH1k0VkvcK2rhlcOJNsqrErKEUB9EGSwDORxllvChddO6cOE7BigwkZTi5alllC6bgvVgFY1nVrViSLCxcW1YwZOYCgfg4UfQrMVfolZ71BLprWDNBYN7+aAlx8sNy+qVXEq0DK2ssslovShFyDLjCodshnogbvCARx0buCfWXyck+q3Fw0xCyjUotHLwJVwqPFc0lCJ4b0HlFySCc7lt7mrTfAxWxTZ1Q/I7ytO9+/on5gysUHy9FZulynhz9FqrRwLso21JSbRMmnwERE9+29IrmYZBH8eltHPFy0Btm+ZrI+nZ2UI4ywtIC+A5cYYHCtSxQM4BNYCRFcwCmM3wzv6hxc2FiMvdrxVgLpq8pFyUGLHO8bQU9kZKJ65eWiFecLOpReJ3y5aFkWltJewcGiri6XK8jR8r404I2J2NbDBWnBpvyZPrf8uLB7y+2HwnHeMeXqcoEWO1rRU/A2yYVhGEIeLvwOA02laJ3NhY2lX4sf54crwQVxuV48F+Uc6jBuDzhJJuMiTWAo8nBhdpdwad9WqcQ8+G4v5JhctBRraXRnO2KR0QJ9MVyU79BflJ5/tBYYxgCfjS43F3B9NJZxd/MmHo+n3xzuvO8zPOmNKItLNcfAEt5wHLFx3ITBpbKxu7u7UaI+pv9toso3PFV9UVwgV9njawGf0EXW6m4uDGds/6aWPi5vOSpnor/dUj94FGdwif7CGMSM90NHbFIXOpfds3Q6XaA+qfTvQnyq6BZXfIwZt8TCjqNKxcjegDS8rYbIYUxsu8DNhb5UNw7t6TiSyA6VSNRfU59YqX2k/m3nV0abKX1wHLFZG2FwiecjkTqdS+04PxOWQ87gkis66qYAMKjRLU7UGPUX6yWwHMdtB+zj6PxOskJwocY+7mrj6Xhc1zq1lFs6F+uaOvbY3zuLjxwxDi7pCGLsI5cKdq+DDin574sBHUHVAF8IWMy7XKYBwU0TOw3oGceukvugSjvpLddRryqVyz6DC2Na6hfSZZy8DxdWTMPmAh9LW9w+skGOeCg388gswEkWc2O8/lg9mo5DsudjvA56l0q/xBjH6NqtTR2x+8AFiipjA9Um0Z20oljQ0buuTOS3QOUxo2m6uc3w2wJwGUXE3MZcbS495kDWJqOOvBsvYxHxMZSFhUbbqbppasUmM7wlzmUcEfO8pg8X5vzy3bkAuysoNWmsxrp3lHN7axziyIcZ3kHoJFfkup3t86uLJHsCCxc+i1VBMW5sp4I4erfa/QXyEKb74uQwJhwNZnFBDg+tUbRpXJ7GeqGQYXH4FGvCXJRv8TyZv7TiXKwu6XJNjE/GaYB9M7aoeRf2iKWlBs3Ng6QhFmG2xLkon8ukIefyk78/F4VMwECN0V9CxCqI3J7xE8gF6eb64Io7G8atIFyUL3VBLkvvL/ZSlHCVx02FfIguvCcOcEE6am8G3Uq2FYSL9YoAs+pcAFd5HJkkvDGNvqqgifTH9NzlfJlbQbgopRfV+8aFTMAYbcIYxDCmcybzYSL2K/XzYMPXTIG4KPstjy1XngsQMzadFk14aiglblLvvlhKKLoGKhgXpVK+T+tKR2QCxnBHsu19RpBMFk98jLGO51ZALsrHlqv/rz4XMgFDG1iKRSwq9QAjkIuLQMzTov/oQFAutlOGv9GKr/cdkZuSWpLsRVA82lc4F7TOCdYqfftEzx4OzCX8Cp/770F/IXe/7Bm+6e1E9AbEEM6Fy22wSrd3e7Va7Y76icBclNJrDMw94EIu7LVtRfWw0lJ8L+8WxsVvUWoT6X/aiddqhZPjrdYf1M8F56KUMKfsPnAhjlKgIjG2BcsfwbgQqWm4rNsNJ+0iHT0ub+XzkUSVXlr8eZCKjHQ7A3MfuJBZYsgbBQiYKDnjwrjoc5gSET/J2Egizh6/XbRJD8T5cCkxXb7P02NEwed95eSHcSGjysSMI5DMh2nGhZWjFL6pHZeHaRfT0umPZHPZr20wKzSNlAXvL8pdFD5ey3FvD8RlQOdiAYdc3EXmgi3TMS6MZnF35tkgYeWoMblUztJp+tSkjDLPubiw3JznLXNyPHb+vAvE2gKGTlPgEkrmwzTjwti6sd6nXSkRKmowxjwGF+uoli7n6RlGjoxxpMy3v7AiE73L8/ZI+Hjvz6UHHToicvXxNyJWkR4uAWONGBc6Wev9ScRdGmvQTNO59IdprvpX5lS43zLn5jKV9R+TJ39soiR4rHEykhgHZJnQsT78qzyVBMTFRblLuwZss80yLIPLUaHsXFVRfcusU2XolPmOY1z+p/UKc739uYTA1q93Nnu92FW7aA6IbySB43qYpYKGG7nGMSX85yx2hbQq+2KONwwu8dENIXXmFDOKlPn2Fy5HhzOffyIyRj9q9ubwyg8ELfHIFD7sezmeOkLC5n2G22H7rwnn0hEn/6Kx7dNQDxlcxjfoIvplFaPS6sxzSUMuGlcqA+f5l+nH2f4V5IZCrsK0rYtvvIyFrV/YuwShzWZ7u928OvDd7j/8Qv3ThIuqf2WuYsK2U+bLhRxTAAlyAY+2YFyAIywMlAi+B4NH+Hp//q2XoXi4qOYT5jOM16YfF76XFuUCXmcxewAUsqe7ykGdZMXNZe6zYiPt8HBR6+zsv/0WI9Iz5MLngopyOWCvR6BFk0H7nQZmBMVHGBcknOQE6+YLtSFjXNQ6e4qptPy4MO5vmEmUiwJP/FMuUKUuKWPfPEe7XXH+xVy0xclF+8qOUHym+2wjLmxHZSxhLuyBDGwL4A0YaoBkPkyu/coq2311a5+2Y3nzOxcXvynGog8CIy5cKxhhLsAJCtzUYPo3dAMGZ7uhyb2/X+fPP+vXaGeMPnFyUatBDmQ4GuZbOjO///gtzIUd8YKdc+gGDOETL265uSCfBd9Upb2zOO2IpfGFuvfv5oIEmoFL4/6i6hFfMOJclCYDDMU5B2/ACLRPOZEnTylb/8KREWPsvikcZ6itvcTZX1QUCZZ+M+GimvU/fMaKAFyspkkdyiiZk+BVY4HXlI68eX3Z+ouKzw/Tl+4+FE7K+WoAL8HDRTXfBRqCp1xUs/WuwmQrGIcZ6bRBCXohDb4bwUhpxI/PiZ54cYvMg61m/jyiP9K63YjXbCqRrOjJNEf9uOcG3eplmPYrYXSFx/PLqB1lftut0Hso570KHoWaqqnjdxE7Z7KcI1lqB37ppum9yHK++4+gvHH7VaPXR7fEtD7Mu4jX4s7OpROjRU+ebwjqOuq92bjaOgHPczKVxu9KsKt7kj6+fk8p8pDrXgVCVuxyu7iumSPpWqO73TyNUaczK0RovvuPoHMWKBtpZU6iO79v3PUrt7Yqlf7uxu876ULBuVohnxhHzs1WJiqmzJZ3g5d6oJMp9y5d1n5GmVaVTF4kzu+1dvIgFosd9ETPAM0v+FwSyiYiedvqJ+mhnCaajmaGeReJLMIMEhFUgkyIwA9xJhLT/xv/59Hkn8n6Jmh14bpXYeVEP8fnvGskMrs3wn5Dm0ng34xeBT0ILqM3seUcRmb8uO090sPh8rAkuaymJJfVlOSymrpHXL55j5s+ZOEHfNZWm4uSWV+2tX6c9P9iL/7sp6XZnEf96qMBo63/D3vx8DP6UcRVUL8O/dLMA5Suujeqws9+Cq8tUX5gwh+fPApdETGup0uVf3ddwu/N/Xg9ipeUkpKSkpKSkpKSkpKSkpKSkvLX/wF16iEOCGnJXQAAAABJRU5ErkJggg==" group-title="TR ⟾ HABER",TR: AKIT TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/99787.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/371.png" group-title="TR ⟾ HABER",TR: TGRT HABER FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24749.ts
-#EXTINF:-1 tvg-id="360.HD.tr" tvg-name="TR: TV 360 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/369.png" group-title="TR ⟾ ULUSAL",TR: TV 360 FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24752.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK HD" tvg-logo="https://www.superkablonet.com/yukleme/download/581.png" group-title="TR ⟾ HABER",TR: BENGUTURK HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62040.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/582.png" group-title="TR ⟾ HABER",TR: A PARA FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/60867.ts
-#EXTINF:-1 tvg-id="A2TURKH" tvg-name="A2 TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s106299_ll_h3_aa.png" group-title="TR ⟾ ULUSAL",A2 TV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/149324.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="TR ⟾ ULUSAL",TR: KON TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/150625.ts
-#EXTINF:-1 tvg-id="TV5.Monde.Europe.tr" tvg-name="TR: TV 5" tvg-logo="" group-title="TR ⟾ HABER",TR: TV 5
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/156808.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Flash TV ( Yalan Makinası)" tvg-logo="https://pbs.twimg.com/profile_images/378800000618419302/fe298754651d10990729342efa4634bf_400x400.jpeg" group-title="TR ⟾ ULUSAL",TR: Flash TV ( Yalan Makinası)
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/166884.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FX" tvg-logo="https://www.superkablonet.com/yukleme/download/520.png" group-title="TR ⟾  SINEMA",TR: FX
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20353.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME" tvg-logo="https://www.superkablonet.com/yukleme/download/176.png" group-title="TR ⟾  SINEMA",TR: FOX CRIME
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32023.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/k/F2/11913/Thumbnail.png?v=636987852570463393" group-title="TR ⟾  SINEMA",TR: DIZI SMART MAX
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/58906.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİ SMART PREMİUM" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/12.png" group-title="TR ⟾  SINEMA",TR: DİZİ SMART PREMİUM
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62043.ts
-#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="TR: BEIN MOVIES ACTION 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/action_hd.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES ACTION 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20332.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2" tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES ACTION 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20333.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMILY" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES FAMILY
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20334.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 1" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/271/Image/movies_premierhd_205x150_.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES PREMIERE 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20335.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-2-logo.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES PREMIERE 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20336.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES STARS" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES STARS
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20337.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK" tvg-logo="https://www.izle9.com/uploads/icerik/23257wVk72JPuxdDMEmsXWYo8mnTB8fdCWEum0fTPxR0y.png" group-title="TR ⟾  SINEMA",TR: BEIN MOVIES TURK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20338.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-comedy-logo.png" group-title="TR ⟾  SINEMA",TR: BEIN SERIES COMEDY
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20339.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES DRAMA" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/drama_hd.png" group-title="TR ⟾  SINEMA",TR: BEIN SERIES DRAMA
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20340.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI FI" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/sci_fi_hd.png" group-title="TR ⟾  SINEMA",TR: BEIN SERIES SCI FI
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20341.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/vice_hd.png" group-title="TR ⟾  SINEMA",TR: BEIN SERIES VICE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20342.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK" tvg-logo="https://tr.wikipedia-on-ipfs.org/I/m/Logo_of_MovieSmart_Türk.png" group-title="TR ⟾  SINEMA",TR: MOVIE SMART TURK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20351.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART CLASSİC" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/9.png" group-title="TR ⟾  SINEMA",TR: MOVIE SMART CLASSİC
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62041.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV" tvg-logo="https://www.superkablonet.com/yukleme/download/168.png" group-title="TR ⟾  SINEMA",TR: SINEMATV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20355.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV AILE" tvg-logo="https://www.superkablonet.com/yukleme/download/170.png" group-title="TR ⟾  SINEMA",TR: SINEMATV AILE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20356.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV AKSIYON" tvg-logo="https://www.superkablonet.com/yukleme/download/173.png" group-title="TR ⟾  SINEMA",TR: SINEMATV AKSIYON
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20357.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV YERLI" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="TR ⟾  SINEMA",TR: SINEMATV YERLI
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20359.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV KOMEDİ" tvg-logo="https://www.superkablonet.com/yukleme/download/172.png" group-title="TR ⟾  SINEMA",TR: SINEMATV KOMEDİ
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62042.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMATV 1001" tvg-logo="https://www.superkablonet.com/yukleme/download/171.png" group-title="TR ⟾  SINEMA",TR: SINEMATV 1001
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20354.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosat Exxen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR ⟾  SINEMA",TR: Eurosat Exxen HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/97130.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosat Blutv HD" tvg-logo="" group-title="TR ⟾  SINEMA",TR: Eurosat Blutv HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/97131.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS KEMAL SUNAL 1" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS KEMAL SUNAL 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30343.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS KEMAL SUNAL 2" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS KEMAL SUNAL 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30344.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS YESILCAM" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS YESILCAM
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30345.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 1" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30346.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 2" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30347.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 3" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 3
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30348.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 4" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 4
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30349.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 5" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 5
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30350.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 6" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 6
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30351.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 7" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 7
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30352.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 8" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 8
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30353.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 9" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 9
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30354.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 10" tvg-logo="" group-title="TR ⟾  SINEMA",TR: BOSS MOVIES 10
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30355.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 1" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO ViZYON 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30295.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 2" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO ViZYON 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30296.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 3" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO ViZYON 3
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30297.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 4" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 4
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30298.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 5" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 5
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30299.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 6" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 6
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30300.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 7" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 7
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30301.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 8" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 8
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30302.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 9" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 9
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30303.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 10" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾  SINEMA",TR: ENO VIZYON 10
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30304.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 1" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30356.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 2" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30357.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 3" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 3
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30358.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 4" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 4
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30359.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 5" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 5
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30360.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 6" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 6
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30361.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 7" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 7
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30362.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 8" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 8
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30363.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 9" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 9
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30364.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 10" tvg-logo="" group-title="TR ⟾  SINEMA",TR: SINEVIZYON 10
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30365.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 1" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30388.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 2" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30389.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 3" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 3
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30390.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 4" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 4
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30391.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 5" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 5
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30392.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 6" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 6
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30393.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 7" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 7
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30394.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 8" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 8
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30395.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 9" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 9
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30396.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 10" tvg-logo="" group-title="TR ⟾  SINEMA",TR: MULTIVIZYON 10
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30397.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gibi" tvg-logo="" group-title="TR ⟾  SINEMA",24/7 Gibi
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/147870.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Konuşanlar" tvg-logo="" group-title="TR ⟾  SINEMA",24/7 Konuşanlar
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/147871.ts
-#EXTINF:-1 tvg-id="Nat.Geo.Wild.HD.tr" tvg-name="TR: NAT GEO WILD FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/184.png" group-title="TR ⟾ BELGESEL",TR: NAT GEO WILD FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20137.ts
-#EXTINF:-1 tvg-id="National.Geographic.HD.tr" tvg-name="TR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Channel-logo-F53F22661B-seeklogo.com.png" group-title="TR ⟾ BELGESEL",TR: NATIONAL GEOGRAPHIC FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20138.ts
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.tr" tvg-name="TR: DISCOVERY CHANNEL FHD" tvg-logo="https://logosvector.net/wp-content/uploads/2014/10/discovery-channel-logo.png" group-title="TR ⟾ BELGESEL",TR: DISCOVERY CHANNEL FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20143.ts
-#EXTINF:-1 tvg-id="Discovery.Science.HD.tr" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/282.png" group-title="TR ⟾ BELGESEL",TR: DISCOVERY SCIENCE FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20144.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY ID FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/284.png" group-title="TR ⟾ BELGESEL",TR: DISCOVERY ID FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20145.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SCIENCE&VIE TV FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/141.png" group-title="TR ⟾ BELGESEL",TR: SCIENCE&VIE TV FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/59874.ts
-#EXTINF:-1 tvg-id="beIN.İZ.HD.tr" tvg-name="TR: B**N IZ FHD" tvg-logo="https://seeklogo.com/images/B/bein-iz-logo-A358CCCC26-seeklogo.com.png" group-title="TR ⟾ BELGESEL",TR: B**N IZ FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/45938.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY FHD" tvg-logo="https://live.staticflickr.com/8192/8429717413_ecd7978d5c_b.jpg" group-title="TR ⟾ BELGESEL",TR: HISTORY FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47767.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY FHD" tvg-logo="https://seeklogo.com/images/D/discuss-viasat-history-hd-logo-8C49AE75F4-seeklogo.com.png" group-title="TR ⟾ BELGESEL",TR: VIASAT HISTORY FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47768.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE" tvg-logo="https://vektor-plus.com/images/logoKanalov/explorer.png" group-title="TR ⟾ BELGESEL",TR: VIASAT EXPLORE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/64490.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" group-title="TR ⟾ BELGESEL",TR: LOVE NATURE FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/59869.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/139.png" group-title="TR ⟾ BELGESEL",TR: ANIMAUX FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62038.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CHASSE & PECHE" tvg-logo="https://www.superkablonet.com/yukleme/download/226.png" group-title="TR ⟾ BELGESEL",TR: CHASSE & PECHE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32019.ts
-#EXTINF:-1 tvg-id="BBC.EARTH.HD.tr" tvg-name="TR: BBC EARTH" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR ⟾ BELGESEL",TR: BBC EARTH
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20152.ts
-#EXTINF:-1 tvg-id="DMAX.HD.tr" tvg-name="TR: DMAX FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/572.png" group-title="TR ⟾ BELGESEL",TR: DMAX FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20147.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/245.png" group-title="TR ⟾ BELGESEL",TR: TLC FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20148.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN FHD" tvg-logo="https://seeklogo.com/images/1/24kitchen-logo-127DAD4D6E-seeklogo.com.png" group-title="TR ⟾ BELGESEL",TR: 24 KITCHEN FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20150.ts
-#EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="TR: B**N GURME FHD" tvg-logo="https://seeklogo.com/images/B/bein-gurme-logo-3FA51981B3-seeklogo.com.png" group-title="TR ⟾ BELGESEL",TR: B**N GURME FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20151.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DAVINCI LEARNING" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png" group-title="TR ⟾ BELGESEL",TR: DAVINCI LEARNING
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32020.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCU BOX HD" tvg-logo="https://www.superkablonet.com/yukleme/download/489.png" group-title="TR ⟾ BELGESEL",TR: DOCU BOX HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/32021.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FAST & FUNBOX HD" tvg-logo="https://www.superkablonet.com/yukleme/download/490.png" group-title="TR ⟾ BELGESEL",TR: FAST & FUNBOX HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/59870.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="TR ⟾ BELGESEL",TR: TRT BELGESEL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20156.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTycnsuNZ9TVT6EiYh17bGFzpPMQMplcC9R0YZZ=s900-c-k-c0x00ffffff-no-rj" group-title="TR ⟾ BELGESEL",TR: TGRT BELGESEL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/73753.ts
-#EXTINF:-1 tvg-id="Disney.Channel.tr" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://www.superkablonet.com/yukleme/download/130.png" group-title="TR ⟾ COCUK",TR: DISNEY CHANNEL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20160.ts
-#EXTINF:-1 tvg-id="Disney.Junior.tr" tvg-name="TR: DISNEY JUNIOR" tvg-logo="https://w7.pngwing.com/pngs/94/960/png-transparent-logo-disney-junior-the-walt-disney-company-playhouse-disney-channel-disney-junior-text-logo-snout.png" group-title="TR ⟾ COCUK",TR: DISNEY JUNIOR
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20161.ts
-#EXTINF:-1 tvg-id="Disney.XD.tr" tvg-name="TR: DISNEY XD" tvg-logo="https://www.pngjoy.com/pngm/273/5225085_disney-xd-logo-new-disney-xd-logo-transparent.png" group-title="TR ⟾ COCUK",TR: DISNEY XD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20162.ts
-#EXTINF:-1 tvg-id="Cartoon.Network.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/cn-loho.png" group-title="TR ⟾ COCUK",TR: CARTOON NETWORK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20163.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="https://www.superkablonet.com/yukleme/download/351.png" group-title="TR ⟾ COCUK",TR: MINIKA COCUK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20164.ts
-#EXTINF:-1 tvg-id="MinikaGO.tr" tvg-name="TR: MINIKA GO" tvg-logo="https://www.superkablonet.com/yukleme/download/349.png" group-title="TR ⟾ COCUK",TR: MINIKA GO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20165.ts
-#EXTINF:-1 tvg-id="BOOMERANG.HD.tr" tvg-name="TR: BOOMERANG TV" tvg-logo="https://www.fashionluxury.info/wp-content/uploads/2019/09/217.png" group-title="TR ⟾ COCUK",TR: BOOMERANG TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20166.ts
-#EXTINF:-1 tvg-id="Baby.TV.tr" tvg-name="TR: BABY TV" tvg-logo="https://www.superkablonet.com/yukleme/download/278.png" group-title="TR ⟾ COCUK",TR: BABY TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20167.ts
-#EXTINF:-1 tvg-id="Nick.Jr..tr" tvg-name="TR: NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="TR ⟾ COCUK",TR: NICK JR
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20168.ts
-#EXTINF:-1 tvg-id="TRT.Çocuk.tr" tvg-name="TR: TRT COCUK" tvg-logo="https://www.superkablonet.com/yukleme/download/350.png" group-title="TR ⟾ COCUK",TR: TRT COCUK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20169.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/14.png" group-title="TR ⟾ COCUK",TR: SMART COCUK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/20170.ts
-#EXTINF:-1 tvg-id="Nickelodeon.HD.tr" tvg-name="TR: NICKELEDEON" tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-EE5D227F65-seeklogo.com.png" group-title="TR ⟾ COCUK",TR: NICKELEDEON
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29312.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC CBEEBiES HD" tvg-logo="https://seeklogo.com/images/C/CBeebies-logo-AB52F45F3C-seeklogo.com.png" group-title="TR ⟾ COCUK",TR: BBC CBEEBiES HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/29407.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA TV HD ORTAOKUL" tvg-logo="https://www.superkablonet.com/yukleme/download/610.png" group-title="TR ⟾ COCUK",TR: TRT EBA TV HD ORTAOKUL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/40711.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA TV HD ILKOKUL" tvg-logo="https://www.superkablonet.com/yukleme/download/609.png" group-title="TR ⟾ COCUK",TR: TRT EBA TV HD ILKOKUL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/40712.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA TV HD LISE" tvg-logo="https://www.superkablonet.com/yukleme/download/611.png" group-title="TR ⟾ COCUK",TR: TRT EBA TV HD LISE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/40713.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 1" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾ COCUK",TR: ENO COCUK 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30268.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 2" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾ COCUK",TR: ENO COCUK 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30269.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 3" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾ COCUK",TR: ENO COCUK 3
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30270.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO NiLOYA" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾ COCUK",TR: ENO NiLOYA
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30282.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TAYO" tvg-logo="https://www.pnl.mu/wp-content/uploads/2019/02/eno.png" group-title="TR ⟾ COCUK",TR: ENO TAYO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/30283.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="https://www.superkablonet.com/yukleme/download/196.png" group-title="TR ⟾ MÜZİK",TR: TRT MUZIK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24759.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="https://www.sardunyareklam.org/wp-content/uploads/2018/12/kral-tv-reklam.png" group-title="TR ⟾ MÜZİK",TR: KRAL TV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24761.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP HD" tvg-logo="https://www.sardunyareklam.org/wp-content/uploads/2018/12/kral-pop-tv-reklam.png" group-title="TR ⟾ MÜZİK",TR: KRAL POP HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24762.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TV" tvg-logo="https://www.superkablonet.com/yukleme/download/473.png" group-title="TR ⟾ MÜZİK",TR: POWER TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24763.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TATLISES TV" tvg-logo="https://www.superkablonet.com/yukleme/download/474.png" group-title="TR ⟾ MÜZİK",TR: TATLISES TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24764.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER 1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" group-title="TR ⟾ MÜZİK",TR: NUMBER 1 TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/24765.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK TV" tvg-logo="https://www.meibur.com/uploads/kanal/21739dream.png" group-title="TR ⟾ MÜZİK",TR: DREAM TURK TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/46204.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER ONE TURK" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/turk-tv-logo.jpg" group-title="TR ⟾ MÜZİK",TR: NUMBER ONE TURK
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62051.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MILYON TV" tvg-logo="https://www.trcanlitv.net/upload/tv/o_milyon-tv-logo_20200517103645.png" group-title="TR ⟾ MÜZİK",TR: MILYON TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62052.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD" tvg-logo="https://www.logolynx.com/images/logolynx/3d/3df10ae65abb3f5f3d88459c00b4befd.jpeg" group-title="DE ⟾ HD PLUS",DE: ARD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62058.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="DE ⟾ HD PLUS",DE: Das Erste HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28203.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ZDF_HD_Logo.svg" group-title="DE ⟾ HD PLUS",DE: ZDF HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28205.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1" tvg-logo="https://i1.wp.com/thevpn.guru/wp-content/uploads/2018/07/How-to-Watch-Sat.1-Outside-Germany.jpg?resize=640%2C303&ssl=1" group-title="DE ⟾ HD PLUS",DE: SAT 1
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28181.ts
-#EXTINF:-1 tvg-id="RTLVFKD" tvg-name="DE: RTL HD" tvg-logo="http://fanc.tmsimg.com/assets/s107306_ll_h3_aa.png" group-title="DE ⟾ HD PLUS",DE: RTL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28169.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben FHD" tvg-logo="https://img.favpng.com/0/2/4/prosieben-austria-television-logo-germany-png-favpng-wS8mNtnzAUCqk2fkHL2pXbChh.jpg" group-title="DE ⟾ HD PLUS",DE: ProSieben FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28175.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben" tvg-logo="https://img.favpng.com/0/2/4/prosieben-austria-television-logo-germany-png-favpng-wS8mNtnzAUCqk2fkHL2pXbChh.jpg" group-title="DE ⟾ HD PLUS",DE: ProSieben
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28176.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/7/71/20131023015707%21VOX_HD-Logo_2013.png" group-title="DE ⟾ HD PLUS",DE: VOX FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28188.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2" tvg-logo="http://www.schau-hd.tv/attachments/20/RTL2.png" group-title="DE ⟾ HD PLUS",DE: RTL 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28171.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel eins FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5e/Kabel_Eins_HD_2011.svg/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DE ⟾ HD PLUS",DE: Kabel eins FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28190.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 HD" tvg-logo="https://banner2.cleanpng.com/20180604/wcr/kisspng-tele-5-high-definition-television-germany-logo-tv-channel-5b1515132066c0.9599699215281083071327.jpg" group-title="DE ⟾ HD PLUS",DE: TELE 5 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28232.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3 Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/3sat_HD.svg/1280px-3sat_HD.svg.png" group-title="DE ⟾ HD PLUS",DE: 3 Sat
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28186.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/WDR_Fernsehen_HD_2013.png" group-title="DE ⟾ HD PLUS",DE: WDR HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28248.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="https://www.medienkorrespondenz.de/fileadmin/dokumente/Logos/NDR_Logo.PNG" group-title="DE ⟾ HD PLUS",DE: NDR HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28252.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SWR_HD.svg/1280px-SWR_HD.svg.png" group-title="DE ⟾ HD PLUS",DE: SWR HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28244.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BR Fernsehen Nord" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: BR Fernsehen Nord
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47759.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HR" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: HR
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47762.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nitro FHD" tvg-logo="https://dy793rr2xtptx.cloudfront.net/images2/topic/nitro-logo-2018-04-05-14-09-37-1847690316.jpg" group-title="DE ⟾ HD PLUS",DE: Nitro FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28343.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nitro" tvg-logo="https://www.actionsportsjob.com/fileadmin/_processed_/d/e/csm_actionsportsJOB_Nitro_Logo_02_84f35ebf21.png" group-title="DE ⟾ HD PLUS",DE: Nitro
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28251.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL NITRO" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: RTL NITRO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62063.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" group-title="DE ⟾ HD PLUS",DE: RTL plus
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28198.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN MAX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_nLRFCncT8bT0Kkvr8v3NeJ2ZkpVi-4ehoVQ1psP1OFJfrb_g" group-title="DE ⟾ HD PLUS",DE: PROSIEBEN MAX FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28177.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE:  PRO 7 MAXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_nLRFCncT8bT0Kkvr8v3NeJ2ZkpVi-4ehoVQ1psP1OFJfrb_g" group-title="DE ⟾ HD PLUS",DE:  PRO 7 MAXX
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28178.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN FUN HD" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/prosieben_fun_hd_rgb.jpg" group-title="DE ⟾ HD PLUS",DE: PROSIEBEN FUN HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28179.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Gold HD" tvg-logo="https://img.favpng.com/5/17/11/sat-1-gold-germany-television-channel-high-definition-television-png-favpng-RnwVCmf6ZrnNneCbHesWnWeh8.jpg" group-title="DE ⟾ HD PLUS",DE: Sat 1 Gold HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28183.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx FHD" tvg-logo="http://apps.iptv.lu/images/channel/original/352.png" group-title="DE ⟾ HD PLUS",DE: Sixx FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28173.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1280px-TLC-Logo_2016.svg.png" group-title="DE ⟾ DOKU/NEWS",DE: TLC
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28348.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainment HD" tvg-logo="https://csa.dishnetwork.com/images/logos/e!hd.png" group-title="DE ⟾ HD PLUS",DE: E! Entertainment HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28259.ts
-#EXTINF:-1 tvg-id="Sky Cinema Premieren HD" tvg-name="DE: Sky Cinema Premieren" tvg-logo="" group-title="DE ⟾ SKY",DE: Sky Cinema Premieren
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/64547.ts
-#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="DE: Sky Cinema  Premien +24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sky_Cinema%2B24_HD_DE_Logo_2016.png" group-title="DE ⟾ SKY",DE: Sky Cinema  Premien +24
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28320.ts
-#EXTINF:-1 tvg-id="SC24HD" tvg-name="DE: SKY CINEMA 24" tvg-logo="http://fanc.tmsimg.com/assets/s86048_ll_h3_aa.png" group-title="DE ⟾ SKY",DE: SKY CINEMA 24
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25602.ts
-#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="DE: Sky Cinema Thriller" tvg-logo="" group-title="DE ⟾ SKY",DE: Sky Cinema Thriller
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/64546.ts
-#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="DE: Sky Cinema Action" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="DE ⟾ SKY",DE: Sky Cinema Action
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28318.ts
-#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="DE: SKY CINEMA FAMILY" tvg-logo="" group-title="DE ⟾ SKY",DE: SKY CINEMA FAMILY
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25604.ts
-#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="DE: Sky Cinema Fun" tvg-logo="https://archive.org/services/img/SkyCinemaComedy" group-title="DE ⟾ SKY",DE: Sky Cinema Fun
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25603.ts
-#EXTINF:-1 tvg-id="Sky Cinema Best Of HD" tvg-name="DE: Sky Cinema BestOF" tvg-logo="" group-title="DE ⟾ SKY",DE: Sky Cinema BestOF
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25606.ts
-#EXTINF:-1 tvg-id="SKYCIHD" tvg-name="DE: Sky Cinema Special HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png" group-title="DE ⟾ SKY",DE: Sky Cinema Special HD+
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28324.ts
-#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="DE: Sky Cinema Special" tvg-logo="" group-title="DE ⟾ SKY",DE: Sky Cinema Special
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25609.ts
-#EXTINF:-1 tvg-id="KEINCL" tvg-name="DE: Kabel eins Classics" tvg-logo="http://fanc.tmsimg.com/assets/s83611_ll_h3_aa.png" group-title="DE ⟾ SKY",DE: Kabel eins Classics
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28192.ts
-#EXTINF:-1 tvg-id="SYFY" tvg-name="DE: SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="DE ⟾ SKY",DE: SYFY HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28349.ts
-#EXTINF:-1 tvg-id="Warner TV Film" tvg-name="DE: Warner TV Film HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/800px-TNT_Film_HD_Logo.svg.png" group-title="DE ⟾ SKY",DE: Warner TV Film HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28345.ts
-#EXTINF:-1 tvg-id="Warner TV Comedy HD" tvg-name="DE: 	Warner TV Comedy HD" tvg-logo="https://img.favpng.com/24/2/9/tnt-comedy-turner-broadcasting-system-television-tnt-serie-png-favpng-W3rNdAUXDqm6kDswQaY5kFR38.jpg" group-title="DE ⟾ SKY",DE: 	Warner TV Comedy HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28346.ts
-#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="DE: Warner TV Serie HD" tvg-logo="data:image/png;base64,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" group-title="DE ⟾ SKY",DE: Warner TV Serie HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62065.ts
-#EXTINF:-1 tvg-id="Kinowelt TV HD" tvg-name="DE: Kinowelt TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kinowelt_TV_Logo.svg/1200px-Kinowelt_TV_Logo.svg.png" group-title="DE ⟾ SKY",DE: Kinowelt TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28256.ts
-#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="DE: UNIVERSAL TV" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg" group-title="DE ⟾ SKY",DE: UNIVERSAL TV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28271.ts
-#EXTINF:-1 tvg-id="13th Street HD (2)" tvg-name="DE: 13 Street" tvg-logo="data:image/png;base64,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" group-title="DE ⟾ SKY",DE: 13 Street
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62057.ts
-#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE:  Fox FHD" tvg-logo="http://www.affaires.sogetel.com/fichiers/chaine/fox_hd1.png" group-title="DE ⟾ SKY",DE:  Fox FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28337.ts
-#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: Fox HD" tvg-logo="https://4.bp.blogspot.com/-ROr_ZZhyHrI/WDX6X2WPdoI/AAAAAAAAC34/TAgBD6rPHAoJkZyhUYabQqns4yyivY9qwCLcB/s1600/Fox_HD_wordmark_%2528Asia%2529.jpg" group-title="DE ⟾ SKY",DE: Fox HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28330.ts
-#EXTINF:-1 tvg-id="Sky Krimi HD" tvg-name="DE: SKY KRIMI" tvg-logo="" group-title="DE ⟾ SKY",DE: SKY KRIMI
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25608.ts
-#EXTINF:-1 tvg-id="SKYAKDG" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="DE ⟾ SKY",DE: SKY ATLANTIC HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25598.ts
-#EXTINF:-1 tvg-id="Sky One HD" tvg-name="DE: Sky One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROsrggdM-OTkWmbblpkB1FfkSAEzZnG-tf1teZDH13zX2QqM6H&s" group-title="DE ⟾ SKY",DE: Sky One
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28308.ts
-#EXTINF:-1 tvg-id="HEIMKAN" tvg-name="DE: Heimatkanal" tvg-logo="" group-title="DE ⟾ SKY",DE: Heimatkanal
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/61618.ts
-#EXTINF:-1 tvg-id="Romance TV" tvg-name="DE : Romance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/1200px-Romance_TV_Logo_10.2019.svg.png" group-title="DE ⟾ SKY",DE : Romance HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62062.ts
-#EXTINF:-1 tvg-id="RTLPSHD" tvg-name="DE: RTL Passion HD" tvg-logo="http://fanc.tmsimg.com/assets/s83636_ll_h3_ab.png" group-title="DE ⟾ SKY",DE: RTL Passion HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28201.ts
-#EXTINF:-1 tvg-id="RTLCRHD" tvg-name="DE: RTL Crime HD" tvg-logo="http://fanc.tmsimg.com/assets/s83645_ll_h3_aa.png" group-title="DE ⟾ SKY",DE: RTL Crime HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28202.ts
-#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 Emotions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Sat.1_Emotions_2016.jpg" group-title="DE ⟾ SKY",DE: Sat.1 Emotions
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28185.ts
-#EXTINF:-1 tvg-id="SONY AXN HD" tvg-name="DE: Sony AXN HD" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="DE ⟾ SKY",DE: Sony AXN HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28335.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living" tvg-logo="http://www.schau-hd.tv/attachments/192/RTL-Living_HD.jpg" group-title="DE ⟾ DOKU/NEWS",DE: RTL Living
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28195.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX  FHD" tvg-logo="http://www.frocus.net/images/logotv/original/dmax-hd.jpg" group-title="DE ⟾ DOKU/NEWS",DE: DMAX  FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28344.ts
-#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDFinfo HD" tvg-logo="http://fanc.tmsimg.com/assets/s83543_ll_h3_ab.png" group-title="DE ⟾ DOKU/NEWS",DE: ZDFinfo HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28230.ts
-#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="http://fanc.tmsimg.com/assets/s100426_ll_h3_ab.png" group-title="DE ⟾ DOKU/NEWS",DE: Kabel Eins Doku HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28193.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku" tvg-logo="" group-title="DE ⟾ DOKU/NEWS",DE: N24 Doku
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28241.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/1280px-Logo_Welt_der_Wunder_neu.svg.png" group-title="DE ⟾ DOKU/NEWS",DE: Welt der Wunder
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28247.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL" tvg-logo="" group-title="DE ⟾ DOKU/NEWS",DE: DISCOVERY CHANNEL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25591.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO HD" tvg-logo="" group-title="DE ⟾ DOKU/NEWS",DE: NAT GEO HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25595.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NatGeo HD" tvg-logo="https://www.ipf.pt/site/wp-content/uploads/2016/09/National-Geographic-logo.jpg" group-title="DE ⟾ DOKU/NEWS",DE: NatGeo HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28253.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel HD" tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="DE ⟾ DOKU/NEWS",DE: Discovery Channel HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28261.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: History FHD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-history-hd-deutschland-2556.jpg" group-title="DE ⟾ DOKU/NEWS",DE: History FHD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28258.ts
-#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-name="DE: Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Nat_Geo_Wild_HD.svg" group-title="DE ⟾ DOKU/NEWS",DE: Nat Geo Wild
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28254.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/400px-2018_Animal_Planet_logo.svg.png" group-title="DE ⟾ DOKU/NEWS",DE: Animal Planet
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28267.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nickelodeon HD" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/f/fa/Nickelodeon_logo_2009.png/revision/latest?cb=20180623171503" group-title="DE ⟾ KİNDER",DE: Nickelodeon HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28215.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_RTL_-_HD_Logo.svg/1280px-Super_RTL_-_HD_Logo.svg.png" group-title="DE ⟾ KİNDER",DE: Super RTL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28196.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JR" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/4/47/Babar_and_the_Adventures_of_Badou.jpeg/revision/latest/scale-to-width-down/340?cb=20171003220018" group-title="DE ⟾ KİNDER",DE: DISNEY JR
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/25594.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KiKA" tvg-logo="https://www.breedbandwinkel.nl/assets/img/channels/index/kika.svg" group-title="DE ⟾ KİNDER",DE: KiKA
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28217.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Junior" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/c/c0/Junior_Logo_2015.png/revision/latest?cb=20160423094329" group-title="DE ⟾ KİNDER",DE: Junior
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28218.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Disney_Junior_HD.png" group-title="DE ⟾ KİNDER",DE: Disney Junior HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28220.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel HD" tvg-logo="https://www.pngitem.com/pimgs/m/295-2955223_disney-channel-logo-de-hd-png-download.png" group-title="DE ⟾ KİNDER",DE: Disney Channel HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28222.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png" group-title="DE ⟾ KİNDER",DE: Disney Channel
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28223.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="DE ⟾ KİNDER",DE: Cartoon Network
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28224.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="DE ⟾ KİNDER",DE: Boomerang
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28225.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Toggo Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png" group-title="DE ⟾ KİNDER",DE: Toggo Plus
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28226.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic" tvg-logo="https://www.kindpng.com/picc/m/34-346189_disney-cinemagic-logo-png-transparent-png.png" group-title="DE ⟾ KİNDER",DE: Disney Cinemagic
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62059.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="DE ⟾ HD PLUS",DE: Comedy Central HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28333.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="DE ⟾ HD PLUS",DE: Comedy Central
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WELT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/WELT-HD.jpg" group-title="DE ⟾ DOKU/NEWS",DE: WELT
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28213.ts
-#EXTINF:-1 tvg-id="NTVHD" tvg-name="DE: n-tv HD" tvg-logo="http://fanc.tmsimg.com/assets/s89070_ll_h3_aa.png" group-title="DE ⟾ DOKU/NEWS",DE: n-tv HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28242.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo="https://img.favpng.com/7/3/24/television-channel-logo-phoenix-brand-png-favpng-jgdNw6Qq1T0hce8tugTUxBCgG.jpg" group-title="DE ⟾ DOKU/NEWS",DE: Phoenix HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28342.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DW" tvg-logo="" group-title="DE ⟾ DOKU/NEWS",DE: DW
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47761.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tagesschau 24" tvg-logo="data:image/jpeg;base64,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" group-title="DE ⟾ DOKU/NEWS",DE: Tagesschau 24
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62064.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeluxemusicHD.svg/1280px-DeluxemusicHD.svg.png" group-title="DE ⟾ HD PLUS",DE: Deluxe Music HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28332.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV" tvg-logo="https://pmcvariety.files.wordpress.com/2016/03/mtv-logo.jpg?w=1000&h=563&crop=1" group-title="DE ⟾ HD PLUS",DE: MTV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28351.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: FOLX" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: FOLX
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/62061.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zdf_neo_hd.svg/1280px-Zdf_neo_hd.svg.png" group-title="DE ⟾ HD PLUS",DE: ZDF NEO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28210.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ATV" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: ATV
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/34375.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ATV 2" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: ATV 2
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/34376.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="https://www.extradienst.at/wp-content/uploads/2019/09/orf1_design106_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg" group-title="DE ⟾ HD PLUS",DE: ORF 1 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28239.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="https://mpng.pngfly.com/20180625/ljv/kisspng-germany-iptv-television-channel-m3u-hd-logo-5b30948009cd90.5048272615299104000402.jpg" group-title="DE ⟾ HD PLUS",DE: ORF 2 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28238.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 3 HD" tvg-logo="https://www.retzbach.gv.at/system/web/GetImage.ashx?fileid=1742373&mode=O" group-title="DE ⟾ HD PLUS",DE: ORF 3 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28237.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: one HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtFOK132PqOX57tpkk_cTAjDwtLtqgQJBGjEAogxTuiNGgASC9" group-title="DE ⟾ HD PLUS",DE: one HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28240.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ServusTV HD" tvg-logo="https://f0.pngfuel.com/png/719/506/servustv-logo-high-definition-television-font-others-png-clip-art.png" group-title="DE ⟾ HD PLUS",DE: ServusTV HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28250.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Arte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Arte_HD_Logo.svg" group-title="DE ⟾ HD PLUS",DE: Arte HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28268.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Anixe.svg" group-title="DE ⟾ HD PLUS",DE: ANIXE
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28336.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RFO" tvg-logo="" group-title="DE ⟾ HD PLUS",DE: RFO
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/47765.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 1 EREDIVISIE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 1 EREDIVISIE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28753.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 2 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28754.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 3 EREDIVISIE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 3 EREDIVISIE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28755.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 4 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 4 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28756.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 5 EREDIVISIE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 5 EREDIVISIE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28757.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 6 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX SPORTS 6 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28758.ts
-#EXTINF:-1 tvg-id="ZIGGONL" tvg-name="NL: ZIGGO SPORT" tvg-logo="http://fanc.tmsimg.com/assets/s105098_ll_h3_aa.png" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28806.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT SELECT HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28759.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT VOETBAL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28760.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT RACING HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28761.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT GOLF HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28762.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT DOCU HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT DOCU HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28763.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT Extra HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ZIGGO SPORT Extra HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28764.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FILM1 ACTION HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FILM1 ACTION HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28765.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FILM1 DRAMA HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FILM1 DRAMA HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28766.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FILM1 FAMILY HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FILM1 FAMILY HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28767.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FILM1 PREMIERE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FILM1 PREMIERE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28768.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 1 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NPO 1 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28769.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 2 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NPO 2 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28770.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 3 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NPO 3 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28771.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 4 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL 4 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28772.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 5 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL 5 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28773.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: SBS6 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: SBS6 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28774.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 7 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL 7 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28775.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NET5 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NET5 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28776.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 8 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL 8 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28777.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: SBS9 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: SBS9 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28778.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: VERONICA HD / DISNEY XD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: VERONICA HD / DISNEY XD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28779.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: FOX HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28780.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: VICELAND HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: VICELAND HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28781.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: SPIKE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: SPIKE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28782.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL Z HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL Z HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28783.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ANIMAL PLANET HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ANIMAL PLANET HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28784.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: CRIME & INVESTIGATION NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: CRIME & INVESTIGATION NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28785.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: DISCOVERY CHANNEL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28786.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY SCIENCE HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: DISCOVERY SCIENCE HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28787.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY WORLD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: DISCOVERY WORLD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28788.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: HISTORY HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: HISTORY HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28789.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL CRIME HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: RTL CRIME HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28790.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ID HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: ID HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28791.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NAT GEO CHANNEL HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NAT GEO CHANNEL HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28792.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NAT GEO WILD HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NAT GEO WILD HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28793.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: XITE HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: XITE HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28794.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: COMEDY CENTRAL HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: COMEDY CENTRAL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28795.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: E! HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: E! HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28796.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: MTV HD NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: MTV HD NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28797.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: EUROSPORT 1 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: EUROSPORT 1 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28798.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: EUROSPORT 2 HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: EUROSPORT 2 HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28799.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: TLC HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: TLC HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28800.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: CARTOON NETWORK HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: CARTOON NETWORK HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28801.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: NICKELODEON HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NICKELODEON HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISNEY CHANNEL HD" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: DISNEY CHANNEL HD
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28803.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: BOOMERANG NL" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: BOOMERANG NL
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28804.ts
-#EXTINF:-1 tvg-id="Nick.Jr." tvg-name="NL: NICK Jr" tvg-logo="" group-title="NL ⟾ NETHERLANDS",NL: NICK Jr
-http://gen1.my.to:80/ekoT2021/VqSZxxrgGLB4/28805.ts
+
+
+#EXTM3U
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="####Ulusal - TR####" tvg-logo="" group-title="TR - Ulusal",####Ulusal - TR####
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyejQpXYK-ywax4aEKyBc1_Yw/ts
+#EXTINF:-1 xui-id="407" tvg-id="" tvg-name="TRT 4K 1080" tvg-logo="" group-title="TR - Ulusal",TRT 4K 1080
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenrSUyLg7CRHOuEcG7T9TGg6pP3fVFdJzROxXMZ6GRJe/ts
+#EXTINF:-1 xui-id="3" tvg-id="TRT1-0xa" tvg-name="TRT 1 HD+" tvg-logo="" group-title="TR - Ulusal",TRT 1 HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyelxcRMWuItCoHiBu6Vcl3hc/ts
+#EXTINF:-1 xui-id="4" tvg-id="TRT 1" tvg-name="TRT 1 HD" tvg-logo="" group-title="TR - Ulusal",TRT 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyem2RsLSzdfFD_kPi62uVbqM/ts
+#EXTINF:-1 xui-id="3262" tvg-id="ATV HD TR" tvg-name="ATV HD+" tvg-logo="" group-title="TR - Ulusal",ATV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyejEnE4V4n0ArKuu6SnLQ7cu3mO3MTzMLi04GUhtyIrFB/ts
+#EXTINF:-1 xui-id="6" tvg-id="ATV-0xa" tvg-name="ATV HD" tvg-logo="" group-title="TR - Ulusal",ATV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeng1hWf77s4pQeNWzRPJDDw/ts
+#EXTINF:-1 xui-id="7" tvg-id="KANALD-0xa" tvg-name="KANAL D HD+" tvg-logo="http://xtvizle.nl:8000/images/05396097d1129c03a6b67dae6d0db433.png" group-title="TR - Ulusal",KANAL D HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeooEe-SBqfnr1YrOIE_gZbs/ts
+#EXTINF:-1 xui-id="8" tvg-id="Kanal D" tvg-name="KANAL D HD" tvg-logo="http://xtvizle.nl:8000/images/05396097d1129c03a6b67dae6d0db433.png" group-title="TR - Ulusal",KANAL D HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesJqWnmXZiaWHbV9JZW2LOQ/ts
+#EXTINF:-1 xui-id="11" tvg-id="STAR TV" tvg-name="STAR TV HD+" tvg-logo="ttps://www.yilmaztv.com/logo/5dc2be53866ac331e0feb20e.png" group-title="TR - Ulusal",STAR TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyep3MriJ8T04bkoWUu2kEvAU/ts
+#EXTINF:-1 xui-id="12" tvg-id="STAR TV" tvg-name="STAR TV HD" tvg-logo="ttps://www.yilmaztv.com/logo/5dc2be53866ac331e0feb20e.png" group-title="TR - Ulusal",STAR TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeswm_2U8SKWGj4ZHYPrjdQg/ts
+#EXTINF:-1 xui-id="13" tvg-id="Show" tvg-name="SHOW TV HD+" tvg-logo="" group-title="TR - Ulusal",SHOW TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqkqoviBnYFT8tAHb9o5S9Y/ts
+#EXTINF:-1 xui-id="15" tvg-id="SHOWTV-0xa" tvg-name="SHOW TV HD" tvg-logo="http://xtvizle.nl:8000/images/8c93edf738f99efbe55b59586cd982f4.png" group-title="TR - Ulusal",SHOW TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyej_MddhnJYl8N1fcDnVUO_E/ts
+#EXTINF:-1 xui-id="16" tvg-id="TV8-0xa" tvg-name="TV8 HD+" tvg-logo="https://www.yilmaztv.com/logo/5dc2bcd9866ac31da061879f.png" group-title="TR - Ulusal",TV8 HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeucUYg90b7EGI7kJYcALhVg/ts
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="TV8 HD" tvg-logo="http://xtvizle.nl:8000/images/d74f3980ce3e7854bdaceba5af3f0aac.png" group-title="TR - Ulusal",TV8 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyegwC76NU9dEEhNhn4r0owNQ/ts
+#EXTINF:-1 xui-id="18" tvg-id="TV8.5-0xa" tvg-name="TV8.5 HD+" tvg-logo="http://xtvizle.nl:8000/images/9d3891fbc6c9bf05a95ef8f5e694b67c.png" group-title="TR - Ulusal",TV8.5 HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyepnw0gnhIGnN7bdqqWh53i8/ts
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="FOX TV HD+" tvg-logo="http://xtvizle.nl:8000/images/9f388a19d5f61578b0eabbe7c52b1628.png" group-title="TR - Ulusal",FOX TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoICsUOcLJuqp0aWHgCE7WQ/ts
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="FOX TV HD" tvg-logo="http://xtvizle.nl:8000/images/9f388a19d5f61578b0eabbe7c52b1628.png" group-title="TR - Ulusal",FOX TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeg7PtnFQMgax4bFiIkUdXgM/ts
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BEYAZ TV HD+" tvg-logo="http://xtvizle.nl:8000/images/fd3be2349aa7d4dcc731c8811313db13.png" group-title="TR - Ulusal",BEYAZ TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevOJGzramY6-8dtv0rHFDoE/ts
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="BEYAZ TV HD" tvg-logo="http://xtvizle.nl:8000/images/fd3be2349aa7d4dcc731c8811313db13.png" group-title="TR - Ulusal",BEYAZ TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyelTg1GW31a_ve3OOqChhLsA/ts
+#EXTINF:-1 xui-id="30258" tvg-id="" tvg-name="TV 100 HD LOCAL" tvg-logo="" group-title="TR - Ulusal",TV 100 HD LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPyMLsfs-jFj7w4LgZOBQ8I/ts
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="KANAL 7 HD+" tvg-logo="http://xtvizle.nl:8000/images/02025d3789caf65ff0577c3e2cb7e82b.png" group-title="TR - Ulusal",KANAL 7 HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesqADMCvIuRT44qPoPxdrsM/ts
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="KANAL 7 HD" tvg-logo="https://www.yilmaztv.com/logo/5afec182fbead3711c39d385.png" group-title="TR - Ulusal",KANAL 7 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyejSUrm_b5XpJeFVgcHdnf0U/ts
+#EXTINF:-1 xui-id="30312" tvg-id="" tvg-name="TR: OLAY TÜRK TV" tvg-logo="" group-title="TR - Ulusal",TR: OLAY TÜRK TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRHX8KZJwhKvOxCQFH3Vsxk/ts
+#EXTINF:-1 xui-id="30313" tvg-id="" tvg-name="TR: OLAYTÜRK KAYSERİ" tvg-logo="" group-title="TR - Ulusal",TR: OLAYTÜRK KAYSERİ
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRcc48rbhR14Rqfzixg9BN2/ts
+#EXTINF:-1 xui-id="21467" tvg-id="" tvg-name="TV KAYSERI" tvg-logo="" group-title="TR - Ulusal",TV KAYSERI
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenEYOPigx6hdbV6XVb25GK1uzrJ_6C7yP7-WxgyKiv96/ts
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="TRT 2 HD+" tvg-logo="" group-title="TR - Ulusal",TRT 2 HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyer609HBCjBSu5ntl7v_k3DA/ts
+#EXTINF:-1 xui-id="14694" tvg-id="" tvg-name="TEVE 2 HD PLUS" tvg-logo="" group-title="TR - Ulusal",TEVE 2 HD PLUS
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevmEkQkjr9uwmCfT7Wmmzhpi2EJWbhes-zQFYnZJ_gI_/ts
+#EXTINF:-1 xui-id="14695" tvg-id="" tvg-name="A2 HD PLUS" tvg-logo="" group-title="TR - Ulusal",A2 HD PLUS
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevmEkQkjr9uwmCfT7WmmzhqWTnvWyB30IUpxKvF142Za/ts
+#EXTINF:-1 xui-id="401" tvg-id="" tvg-name="SHOW TV EU" tvg-logo="" group-title="TR - Ulusal",SHOW TV EU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyelaSv-2s3Ua0uUGHtDeGpw7sVkGKEltZfOyJGVMBS7xz/ts
+#EXTINF:-1 xui-id="402" tvg-id="" tvg-name="SHOW MAX" tvg-logo="" group-title="TR - Ulusal",SHOW MAX
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeidL2LKuw9WgZH-sz-1QiL3nF0k2KC9U4BSBmfznYDPA/ts
+#EXTINF:-1 xui-id="403" tvg-id="" tvg-name="TV 8 EU" tvg-logo="" group-title="TR - Ulusal",TV 8 EU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyej_h7B39xQNaCIQTh5gxHvgqPTl5ii4RjiF1TuxN6Gi_/ts
+#EXTINF:-1 xui-id="30255" tvg-id="" tvg-name="KANAL 7 HD LOCAL" tvg-logo="" group-title="TR - Ulusal",KANAL 7 HD LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMWsB1ycj5xi1-_sj9-sH8L/ts
+#EXTINF:-1 xui-id="30256" tvg-id="" tvg-name="KANAL 7 EU LOCAL" tvg-logo="" group-title="TR - Ulusal",KANAL 7 EU LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMwlId3as6ydBeW5f9dwO4y/ts
+#EXTINF:-1 xui-id="30257" tvg-id="" tvg-name="360 TV HD LOCAL" tvg-logo="" group-title="TR - Ulusal",360 TV HD LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOF0ciN06d2pN2ivx6qElF8/ts
+#EXTINF:-1 xui-id="30259" tvg-id="" tvg-name="TV 4 HD LOCAL" tvg-logo="" group-title="TR - Ulusal",TV 4 HD LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMbulqDFtTxRNhuwWmuiElQ/ts
+#EXTINF:-1 xui-id="30260" tvg-id="" tvg-name="ATV EURO LOCAL" tvg-logo="" group-title="TR - Ulusal",ATV EURO LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vN8olIgUufC26FOzGuybQDg/ts
+#EXTINF:-1 xui-id="30261" tvg-id="" tvg-name="EURO STAR LOCAL" tvg-logo="" group-title="TR - Ulusal",EURO STAR LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vN8N6qcAijxNLnVOgRrmYor/ts
+#EXTINF:-1 xui-id="30262" tvg-id="" tvg-name="SHOW TURK LOCAL" tvg-logo="" group-title="TR - Ulusal",SHOW TURK LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPx7EiLXOpx3LkVCqNT52fI/ts
+#EXTINF:-1 xui-id="30263" tvg-id="" tvg-name="EURO D LOCAL" tvg-logo="" group-title="TR - Ulusal",EURO D LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMcC4re3RjGA5vi-YPqH7Uo/ts
+#EXTINF:-1 xui-id="30264" tvg-id="" tvg-name="TV8 INT LOCAL" tvg-logo="" group-title="TR - Ulusal",TV8 INT LOCAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vP3yP9obanjSrC7VaL8WBS3/ts
+#EXTINF:-1 xui-id="399" tvg-id="" tvg-name="KANAL D EU" tvg-logo="" group-title="TR - Ulusal",KANAL D EU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyentjogmfvd44ETWsdYwYNktjCV6qNVO9ZQQK4S1PfSyM/ts
+#EXTINF:-1 xui-id="400" tvg-id="" tvg-name="STAR TV EU" tvg-logo="" group-title="TR - Ulusal",STAR TV EU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyej4paLZDKsnb9Rh5R9Ki_5Aom0K6TSO5tUH8RThafPtb/ts
+#EXTINF:-1 xui-id="30321" tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR - Ulusal",TR: KANAL 23
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SS-ooXk-sCie26CKkBl_UB2/ts
+#EXTINF:-1 xui-id="30323" tvg-id="" tvg-name="TR: KANAL 3" tvg-logo="" group-title="TR - Ulusal",TR: KANAL 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58ST_OsWX9gTGBXg9FpHmM3h5/ts
+#EXTINF:-1 xui-id="30330" tvg-id="" tvg-name="TR: KANAL 7" tvg-logo="" group-title="TR - Ulusal",TR: KANAL 7
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SQT6cuvhe83EEmlroZGbo7A/ts
+#EXTINF:-1 xui-id="32345" tvg-id="" tvg-name="ATV TEST" tvg-logo="" group-title="TR - Ulusal",ATV TEST
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_AAmwZ3epWPew8s996zuEYZ/ts
+#EXTINF:-1 xui-id="33366" tvg-id="" tvg-name="TEST SHOWTV" tvg-logo="" group-title="TR - Ulusal",TEST SHOWTV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesSsfw8dtQOA9-gL29D26vJ9_uOIGO5I9f0E8Dg90nD2/ts
+#EXTINF:-1 xui-id="32454" tvg-id="" tvg-name="TR:TRT 1 HEVC" tvg-logo="http://xtvizle.nl:8000/images/8b3c215459500c64436fd86cba2fde67.png" group-title="TR: ULUSAL/HABER 4K+",TR:TRT 1 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6n6EMZAiuCibL9sXXUf4GO/ts
+#EXTINF:-1 xui-id="32455" tvg-id="" tvg-name="TR:ATV HEVC" tvg-logo="http://xtvizle.nl:8000/images/825b1a48e298587d9a54b31021dde39f.png" group-title="TR: ULUSAL/HABER 4K+",TR:ATV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7jyo6GJYBeX00wEhtxDl-6/ts
+#EXTINF:-1 xui-id="32456" tvg-id="" tvg-name="TR:SHOW TV HEVC" tvg-logo="http://xtvizle.nl:8000/images/0dc72d701ef29376683c8ae8fbc51783.png" group-title="TR: ULUSAL/HABER 4K+",TR:SHOW TV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6uZeUbBYlJ8L-fPEkmTQaL/ts
+#EXTINF:-1 xui-id="32457" tvg-id="" tvg-name="TR:STAR TV HEVC" tvg-logo="http://xtvizle.nl:8000/images/78dee8fab3e983e61e1a17206ebc8235.png" group-title="TR: ULUSAL/HABER 4K+",TR:STAR TV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4mfnLklCNOWSyB0F3kUebl/ts
+#EXTINF:-1 xui-id="32458" tvg-id="" tvg-name="TR:KANAL D HEVC" tvg-logo="http://xtvizle.nl:8000/images/bc31f3073918b7e83d714ebcb01949df.png" group-title="TR: ULUSAL/HABER 4K+",TR:KANAL D HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5jmgNlX14GEhrXQt0t5XCb/ts
+#EXTINF:-1 xui-id="32459" tvg-id="" tvg-name="TR:FOX TV HEVC" tvg-logo="http://xtvizle.nl:8000/images/c4a148aa034bcd3fc1b4ae4eaee5a7b2.png" group-title="TR: ULUSAL/HABER 4K+",TR:FOX TV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4dHABW0N35Z3SVMNDovXUN/ts
+#EXTINF:-1 xui-id="32460" tvg-id="" tvg-name="TR:TV 8 HEVC" tvg-logo="http://xtvizle.nl:8000/images/da9503502ae414f686e5738a7c92d0fa.png" group-title="TR: ULUSAL/HABER 4K+",TR:TV 8 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7SbdTu3dXWxV3rPZ7jDqv7/ts
+#EXTINF:-1 xui-id="32461" tvg-id="" tvg-name="TR:BEYAZ TV HEVC" tvg-logo="http://xtvizle.nl:8000/images/4cbf2f6102111d333393bde6c3704be9.png" group-title="TR: ULUSAL/HABER 4K+",TR:BEYAZ TV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6G6SuE4RR5Md9dlQ_c4PW8/ts
+#EXTINF:-1 xui-id="32462" tvg-id="" tvg-name="TR:TRT SPOR HEVC" tvg-logo="http://xtvizle.nl:8000/images/b3e3dbc38d3eb3504aaac6c35db4150e.png" group-title="TR: ULUSAL/HABER 4K+",TR:TRT SPOR HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ465Y9MCZnG-vRIfGiHYO93/ts
+#EXTINF:-1 xui-id="32463" tvg-id="" tvg-name="TR:TRT SPOR 2 HEVC" tvg-logo="" group-title="TR: ULUSAL/HABER 4K+",TR:TRT SPOR 2 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6p-Cq8If1CiWiYc3uj7Aup/ts
+#EXTINF:-1 xui-id="32464" tvg-id="" tvg-name="TR:NTV HEVC" tvg-logo="http://xtvizle.nl:8000/images/583cc55ae95e0336da9f3fedf4746bc9.png" group-title="TR: ULUSAL/HABER 4K+",TR:NTV HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6x4Dym8XATKMsAD8F11BJg/ts
+#EXTINF:-1 xui-id="32465" tvg-id="" tvg-name="TR:KANAL 7 HEVC" tvg-logo="http://xtvizle.nl:8000/images/b3fbbe6c2d1e4e4fcadf3ec78c270d34.png" group-title="TR: ULUSAL/HABER 4K+",TR:KANAL 7 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ76UgkPcwE7osdYy4HCd48F/ts
+#EXTINF:-1 xui-id="32466" tvg-id="" tvg-name="TR:TEVE 2 HEVC" tvg-logo="http://xtvizle.nl:8000/images/34b2e5fe744ca7dc95ceef7029934a38.png" group-title="TR: ULUSAL/HABER 4K+",TR:TEVE 2 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4AEw1etMvmChSJiE6kNxIO/ts
+#EXTINF:-1 xui-id="32467" tvg-id="" tvg-name="TR:TV 100 HEVC" tvg-logo="http://xtvizle.nl:8000/images/0a2f1c1bbf996bddfae78c10abae657b.png" group-title="TR: ULUSAL/HABER 4K+",TR:TV 100 HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6g3-dNwoIJMHaO0F2q9D92/ts
+#EXTINF:-1 xui-id="32468" tvg-id="" tvg-name="TR:A HABER HEVC" tvg-logo="http://xtvizle.nl:8000/images/143d542c5414c05b1173d3aa9b26172a.png" group-title="TR: ULUSAL/HABER 4K+",TR:A HABER HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5PoWsj8f3nPYsZwxg7gvgB/ts
+#EXTINF:-1 xui-id="32469" tvg-id="" tvg-name="TR:CNN TÜRK HEVC" tvg-logo="http://xtvizle.nl:8000/images/a851032730527f7c89f4c83fcb727a2c.png" group-title="TR: ULUSAL/HABER 4K+",TR:CNN TÜRK HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6UcDzltlUl5DbOTccfb7Yk/ts
+#EXTINF:-1 xui-id="32470" tvg-id="" tvg-name="TR:TRT HABER HEVC" tvg-logo="http://xtvizle.nl:8000/images/f40ee83e1a5a59dda570a8fa65fbff52.png" group-title="TR: ULUSAL/HABER 4K+",TR:TRT HABER HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ65UbmpB5DOitpEiJMGwZ4H/ts
+#EXTINF:-1 xui-id="32471" tvg-id="" tvg-name="TR:HABERTURK HEVC" tvg-logo="http://xtvizle.nl:8000/images/f25d51c573a96b2a5ac8c51ecab681cf.png" group-title="TR: ULUSAL/HABER 4K+",TR:HABERTURK HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7-zJRAntoRUn6w4SyWxTZr/ts
+#EXTINF:-1 xui-id="32472" tvg-id="" tvg-name="TR:A SPOR HEVC" tvg-logo="http://xtvizle.nl:8000/images/939b7309b094e037d8eadee4fba6118d.png" group-title="TR: ULUSAL/HABER 4K+",TR:A SPOR HEVC
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5gpv-lKzbshubsg2j7z-gQ/ts
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="#### TR SPOR ####" tvg-logo="" group-title="TR - Spor",#### TR SPOR ####
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyegD7FIlfClVavGV0Ql54bEo/ts
+#EXTINF:-1 xui-id="30271" tvg-id="" tvg-name="|TR| BEIN SPORTS HABER FHD" tvg-logo="" group-title="TR - Spor",|TR| BEIN SPORTS HABER FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vNgJZ6UnTb2Kn30w-jqaxHM/ts
+#EXTINF:-1 xui-id="2779" tvg-id="" tvg-name="TR: BEIN SPORTS 4K - BEIN IZ" tvg-logo="" group-title="TR - Spor",TR: BEIN SPORTS 4K - BEIN IZ
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyelNBJ0pqbMMMaL5fRkm2643xpqDpGqX9jrZ30vCLfN08/ts
+#EXTINF:-1 xui-id="2781" tvg-id="" tvg-name="TR:BEIN SPORTS 1 HD 1080" tvg-logo="" group-title="TR - Spor",TR:BEIN SPORTS 1 HD 1080
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pexJwWgusoOlvvZTwVM_qEC9/ts
+#EXTINF:-1 xui-id="2782" tvg-id="" tvg-name="TR:BEIN SPORTS 1 HD 1080  YEDEK" tvg-logo="" group-title="TR - Spor",TR:BEIN SPORTS 1 HD 1080  YEDEK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pez9Y3pRjVc66jUNnTlDCRMQ/ts
+#EXTINF:-1 xui-id="2783" tvg-id="" tvg-name="TR:beIN SPORTS 1 720p YEDEK" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS 1 720p YEDEK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pewNhMg98Z-uXAdSYv-nnsze/ts
+#EXTINF:-1 xui-id="18914" tvg-id="" tvg-name="TR: beIN SPORTS 1 HD YEDEK" tvg-logo="https://i.imgyukle.com/2020/02/18/ngceHp.jpg" group-title="TR - Spor",TR: beIN SPORTS 1 HD YEDEK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyS_Ss4JLczM-CYF-FJrJVEF/ts
+#EXTINF:-1 xui-id="30267" tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="TR - Spor",BEIN SPORT HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPXmiVfZV2ROdILiyqxVdgj/ts
+#EXTINF:-1 xui-id="2787" tvg-id="" tvg-name="TR:BEINSPORTS 1 SD YEDEK" tvg-logo="" group-title="TR - Spor",TR:BEINSPORTS 1 SD YEDEK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pey-S48kD_SyVLfnvHPKEM1F/ts
+#EXTINF:-1 xui-id="30270" tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="TR - Spor",TR: beIN SPORTS 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOL01FYUwQwqOPkTYcGgBRk/ts
+#EXTINF:-1 xui-id="2784" tvg-id="" tvg-name="BEIN SPORTS 2 HD 1080 TR:" tvg-logo="" group-title="TR - Spor",BEIN SPORTS 2 HD 1080 TR:
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3peyBwxzmClsQAQCQMYQSHsBV/ts
+#EXTINF:-1 xui-id="18918" tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/nggmqA.jpg" group-title="TR - Spor",TR: beIN SPORTS 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyR2zrrhzu_myiupTxG1xYMM/ts
+#EXTINF:-1 xui-id="2793" tvg-id="" tvg-name="TR:beIN SPORTS 2" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh4xbpoVHBICjXVbDePRmYGc/ts
+#EXTINF:-1 xui-id="18919" tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/ngglNt.jpg" group-title="TR - Spor",TR: beIN SPORTS 3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyTMKRHJBiCblcdJehUL3VRa/ts
+#EXTINF:-1 xui-id="30266" tvg-id="" tvg-name="BEIN SPORT 3 HD" tvg-logo="" group-title="TR - Spor",BEIN SPORT 3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMoHPtKO3uw3rRUsLBmVsGr/ts
+#EXTINF:-1 xui-id="30268" tvg-id="" tvg-name="TR | BEIN SPORTS 3 HD" tvg-logo="" group-title="TR - Spor",TR | BEIN SPORTS 3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMRnsyIvlQ3wyaKfBlu3wT1/ts
+#EXTINF:-1 xui-id="2786" tvg-id="" tvg-name="BEIN SPORTS 3 HD 1080 TR:" tvg-logo="" group-title="TR - Spor",BEIN SPORTS 3 HD 1080 TR:
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pewsGicOEXC9CU8zfDcYopTC/ts
+#EXTINF:-1 xui-id="2792" tvg-id="" tvg-name="TR:beIN SPORTS 3" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh61sEJ2DolOcI1Hgo3Ub-4J/ts
+#EXTINF:-1 xui-id="30265" tvg-id="" tvg-name="BEIN SPORT 4 HD" tvg-logo="" group-title="TR - Spor",BEIN SPORT 4 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPDa73a_I3lWZwTsotk2V1I/ts
+#EXTINF:-1 xui-id="30269" tvg-id="" tvg-name="TR | BEIN SPORTS 4 HD" tvg-logo="" group-title="TR - Spor",TR | BEIN SPORTS 4 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMCVr8-zHv0vTzCSsOLNyfH/ts
+#EXTINF:-1 xui-id="18920" tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/nggAOx.jpg" group-title="TR - Spor",TR: beIN SPORTS 4 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyQ62sa2KV4SKVFQhQ2mF5jJ/ts
+#EXTINF:-1 xui-id="2785" tvg-id="" tvg-name="BEIN SPORTS 4 HD 1080 TR:" tvg-logo="" group-title="TR - Spor",BEIN SPORTS 4 HD 1080 TR:
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pex8n0BG6JpJKMVODiXWKaFp/ts
+#EXTINF:-1 xui-id="2791" tvg-id="" tvg-name="TR:beIN SPORTS 4" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS 4
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh6N7U26Dme4hP6samZbLRoo/ts
+#EXTINF:-1 xui-id="2789" tvg-id="" tvg-name="TR:beIN SPORTS Max 1" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS Max 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pexn5IjkAtGbpHwgUXz02g88/ts
+#EXTINF:-1 xui-id="2788" tvg-id="" tvg-name="TR:beIN SPORTS MAX 2" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS MAX 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyel_jmAgicJRtqkC_B5G3pez2qAaHjkBMk5vK2b6c2fz1/ts
+#EXTINF:-1 xui-id="2790" tvg-id="" tvg-name="TR:beIN SPORTS HABER" tvg-logo="" group-title="TR - Spor",TR:beIN SPORTS HABER
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh7oJnflejJ3PfENEyR_0YTK/ts
+#EXTINF:-1 xui-id="24974" tvg-id="" tvg-name="EXXEN Spor 1 HD" tvg-logo="" group-title="TR - Spor",EXXEN Spor 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7FNzqIwngQOXWIjayvOliGG/ts
+#EXTINF:-1 xui-id="30272" tvg-id="" tvg-name="EXXEN TV SPOR" tvg-logo="http://xtvizle.nl:8000/images/b1db2f99cdaf924e8b8345864ca3fdb6.jpg" group-title="TR - Spor",EXXEN TV SPOR
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMjkVnSuWDdp4jOO-3va0yA/ts
+#EXTINF:-1 xui-id="24975" tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="" group-title="TR - Spor",EXXEN SPOR 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7E34NSh0hVncfjllGQVInnv/ts
+#EXTINF:-1 xui-id="30273" tvg-id="" tvg-name="EXXEN TV SPOR 2" tvg-logo="http://xtvizle.nl:8000/images/b1db2f99cdaf924e8b8345864ca3fdb6.jpg" group-title="TR - Spor",EXXEN TV SPOR 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOvzIq3NXo37N-obmyPqYXn/ts
+#EXTINF:-1 xui-id="24976" tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="" group-title="TR - Spor",EXXEN SPOR 3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7G2gp4TvTgqMrYULq7glvIk/ts
+#EXTINF:-1 xui-id="30274" tvg-id="" tvg-name="EXXEN TV SPOR 3" tvg-logo="http://xtvizle.nl:8000/images/b1db2f99cdaf924e8b8345864ca3fdb6.jpg" group-title="TR - Spor",EXXEN TV SPOR 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vP7HhdU3qrqbKKX034OgKfj/ts
+#EXTINF:-1 xui-id="30275" tvg-id="" tvg-name="EXXEN TV SPOR 4" tvg-logo="http://xtvizle.nl:8000/images/b1db2f99cdaf924e8b8345864ca3fdb6.jpg" group-title="TR - Spor",EXXEN TV SPOR 4
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vO73SCJ7MP1SbVhMr5LzYtt/ts
+#EXTINF:-1 xui-id="30276" tvg-id="" tvg-name="EXXEN TV SPOR 5" tvg-logo="http://xtvizle.nl:8000/images/b1db2f99cdaf924e8b8345864ca3fdb6.jpg" group-title="TR - Spor",EXXEN TV SPOR 5
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vO7P9fX7sGzHgwr9g5kTglh/ts
+#EXTINF:-1 xui-id="32143" tvg-id="" tvg-name="EXXEN SPORT 5" tvg-logo="" group-title="TR - Spor",EXXEN SPORT 5
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurmQQ5cMLD-Oe6zMSvJ3wxCF/ts
+#EXTINF:-1 xui-id="32144" tvg-id="" tvg-name="EXXEN SPORT 6" tvg-logo="" group-title="TR - Spor",EXXEN SPORT 6
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurnDbksqGNT3tfRrNAfz75oB/ts
+#EXTINF:-1 xui-id="2794" tvg-id="" tvg-name="TR:TIVIBUSPOR 1" tvg-logo="" group-title="TR - Spor",TR:TIVIBUSPOR 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh67lBuU6QDO632_0HCqgdRN/ts
+#EXTINF:-1 xui-id="18927" tvg-id="" tvg-name="TR: TIVIBUSPOR-1 HD" tvg-logo="http://xtvizle.nl:8000/images/5a2d1dd64a350309b13bc3b116644a0e.png" group-title="TR - Spor",TR: TIVIBUSPOR-1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyRcTU8oGiER5phn_VaYO4AK/ts
+#EXTINF:-1 xui-id="2795" tvg-id="" tvg-name="TR:TIVIBUSPOR 2" tvg-logo="" group-title="TR - Spor",TR:TIVIBUSPOR 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh6nRiqlGRKYn9UncTD4oF1_/ts
+#EXTINF:-1 xui-id="18928" tvg-id="" tvg-name="TR: TIVIBUSPOR-2 HD" tvg-logo="http://xtvizle.nl:8000/images/5a2d1dd64a350309b13bc3b116644a0e.png" group-title="TR - Spor",TR: TIVIBUSPOR-2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribySqkrgHeJCTFRmDD1U2bvdR/ts
+#EXTINF:-1 xui-id="2796" tvg-id="" tvg-name="TR:TIVIBUSPOR 3" tvg-logo="" group-title="TR - Spor",TR:TIVIBUSPOR 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh5KAWVHNkP4gBGSChbZ-B9v/ts
+#EXTINF:-1 xui-id="18929" tvg-id="" tvg-name="TR: TIVIBUSPOR-3 HD" tvg-logo="http://xtvizle.nl:8000/images/5a2d1dd64a350309b13bc3b116644a0e.png" group-title="TR - Spor",TR: TIVIBUSPOR-3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribySVDxF4yjifWccHbV_agMTl/ts
+#EXTINF:-1 xui-id="2797" tvg-id="" tvg-name="TR:SMART SPOR" tvg-logo="" group-title="TR - Spor",TR:SMART SPOR
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh4cNX_nIEeVZDTtfiQdou0-/ts
+#EXTINF:-1 xui-id="18931" tvg-id="" tvg-name="TR: SPOR SMART FHD" tvg-logo="" group-title="TR - Spor",TR: SPOR SMART FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribySbfpRz1BH-lP9wB3wBAoEW/ts
+#EXTINF:-1 xui-id="18925" tvg-id="" tvg-name="TR: S-SPORT 1 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/nghyVo.png" group-title="TR - Spor",TR: S-SPORT 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribySt9v9GKr_l8-5QIgIgsunv/ts
+#EXTINF:-1 xui-id="18926" tvg-id="" tvg-name="TR: S-SPORT 2 FHD" tvg-logo="https://i.imgyukle.com/2020/02/18/nghOVs.png" group-title="TR - Spor",TR: S-SPORT 2 FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyTZL8iqiVBgspVvBXjM3yx-/ts
+#EXTINF:-1 xui-id="2800" tvg-id="" tvg-name="TR:EUROSPORT 1" tvg-logo="" group-title="TR - Spor",TR:EUROSPORT 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeq-YjIpDECMMjAYhgbntCDu2o5gQBKzCKruMQ2e3a_lg/ts
+#EXTINF:-1 xui-id="18934" tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/nghKd6.png" group-title="TR - Spor",TR: EUROSPORT 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyTA771sz_046qS84SHa4dui/ts
+#EXTINF:-1 xui-id="18935" tvg-id="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.imgyukle.com/2020/02/18/nghMXo.png" group-title="TR - Spor",TR: EUROSPORT 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyR3SmLBK2zKimWzzJqVPpua/ts
+#EXTINF:-1 xui-id="2802" tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="" group-title="TR - Spor",TR: A SPOR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeq-YjIpDECMMjAYhgbntCDu8S3_n55vKb5VHYb7JiJAg/ts
+#EXTINF:-1 xui-id="18937" tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="http://xtvizle.nl:8000/images/1390b24994a488cdb3d9d57215124836.png" group-title="TR - Spor",TR: A SPOR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyRd5RM-ki-Ij0H4KKXLbPpR/ts
+#EXTINF:-1 xui-id="2801" tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="" group-title="TR - Spor",TR:TRT SPOR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeq-YjIpDECMMjAYhgbntCDucDnV7hyhcEkmTnzC6mNnS/ts
+#EXTINF:-1 xui-id="18936" tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="http://xtvizle.nl:8000/images/a3ef8dfaf9c0814cbe654bba1511fc9e.png" group-title="TR - Spor",TR: TRT SPOR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevT3QqTYPqiILrnDTaribyTC6ot2l1iLdiGKrm-9-OZV/ts
+#EXTINF:-1 xui-id="2798" tvg-id="" tvg-name="TR:S SPORT" tvg-logo="" group-title="TR - Spor",TR:S SPORT
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh6ySbOxMDMbYArTDvmSZhC3/ts
+#EXTINF:-1 xui-id="2799" tvg-id="" tvg-name="TR:FB TV HD" tvg-logo="" group-title="TR - Spor",TR:FB TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenly8RUWU-f3-Ofoml_Rrh5O2WboxpLSK98CwHbXizs9/ts
+#EXTINF:-1 xui-id="2803" tvg-id="" tvg-name="GS TV TR." tvg-logo="" group-title="TR - Spor",GS TV TR.
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeq-YjIpDECMMjAYhgbntCDuFpfeo-cgVcvWXNtoeB4LH/ts
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="#### TR BELGESEL ####" tvg-logo="" group-title="TR - Belgesel",#### TR BELGESEL ####
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeuMtVtRBztYLYeZb_ZiJci8/ts
+#EXTINF:-1 xui-id="10466" tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="" group-title="TR - Belgesel",TR: TRT BELGESEL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu-mfMXs98LEj0qseXKgiCPlr_uVrLFDDPCHHw9EKEoD/ts
+#EXTINF:-1 xui-id="22008" tvg-id="" tvg-name="TR | TRT BELGESEL HD" tvg-logo="" group-title="TR - Belgesel",TR | TRT BELGESEL HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw61KsPCFflyoVXw8PD-UjEb/ts
+#EXTINF:-1 xui-id="22014" tvg-id="" tvg-name="TR | DISCOVERY CHANNEL TR HD" tvg-logo="" group-title="TR - Belgesel",TR | DISCOVERY CHANNEL TR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5zsEL4xgSDByjpMu7v-YlA/ts
+#EXTINF:-1 xui-id="22012" tvg-id="" tvg-name="TR | NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TR - Belgesel",TR | NATIONAL GEOGRAPHIC HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7uhOFTwHABOM5JZiPYSruA/ts
+#EXTINF:-1 xui-id="22013" tvg-id="" tvg-name="TR | NAT GEO WILD TR HD" tvg-logo="" group-title="TR - Belgesel",TR | NAT GEO WILD TR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7wuwg4zJlzbDj5x6A5PnHs/ts
+#EXTINF:-1 xui-id="22016" tvg-id="" tvg-name="TR | DISCOVERY SCIENCE EUROPE HD" tvg-logo="" group-title="TR - Belgesel",TR | DISCOVERY SCIENCE EUROPE HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7T3C9DvLytbX1G0S9BLTzn/ts
+#EXTINF:-1 xui-id="22017" tvg-id="" tvg-name="TR | HISTORY HD (HQ)" tvg-logo="" group-title="TR - Belgesel",TR | HISTORY HD (HQ)
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6LBSTFpJIW7ejV8b9RQf8b/ts
+#EXTINF:-1 xui-id="10461" tvg-id="" tvg-name="TR:YABAN TV" tvg-logo="" group-title="TR - Belgesel",TR:YABAN TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu-mfMXs98LEj0qseXKgiCOZmgcvKXSiL3zzrqzv7S-x/ts
+#EXTINF:-1 xui-id="10462" tvg-id="" tvg-name="TR:beIN GURME" tvg-logo="" group-title="TR - Belgesel",TR:beIN GURME
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu-mfMXs98LEj0qseXKgiCOVY4gk1zZzCYVSVVZ5iJNs/ts
+#EXTINF:-1 xui-id="10465" tvg-id="" tvg-name="TR:DMAX" tvg-logo="" group-title="TR - Belgesel",TR:DMAX
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu-mfMXs98LEj0qseXKgiCMES28DgFY_SMSSVPiy-Ytl/ts
+#EXTINF:-1 xui-id="22010" tvg-id="" tvg-name="TR | IZ HD" tvg-logo="" group-title="TR - Belgesel",TR | IZ HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw4_z-xK88CmXp5rFn5p7F8v/ts
+#EXTINF:-1 xui-id="22011" tvg-id="" tvg-name="TR | DMAX TR HD" tvg-logo="" group-title="TR - Belgesel",TR | DMAX TR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7aiUaUMwDKiIW65y8aro31/ts
+#EXTINF:-1 xui-id="22020" tvg-id="" tvg-name="TR | VIASAT HISTORY HD" tvg-logo="" group-title="TR - Belgesel",TR | VIASAT HISTORY HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6bYrFvLNxcuQjw8-OycIOo/ts
+#EXTINF:-1 xui-id="22026" tvg-id="" tvg-name="TR | HISTORY CHANNEL HD" tvg-logo="" group-title="TR - Belgesel",TR | HISTORY CHANNEL HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5O30wvtxcWpI-OAxJkVTdo/ts
+#EXTINF:-1 xui-id="22027" tvg-id="" tvg-name="TR | TLC TURK HD" tvg-logo="" group-title="TR - Belgesel",TR | TLC TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6eDB4G_8AXc80w67mTSDAD/ts
+#EXTINF:-1 xui-id="30290" tvg-id="" tvg-name="TR: PowerTurk HD (muzik)" tvg-logo="" group-title="TR - Muzik",TR: PowerTurk HD (muzik)
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vM4o7GhWKlbLtNYNfnsxezS/ts
+#EXTINF:-1 xui-id="30291" tvg-id="" tvg-name="TR: Kral Pop HD Muzik" tvg-logo="" group-title="TR - Muzik",TR: Kral Pop HD Muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vNNEZVncn-_vp5g7BUN_1Ar/ts
+#EXTINF:-1 xui-id="30292" tvg-id="" tvg-name="TR: Kral TV muzik" tvg-logo="" group-title="TR - Muzik",TR: Kral TV muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOQ9eRch2j3aDrmurY8PdrJ/ts
+#EXTINF:-1 xui-id="30293" tvg-id="" tvg-name="TR: Kral HD muzik" tvg-logo="" group-title="TR - Muzik",TR: Kral HD muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMTW6LdMygRfHsLoDQghQL2/ts
+#EXTINF:-1 xui-id="30294" tvg-id="" tvg-name="TR: Karadeniz Akustik Muzik" tvg-logo="" group-title="TR - Muzik",TR: Karadeniz Akustik Muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMSL09FU2weBOqnyqB4x1Ra/ts
+#EXTINF:-1 xui-id="30295" tvg-id="" tvg-name="TR: Karadeniz Akustik TV Muzik" tvg-logo="" group-title="TR - Muzik",TR: Karadeniz Akustik TV Muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vN3H0u5hZ6GiIOnFxI1k6wb/ts
+#EXTINF:-1 xui-id="30296" tvg-id="" tvg-name="TR: DreamTurk HD  muzik" tvg-logo="" group-title="TR - Muzik",TR: DreamTurk HD  muzik
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOV5NVw5a3neByDwuFvP1IU/ts
+#EXTINF:-1 xui-id="14761" tvg-id="" tvg-name="TR: KRAL POP HD" tvg-logo="" group-title="TR - Muzik",TR: KRAL POP HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWP7kFnjt5fTnQrwOuxNlAl-/ts
+#EXTINF:-1 xui-id="14762" tvg-id="" tvg-name="TR: TR: KRAL TV HD" tvg-logo="" group-title="TR - Muzik",TR: TR: KRAL TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWPSgUo9dylB_i9dzWK8nzXE/ts
+#EXTINF:-1 xui-id="14765" tvg-id="" tvg-name="TR: TR: POWER TURK HD" tvg-logo="" group-title="TR - Muzik",TR: TR: POWER TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOL5XRqYqkDlSi_q6rMXyeQ/ts
+#EXTINF:-1 xui-id="931" tvg-id="" tvg-name="Kral POP" tvg-logo="" group-title="TR - Muzik",Kral POP
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyelMDJpymuApfNlZ7nAgwbUCHlf-350-6n88Z3iumVBFm/ts
+#EXTINF:-1 xui-id="998" tvg-id="" tvg-name="ANKARA HAVALARI RADYO" tvg-logo="" group-title="TR - Muzik",ANKARA HAVALARI RADYO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyetZl3PTemLhTDUfyNHzfWeA2fT7qKAyrePKbQubMSOmV/ts
+#EXTINF:-1 xui-id="1002" tvg-id="" tvg-name="BEST FM RADYO" tvg-logo="" group-title="TR - Muzik",BEST FM RADYO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyepDhyRuZqzxAcBJVrNt9MqpDft3lpI5Dt4C5QNos59pE/ts
+#EXTINF:-1 xui-id="1003" tvg-id="" tvg-name="FENOMEN POP RADYO" tvg-logo="" group-title="TR - Muzik",FENOMEN POP RADYO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyepDhyRuZqzxAcBJVrNt9MqpZ1JA2UJMsIp0VZca8jQv0/ts
+#EXTINF:-1 xui-id="1004" tvg-id="" tvg-name="fenomenturk RADYO" tvg-logo="" group-title="TR - Muzik",fenomenturk RADYO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyepDhyRuZqzxAcBJVrNt9MqrlLvdDkrhKl5lTBJcZLXzH/ts
+#EXTINF:-1 xui-id="1006" tvg-id="" tvg-name="JOY TURK RADYO" tvg-logo="" group-title="TR - Muzik",JOY TURK RADYO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyepDhyRuZqzxAcBJVrNt9MqrnTzxd21RRsczR9RlI5YTj/ts
+#EXTINF:-1 xui-id="18256" tvg-id="" tvg-name="TR: Dream Turk TV" tvg-logo="" group-title="TR - Muzik",TR: Dream Turk TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeuHzE6qd2yCvMn2TJo6Y-qmFqZmU2l-R2Dt8d08uoqj8/ts
+#EXTINF:-1 xui-id="18258" tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="" group-title="TR - Muzik",TR: KRAL TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeuHzE6qd2yCvMn2TJo6Y-qkik2IC999CRNe1z2o38vCR/ts
+#EXTINF:-1 xui-id="18261" tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="" group-title="TR - Muzik",TR: NR1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeuHzE6qd2yCvMn2TJo6Y-qlojWcNXClVwvqTyA6qn9xz/ts
+#EXTINF:-1 xui-id="30284" tvg-id="" tvg-name="POWER TURK HD" tvg-logo="" group-title="TR - Muzik",POWER TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPP-fMx8nr-_OAdqxLiUrjW/ts
+#EXTINF:-1 xui-id="35519" tvg-id="" tvg-name="TR: VIPMAX-KLARNET" tvg-logo="https://scontent.fdtm2-1.fna.fbcdn.net/v/t31.18172-8/20543734_102207657151492_4999842411721352114_o.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_ohc=O4zGehDHUTsAX_WaXMW&_nc_ht=scontent.fdtm2-1.fna&oh=00_AT9kfY_fiq4u725oyTSaHdm98CXBGASih5D6SSOujHdZoA&oe=624839D1" group-title="TR - Muzik",TR: VIPMAX-KLARNET
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKfzuWdtCs-U6CcDdBHFl93Z/ts
+#EXTINF:-1 xui-id="35520" tvg-id="" tvg-name="TR:  BEST OF SIBEL CAN" tvg-logo="http://xtvizle.nl:80/images/5jXs2feCwOk8Iz1lvI4ptkX8vPDkduxMFRaPogr-cb8gu4Ve4kNCbWYkVb0apY8c35PfaxKZ56CEWGz29uZe9Py5Xex10Q5YztvAUomtG4Q.jpg" group-title="TR - Muzik",TR:  BEST OF SIBEL CAN
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKenwI8FHX_OL-8cffZW5lYQ/ts
+#EXTINF:-1 xui-id="35521" tvg-id="" tvg-name="TR: BEST OF TARKAN" tvg-logo="http://xtvizle.nl:80/images/dHsBsfU-xJtKlmjA7L-gjevrPQ81AlV9jG_FscSgtFgmdtJQL97_ufUu4bYWK4fKhXk-xC7uKl0SdKJVz6Ix4Pt4MNzZ5W3ghgUauVbrgUw.jpg" group-title="TR - Muzik",TR: BEST OF TARKAN
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKejywKQJTeJEI50LJ87l2OZ/ts
+#EXTINF:-1 xui-id="35522" tvg-id="" tvg-name="TR:-  BEST OF SEZEN AKSU" tvg-logo="http://xtvizle.nl:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7QhDW3IgHnw1hmbVi_uM6yM0YOCGww_JiGCS8iH7fzGbiac372lIgtObGXKd__zL8JVtbjr68w4C1ZMzMwa_Zsw.jpeg" group-title="TR - Muzik",TR:-  BEST OF SEZEN AKSU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKcpqazf-UgTjU-AEJ24ekwI/ts
+#EXTINF:-1 xui-id="35523" tvg-id="" tvg-name="TR: BEST OF KORAY AVCI" tvg-logo="http://xtvizle.nl:80/images/rniQy8pTWGLp8icLlVxLr7y8uPBpsGEjc5KMEPpYzdSKgOqR-iU5Ewhr9fV7PXZFrj-y9JdYcG97XqUHQ8IHn8bbcyFQQk6azF1JKzZe6sU.jpg" group-title="TR - Muzik",TR: BEST OF KORAY AVCI
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKfcnFbc6Cf0uax_jw-2SJY6/ts
+#EXTINF:-1 xui-id="35524" tvg-id="" tvg-name="TR: BEST OF  IBRAHIM TATLISES" tvg-logo="http://xtvizle.nl:80/images/Q76t_Kh6WtyOOYy116MxO_WQDpa04eBX4peXAQsYSDJVD0tN43pOsGpX7YX1FBxP7BfKs1mWONW8JOHe6zsHJBlUgyGGpZb6j0lLlCodQYE.jpg" group-title="TR - Muzik",TR: BEST OF  IBRAHIM TATLISES
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKctoVECl3bTfvoNDViQndeR/ts
+#EXTINF:-1 xui-id="35525" tvg-id="" tvg-name="TR: V-I-P TURKCE MUZIK" tvg-logo="http://xtvizle.nl:80/images/-7oKEATgI6CdWxwKW-B7i6ztQpl0umNKgPL4tnRDGGmP-07MSPAunK4Ywmg3LDvi9FXIPovon1EetrGshsc3Q70xLOGxxAlmnS7Xrlo6psE.jpg" group-title="TR - Muzik",TR: V-I-P TURKCE MUZIK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKfIuSP6bzRV4ACfy62W64hg/ts
+#EXTINF:-1 xui-id="35526" tvg-id="" tvg-name="DE: VIPAVRUPA DOKUS" tvg-logo="http://xtvizle.nl:80/images/_PFPECAfduyBrBSxQu9ZP9TJFbqI_e5gLo_VuMyUWafX6AmefuPKb2b--TvmVqUakKFtNczK6LohWREmVQsFXw.jpg" group-title="TR - Muzik",DE: VIPAVRUPA DOKUS
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKciIVfUyo_wisXYP2eUCWUM/ts
+#EXTINF:-1 xui-id="35527" tvg-id="" tvg-name="TR:- BEST OF ROMANTIK SARKILAR" tvg-logo="http://xtvizle.nl:80/images/ycPtCdUYUcp7ryTTAjtTGNLQDdZIYDRIYyKwIS1bRh6JqTMA7FuWMLfqsmJN-MVAidD4G7aMyWJ2YdP2a5jRQ1uFYg-w6DR1cjfwZjcvNxA.jpeg" group-title="TR - Muzik",TR:- BEST OF ROMANTIK SARKILAR
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKdUmitJ2vSRY4ES1HNsxyOp/ts
+#EXTINF:-1 xui-id="35528" tvg-id="" tvg-name="TR:- VIPMAX 4K MUZIK" tvg-logo="http://xtvizle.nl:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoi5wiE_Bfr78CZs5sG58_MaohUV153LNR9XNUxP4tbIeoV_cqOUwHtFuVHA9_YGqVXCCg01K21CHEi3Fmd8mC8nCwcDCGhiQ6NsvxGeDn-mrw.jpeg" group-title="TR - Muzik",TR:- VIPMAX 4K MUZIK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKcnBva08fbvFqbkhT4aWhoc/ts
+#EXTINF:-1 xui-id="35529" tvg-id="" tvg-name="TR:- TRT MUZIK HD*" tvg-logo="http://xtvizle.nl:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgKTP-QPGh7wTsdsy4auPRec3Q5v1HX0wauHaucUe03m3Ra928XM7qQvAehKAJfUbqRS4voyxHpW0ieT85S3ToxFD2mkUJ5_rDheUJO8SK9iew.jpeg" group-title="TR - Muzik",TR:- TRT MUZIK HD*
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKdMqOAhwabjmp7VatfRUNRI/ts
+#EXTINF:-1 xui-id="35530" tvg-id="" tvg-name="TR:- KRAL POP hd" tvg-logo="http://xtvizle.nl:80/images/LDPsmnGEakyG1Ro8I2Q0NzSO0UCpNozCiyob4S7XtzSMfZZfQqctyO-FgEvP2LIgxh56h_knamw9pm-a7tFhxBAivRBbX1jNFGePKbP7DlBnjy7qTyov9kjPh113eSHH.jpg" group-title="TR - Muzik",TR:- KRAL POP hd
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKcEasiCFnd6oYT6AwhnUXCP/ts
+#EXTINF:-1 xui-id="35531" tvg-id="" tvg-name="TR:- VIP TURKCE )=" tvg-logo="http://xtvizle.nl:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7Mz_5Yp9Fjl7kHOigDOw5ahoyqqeCNuRun7j305NRdy3XgptBETjD3Ks2mVwtfieZ1rJHLltSI6WhK9qUlh6tkCL85XJ34gZeUo2hF2Jz-aLkcRPjhHoEmb3p4URYbslg.jpeg" group-title="TR - Muzik",TR:- VIP TURKCE )=
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKdbZnSnVcq6Sa3n1DH7SMY9/ts
+#EXTINF:-1 xui-id="35532" tvg-id="" tvg-name="TR:- POWERTURK HD" tvg-logo="http://xtvizle.nl:80/images/on9F64X-k6Nbyn1Rv0ugoxY0wfazcUBKwAhdibIBHnfhLHO_nwI83863OncwON4YgefNd3Lmqy7D8NchwRXbVy4coGO1dRXoMcTxWLLArM0.png" group-title="TR - Muzik",TR:- POWERTURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKfmYs2XIauafitEt6nHPWH1/ts
+#EXTINF:-1 xui-id="35533" tvg-id="" tvg-name="TR:- POWER TV" tvg-logo="https://i.haber3.com/2/640/360/files/2020/4/19/5252576/power-turk-VAJ.jpg?v=a1587280131" group-title="TR - Muzik",TR:- POWER TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKdrEJn7KOdh1CRxPTj16RUV/ts
+#EXTINF:-1 xui-id="35534" tvg-id="" tvg-name="TR:- TATLISES TV HD" tvg-logo="http://xtvizle.nl:80/images/vr00luC88uaeE-0nQZGVRWBatYxTHZ9w4hRRahLoxzDUg0nCEQSLFUyqLedpcJKGGY8IcsqYHkHC4GOJXlUfTUmwTQ9yJfsjezi5La8XBt8.jpg" group-title="TR - Muzik",TR:- TATLISES TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKfZpOThrT_D5NQPaPbouYGm/ts
+#EXTINF:-1 xui-id="35535" tvg-id="" tvg-name="TR:- KRAL TV" tvg-logo="http://xtvizle.nl:80/images/LDPsmnGEakyG1Ro8I2Q0NzSO0UCpNozCiyob4S7XtzSMfZZfQqctyO-FgEvP2LIgxh56h_knamw9pm-a7tFhxBAivRBbX1jNFGePKbP7DlBnjy7qTyov9kjPh113eSHH.jpg" group-title="TR - Muzik",TR:- KRAL TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKd9vnscphJiWPTSEm9uyM2C/ts
+#EXTINF:-1 xui-id="35536" tvg-id="" tvg-name="TR:- DREAM TURK HD" tvg-logo="http://xtvizle.nl:80/images/on9F64X-k6Nbyn1Rv0ugoxY0wfazcUBKwAhdibIBHnfhLHO_nwI83863OncwON4YgefNd3Lmqy7D8NchwRXbVy4coGO1dRXoMcTxWLLArM0.png" group-title="TR - Muzik",TR:- DREAM TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKd3eYHBEb2YUcoPYvZfPxAX/ts
+#EXTINF:-1 xui-id="35537" tvg-id="" tvg-name="TR:-  POWER TURK HD" tvg-logo="" group-title="TR - Muzik",TR:-  POWER TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKdZ4V2DGsIx6yQxt_v86Y_T/ts
+#EXTINF:-1 xui-id="35538" tvg-id="" tvg-name="TR:-DREAM TURK" tvg-logo="http://xtvizle.nl:80/images/TfuoPSjPYLdMhUA-k-9pLh_pwUu3q4o4srKUh5IQQYxHYHwtqN-qYak4d3moSV8YTkuQ7fmISVdl8kCdw00T-qnlAHFkxkCUPJUHPh9rdAY.jpg" group-title="TR - Muzik",TR:-DREAM TURK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKeZhQD4elIIB1l7TiTUL_-8/ts
+#EXTINF:-1 xui-id="35539" tvg-id="" tvg-name="TR:- SÖMINE MUZIK" tvg-logo="https://www.askidanevar.com/upload/campaign/16294LVNMJ.jpg" group-title="TR - Muzik",TR:- SÖMINE MUZIK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKe2fTfRTzDwfJt31tRuWU1K/ts
+#EXTINF:-1 xui-id="35540" tvg-id="" tvg-name="TR:-SÖMINE MÜZIK TURKU" tvg-logo="http://xtvizle.nl:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcG68XTf-l3t-mSl03jlTuhiQHueQm8OAEqYUtzeIqTvWBCXep556B5AwkKiv_XlrAA.jpg" group-title="TR - Muzik",TR:-SÖMINE MÜZIK TURKU
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKcL31kU-LCrI-uaFwoHHso8/ts
+#EXTINF:-1 xui-id="35541" tvg-id="" tvg-name="TR:- SARKILAR BIZI SÖYLER" tvg-logo="http://xtvizle.nl:80/images/Pab2R3joJgJXE-mTK8zr14qQRewY4DBCH7JAxAp6O9ZMkBwzE-E1BVxjYx01_FOAOopMZxt2DBBDp64G54qh-87lQm5bHFbaSsv7m-F0tSQ.jpg" group-title="TR - Muzik",TR:- SARKILAR BIZI SÖYLER
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKeu7yTeinKLvXxekWd_9OLa/ts
+#EXTINF:-1 xui-id="35542" tvg-id="" tvg-name="TR:- SIIR DINLE" tvg-logo="http://xtvizle.nl:80/images/CO2GsS5SG5r9Jgq8f85Rq3BtgozV9xVbvQw1kJbwlh5-czfwq4KX3DZnY7DgOBCSl3aD3jyWAVF1Ji_0_vEwE7NP7929W9UGoRKw6Fm42csFM4v3ZnmhTcX8gUE2waiVHM2nPSe899fSRZm2m1fw8Q.jpg" group-title="TR - Muzik",TR:- SIIR DINLE
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesF4RCPleuiwlqs_-sdNhKc5r6VCttZ9i4OiJBcKnyFV/ts
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="#### TR SINEMA ####" tvg-logo="" group-title="TR - Sinema",#### TR SINEMA ####
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenFboUASVd-qQA8672qQvHw/ts
+#EXTINF:-1 xui-id="32977" tvg-id="" tvg-name="EXXEN DIZI 7/24" tvg-logo="" group-title="TR - Sinema",EXXEN DIZI 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt02BjqmGIeRXzfBGQVbffjlW/ts
+#EXTINF:-1 xui-id="32978" tvg-id="" tvg-name="CICEK TAXI 7/24" tvg-logo="" group-title="TR - Sinema",CICEK TAXI 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt00aYUgJc3WLSl0hYVz5_fEQ/ts
+#EXTINF:-1 xui-id="32979" tvg-id="" tvg-name="COCUKLAR DUYMASIN 7/24" tvg-logo="" group-title="TR - Sinema",COCUKLAR DUYMASIN 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt00W91TkGYN0v12xybNzlnFM/ts
+#EXTINF:-1 xui-id="32980" tvg-id="" tvg-name="DIRILIS ERTUGRUL 7/24" tvg-logo="" group-title="TR - Sinema",DIRILIS ERTUGRUL 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt01sCw81GqPBCQEpXGwudzmF/ts
+#EXTINF:-1 xui-id="32982" tvg-id="" tvg-name="RECEP İVEDIK 7/24" tvg-logo="" group-title="TR - Sinema",RECEP İVEDIK 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt030al3VTtAXoS3ZbhQ46SUH/ts
+#EXTINF:-1 xui-id="32983" tvg-id="" tvg-name="MASKELI BESLER 7/24" tvg-logo="" group-title="TR - Sinema",MASKELI BESLER 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt03mgD4yx0C8npcN-NQU5Lpk/ts
+#EXTINF:-1 xui-id="32984" tvg-id="" tvg-name="KURTLAR VADISI 7/24" tvg-logo="" group-title="TR - Sinema",KURTLAR VADISI 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt03ccVL3Jod443lwA0MVr4ii/ts
+#EXTINF:-1 xui-id="32985" tvg-id="" tvg-name="KARDES PAYI 7/24" tvg-logo="" group-title="TR - Sinema",KARDES PAYI 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenUanR62X1pKsxOFVWkRt01Lm6sYhgxXVb8syysFUDFX/ts
+#EXTINF:-1 xui-id="33025" tvg-id="" tvg-name="Fix Cinema Action" tvg-logo="" group-title="TR - Sinema",Fix Cinema Action
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKzMmTyJw8XB2YOdA-qA3c6N/ts
+#EXTINF:-1 xui-id="33026" tvg-id="" tvg-name="Fix Cinema Bilimkurgu" tvg-logo="" group-title="TR - Sinema",Fix Cinema Bilimkurgu
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKy1xHY8wIrOqySM2RRTSo0Z/ts
+#EXTINF:-1 xui-id="33027" tvg-id="" tvg-name="Fix Cinema Comedy" tvg-logo="" group-title="TR - Sinema",Fix Cinema Comedy
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKwaDyHysKQryjH0ZO7EE6Em/ts
+#EXTINF:-1 xui-id="33028" tvg-id="" tvg-name="Fix Cinema Dram" tvg-logo="" group-title="TR - Sinema",Fix Cinema Dram
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKyfGuMR3aR8p-C_2mTnSuvb/ts
+#EXTINF:-1 xui-id="33029" tvg-id="" tvg-name="Fix Cinema Fantastic" tvg-logo="" group-title="TR - Sinema",Fix Cinema Fantastic
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKxZR5-h4Za6foj4jpDEy_DS/ts
+#EXTINF:-1 xui-id="33030" tvg-id="" tvg-name="Fix Cinema Korku" tvg-logo="" group-title="TR - Sinema",Fix Cinema Korku
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKzCI0L4RVnx9IM8_RZ_rfn9/ts
+#EXTINF:-1 xui-id="33031" tvg-id="" tvg-name="Fix Cinema Macera" tvg-logo="" group-title="TR - Sinema",Fix Cinema Macera
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKxiGXLPugiMf_iDJtBiBH16/ts
+#EXTINF:-1 xui-id="33032" tvg-id="" tvg-name="Fix Cinema Netflix" tvg-logo="" group-title="TR - Sinema",Fix Cinema Netflix
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKwHedgeoelsl5JgD7BMyGnU/ts
+#EXTINF:-1 xui-id="33033" tvg-id="" tvg-name="Fix Cinema Yerli" tvg-logo="" group-title="TR - Sinema",Fix Cinema Yerli
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKxKsginDEW6iYmLTmvdhGXY/ts
+#EXTINF:-1 xui-id="33034" tvg-id="" tvg-name="Fix Cinema Yesilcam" tvg-logo="" group-title="TR - Sinema",Fix Cinema Yesilcam
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyenslgd6GjtN9lotzhYColKw-kzVK4gK0ZKIH_r4UGRbB/ts
+#EXTINF:-1 xui-id="32474" tvg-id="" tvg-name="TR:ENO AiLE 1" tvg-logo="" group-title="TR - Sinema",TR:ENO AiLE 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5aLmDOwZhMC9NIcaBamQUQ/ts
+#EXTINF:-1 xui-id="32475" tvg-id="" tvg-name="TR:ENO AiLE 2" tvg-logo="" group-title="TR - Sinema",TR:ENO AiLE 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4C1hTBviLVcE-uZnqr_tYW/ts
+#EXTINF:-1 xui-id="32476" tvg-id="" tvg-name="TR:ENO AKSiYON 1" tvg-logo="" group-title="TR - Sinema",TR:ENO AKSiYON 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4d-NCulJFaR8ehECwGsfz1/ts
+#EXTINF:-1 xui-id="32477" tvg-id="" tvg-name="TR:ENO AKSiYON 2" tvg-logo="" group-title="TR - Sinema",TR:ENO AKSiYON 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5yX88Gk17brl9NJARiBWRY/ts
+#EXTINF:-1 xui-id="32478" tvg-id="" tvg-name="TR:ENO COCUK 1" tvg-logo="" group-title="TR - Sinema",TR:ENO COCUK 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7MypHkTwIV9mxyabBufO6M/ts
+#EXTINF:-1 xui-id="32479" tvg-id="" tvg-name="TR:ENO COCUK 2" tvg-logo="" group-title="TR - Sinema",TR:ENO COCUK 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7I1M_HO6QJiSmwaVDurarb/ts
+#EXTINF:-1 xui-id="32480" tvg-id="" tvg-name="TR:ENO HINT 1" tvg-logo="" group-title="TR - Sinema",TR:ENO HINT 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5cXUrMK6_Vk93utvHFG29e/ts
+#EXTINF:-1 xui-id="32481" tvg-id="" tvg-name="TR:ENO HINT 2" tvg-logo="" group-title="TR - Sinema",TR:ENO HINT 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4ZWaF5TvxIASDHMesj0TuQ/ts
+#EXTINF:-1 xui-id="32482" tvg-id="" tvg-name="TR:ENO MACERA 1" tvg-logo="" group-title="TR - Sinema",TR:ENO MACERA 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7yyhWgDRhU8Ui0jQg8i5cZ/ts
+#EXTINF:-1 xui-id="32483" tvg-id="" tvg-name="TR:ENO MACERA 2" tvg-logo="" group-title="TR - Sinema",TR:ENO MACERA 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6oTGYnKTTioQmgXImFgOD0/ts
+#EXTINF:-1 xui-id="20552" tvg-id="" tvg-name="TR: ENO AKSIYON 1" tvg-logo="" group-title="TR - Sinema",TR: ENO AKSIYON 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevL5GOMecgB3MXlzHZXIZlgg7P-P1XhBszeXyEIXAyCf/ts
+#EXTINF:-1 xui-id="20553" tvg-id="" tvg-name="TR: ENO AKSIYON 2" tvg-logo="" group-title="TR - Sinema",TR: ENO AKSIYON 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevL5GOMecgB3MXlzHZXIZlhkDlXfAYI5j2uaEMp43Bwb/ts
+#EXTINF:-1 xui-id="20558" tvg-id="" tvg-name="TR: ENOFLIX 1" tvg-logo="" group-title="TR - Sinema",TR: ENOFLIX 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevL5GOMecgB3MXlzHZXIZljBDjTr5j6o0BVoF7nptIXL/ts
+#EXTINF:-1 xui-id="20559" tvg-id="" tvg-name="TR: ENOFLIX 2" tvg-logo="" group-title="TR - Sinema",TR: ENOFLIX 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevL5GOMecgB3MXlzHZXIZlhSdWorFVNgexSL2AQ7xesP/ts
+#EXTINF:-1 xui-id="20560" tvg-id="" tvg-name="TR: ENOFLIX 3" tvg-logo="" group-title="TR - Sinema",TR: ENOFLIX 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevL5GOMecgB3MXlzHZXIZljDq59r80vRodaUcXSS9nbk/ts
+#EXTINF:-1 xui-id="32484" tvg-id="" tvg-name="TR:ENO TURK 1" tvg-logo="" group-title="TR - Sinema",TR:ENO TURK 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6Pl0GJbM1zk0oo25bclY-N/ts
+#EXTINF:-1 xui-id="32485" tvg-id="" tvg-name="TR:ENO TURK 2" tvg-logo="" group-title="TR - Sinema",TR:ENO TURK 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6Vj7DgOJSGj1acOaTMJbQa/ts
+#EXTINF:-1 xui-id="32486" tvg-id="" tvg-name="TR:ENO TURK 3" tvg-logo="" group-title="TR - Sinema",TR:ENO TURK 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6UWDU5OZ-_i92EpZEyrlwO/ts
+#EXTINF:-1 xui-id="32487" tvg-id="" tvg-name="TR:ENO VIZYON 1" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ55ekX2CsD0HUc7ss09lE5W/ts
+#EXTINF:-1 xui-id="32488" tvg-id="" tvg-name="TR:ENO VIZYON 2" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6M2_nVLPn9xOCryrxnRX0x/ts
+#EXTINF:-1 xui-id="32489" tvg-id="" tvg-name="TR:ENO VIZYON 3" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5bKrW85DA_XtjvELFyb-9u/ts
+#EXTINF:-1 xui-id="32490" tvg-id="" tvg-name="TR:ENO VIZYON 4" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 4
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ47q5WjAGUbyjhyaSnjJoPW/ts
+#EXTINF:-1 xui-id="32491" tvg-id="" tvg-name="TR:ENO VIZYON 5" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 5
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ773JWjVm0W3T6sQW4WskvX/ts
+#EXTINF:-1 xui-id="32492" tvg-id="" tvg-name="TR:ENO VIZYON 6" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 6
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4e05TcMZ8YxAhtVcLzA83C/ts
+#EXTINF:-1 xui-id="32494" tvg-id="" tvg-name="TR:ENO VIZYON 8" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 8
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7PtKWs6wERcz7VD6FCPGXw/ts
+#EXTINF:-1 xui-id="32495" tvg-id="" tvg-name="TR:ENO VIZYON 9" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 9
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5_KKu4yaJGjwBt3ZDFsUUp/ts
+#EXTINF:-1 xui-id="32496" tvg-id="" tvg-name="TR:ENO VIZYON 10" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 10
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6QRVf17BwvQqjtBW_mrUNE/ts
+#EXTINF:-1 xui-id="32497" tvg-id="" tvg-name="TR:ENO VIZYON 11" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 11
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4HGEtqAGSJ6qy51MmQwLnz/ts
+#EXTINF:-1 xui-id="32498" tvg-id="" tvg-name="TR:ENO VIZYON 12" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 12
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7SRMrfTyIfrM-r9Io7jiNV/ts
+#EXTINF:-1 xui-id="32499" tvg-id="" tvg-name="TR:ENO VIZYON 13" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 13
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ72wPWw_fqp6uou9F7VbbZ1/ts
+#EXTINF:-1 xui-id="32500" tvg-id="" tvg-name="TR:ENO VIZYON 14" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 14
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVtEnJPdLVbN7niRSE8ou8sl/ts
+#EXTINF:-1 xui-id="32501" tvg-id="" tvg-name="TR:ENO VIZYON 15" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 15
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVtNnUbsgiru7fmt6FYfdrVQ/ts
+#EXTINF:-1 xui-id="32502" tvg-id="" tvg-name="TR:ENO VIZYON 16" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 16
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVvWXeyKS3AbTIcTKosLfFMf/ts
+#EXTINF:-1 xui-id="32503" tvg-id="" tvg-name="TR:ENO VIZYON 17" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 17
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVuoxiye_VX0HRmYyNibgHwP/ts
+#EXTINF:-1 xui-id="32504" tvg-id="" tvg-name="TR:ENO VIZYON 18" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 18
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVuyONKIVF4Jt4vEdhzXD56a/ts
+#EXTINF:-1 xui-id="32505" tvg-id="" tvg-name="TR:ENO VIZYON 19" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 19
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVvwcAtuMwE_Uau2I-MeTsws/ts
+#EXTINF:-1 xui-id="32506" tvg-id="" tvg-name="TR:ENO VIZYON 20" tvg-logo="" group-title="TR - Sinema",TR:ENO VIZYON 20
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVurn5mpzcOwolcAvbS-HYQ3/ts
+#EXTINF:-1 xui-id="32507" tvg-id="" tvg-name="TR:ENO WESTERN 1" tvg-logo="" group-title="TR - Sinema",TR:ENO WESTERN 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVv0jOVON2Dh_Vr88AQ4zERd/ts
+#EXTINF:-1 xui-id="32508" tvg-id="" tvg-name="TR:ENO YESILCAM 1" tvg-logo="" group-title="TR - Sinema",TR:ENO YESILCAM 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVtxa_LVsA22rLMusjGjL8qJ/ts
+#EXTINF:-1 xui-id="32509" tvg-id="" tvg-name="TR:ENO YESILCAM 2" tvg-logo="" group-title="TR - Sinema",TR:ENO YESILCAM 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeoFiQ1wX-zzyTCfQk-45SVsENpVjOk9iKIqvPI-RzuAc/ts
+#EXTINF:-1 xui-id="22039" tvg-id="" tvg-name="TR | YESiLCAM TV 2" tvg-logo="" group-title="TR - Sinema",TR | YESiLCAM TV 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5E059gmmc0ebl40g1JkHlZ/ts
+#EXTINF:-1 xui-id="22040" tvg-id="" tvg-name="TR | SENER SEN TV" tvg-logo="" group-title="TR - Sinema",TR | SENER SEN TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6ckwbaHDchPSdWkks8n1Lo/ts
+#EXTINF:-1 xui-id="30304" tvg-id="" tvg-name="TR: VIPMAX 4K TURK" tvg-logo="" group-title="TR - Sinema",TR: VIPMAX 4K TURK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRWDtWcWlVMQqMkwE189VRL/ts
+#EXTINF:-1 xui-id="30305" tvg-id="" tvg-name="TR: LOCA 4K OSCAR" tvg-logo="" group-title="TR - Sinema",TR: LOCA 4K OSCAR
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRbVtZuDu_hkmJA3sPCqjAR/ts
+#EXTINF:-1 xui-id="30298" tvg-id="" tvg-name="TR: VIPMAX 4K  AiLE" tvg-logo="" group-title="TR - Sinema",TR: VIPMAX 4K  AiLE
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPF8i0LoLjnPxdjxQFLSHJ4/ts
+#EXTINF:-1 xui-id="30299" tvg-id="" tvg-name="TR: VIPMAX 4K AKSiYON" tvg-logo="" group-title="TR - Sinema",TR: VIPMAX 4K AKSiYON
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPCAAGQW5tH0PYUyvk2G7yD/ts
+#EXTINF:-1 xui-id="30301" tvg-id="" tvg-name="TR: VIPMAX 4K COCUK" tvg-logo="" group-title="TR - Sinema",TR: VIPMAX 4K COCUK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SQmGrhKdWfXBgWY1X8rJG3V/ts
+#EXTINF:-1 xui-id="30303" tvg-id="" tvg-name="TR: VIPMAX 4K ROMANTIK" tvg-logo="" group-title="TR - Sinema",TR: VIPMAX 4K ROMANTIK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRg6Xchb2pPU18Ls_dFtvGU/ts
+#EXTINF:-1 xui-id="30308" tvg-id="" tvg-name="TR: LOCA 4K FANTASTICK" tvg-logo="" group-title="TR - Sinema",TR: LOCA 4K FANTASTICK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SQaw5Mjx8isF6cm_XgqR8Vn/ts
+#EXTINF:-1 xui-id="30310" tvg-id="" tvg-name="TR: LOCA 4K WESTERN" tvg-logo="" group-title="TR - Sinema",TR: LOCA 4K WESTERN
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqjWJsaGgrJIYOe26BF58SRnft3pEozYHSSpNwGSjtyn/ts
+#EXTINF:-1 xui-id="32166" tvg-id="" tvg-name="TR: FIBERBOX AKSİYON HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX AKSİYON HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurmaR5P_CJj93n-1dOuZdWjj/ts
+#EXTINF:-1 xui-id="32168" tvg-id="" tvg-name="TR: FIBERBOX BİLİMKURGU HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX BİLİMKURGU HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurma49zNN5-FwkcSoIQFw1d6/ts
+#EXTINF:-1 xui-id="32169" tvg-id="" tvg-name="TR: FIBERBOX DRAM HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX DRAM HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurl4hD4UuMu1e5kuFvgaEpht/ts
+#EXTINF:-1 xui-id="32170" tvg-id="" tvg-name="TR: FIBERBOX FANTASTİK HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX FANTASTİK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurn3D0RNGSqxxLUXE5PRzY7j/ts
+#EXTINF:-1 xui-id="32171" tvg-id="" tvg-name="TR: FIBERBOX KEMAL SUNAL HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX KEMAL SUNAL HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurm7_5HoTUhGegilshK_QnGH/ts
+#EXTINF:-1 xui-id="32174" tvg-id="" tvg-name="TR: FIBERBOX TURK HD" tvg-logo="" group-title="TR - Sinema",TR: FIBERBOX TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurlaNPLkNEZgkg-1ilkPfXHd/ts
+#EXTINF:-1 xui-id="32177" tvg-id="" tvg-name="TR: MAGICBOX LOCA 2 HD" tvg-logo="" group-title="TR - Sinema",TR: MAGICBOX LOCA 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurn4Gq-z7iD79Du7dehiTQll/ts
+#EXTINF:-1 xui-id="32178" tvg-id="" tvg-name="TR: MAGICBOX LOCA 3 HD" tvg-logo="" group-title="TR - Sinema",TR: MAGICBOX LOCA 3 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurmQW6jqmq6QjBrK50sDIkvj/ts
+#EXTINF:-1 xui-id="32182" tvg-id="" tvg-name="TR: MAGICBOX KEMAL SUNAL HD" tvg-logo="" group-title="TR - Sinema",TR: MAGICBOX KEMAL SUNAL HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurmQa0rp37e439y5oJpj-cEq/ts
+#EXTINF:-1 xui-id="32183" tvg-id="" tvg-name="TR: MAGICBOX KOMEDİ HD" tvg-logo="" group-title="TR - Sinema",TR: MAGICBOX KOMEDİ HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurlEI8dXLQUcuJulku0xjzry/ts
+#EXTINF:-1 xui-id="30237" tvg-id="" tvg-name="Sinema Aile 2 HD" tvg-logo="" group-title="TR - Sinema",Sinema Aile 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vO-yzXX4cGfdrZU6tVD0FKM/ts
+#EXTINF:-1 xui-id="30238" tvg-id="" tvg-name="Sinema Komedi 2 HD" tvg-logo="" group-title="TR - Sinema",Sinema Komedi 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vNcWYpeQhgGF_UfyeisMkPc/ts
+#EXTINF:-1 xui-id="30239" tvg-id="" tvg-name="Sinema 1002 HD" tvg-logo="" group-title="TR - Sinema",Sinema 1002 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vPD8rXjYNMcpmAinz2nt6IB/ts
+#EXTINF:-1 xui-id="30240" tvg-id="" tvg-name="Sinema 2 HD" tvg-logo="" group-title="TR - Sinema",Sinema 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMn5E-8b-yH-JRc4up_ad00/ts
+#EXTINF:-1 xui-id="30241" tvg-id="" tvg-name="Sinema Aksiyon HD" tvg-logo="" group-title="TR - Sinema",Sinema Aksiyon HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vN8fzP9eu0Ary7KhqcOzhHx/ts
+#EXTINF:-1 xui-id="30243" tvg-id="" tvg-name="Sinema Aksiyon 2 HD" tvg-logo="" group-title="TR - Sinema",Sinema Aksiyon 2 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMJSf6gBD0JJln9KE-EQgsV/ts
+#EXTINF:-1 xui-id="30244" tvg-id="" tvg-name="Sinema Aile HD" tvg-logo="" group-title="TR - Sinema",Sinema Aile HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOFfG_n7Oz6TN_id7mxx-kt/ts
+#EXTINF:-1 xui-id="14526" tvg-id="" tvg-name="SINEMA TV AILE 1 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV AILE 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyetafo6q6SwMrWs8n1oDHiXKlL1c3dbyI3qgN4jvnk7wW/ts
+#EXTINF:-1 xui-id="14537" tvg-id="" tvg-name="SINEMA TV 1001 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV 1001 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyetafo6q6SwMrWs8n1oDHiXLMIeKqp-tnn5sgBtIqN_zq/ts
+#EXTINF:-1 xui-id="14538" tvg-id="" tvg-name="SINEMA TV KOMEDI 1 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV KOMEDI 1 HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyetafo6q6SwMrWs8n1oDHiXKFjJGyg5UHPPduvT1xnOIv/ts
+#EXTINF:-1 xui-id="14552" tvg-id="" tvg-name="DREAMBOX KEMAL SUNAL" tvg-logo="" group-title="TR - Sinema",DREAMBOX KEMAL SUNAL
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyetafo6q6SwMrWs8n1oDHiXJAsmwUx5dgAsqFRiyPHJJK/ts
+#EXTINF:-1 xui-id="18148" tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR - Sinema",TR: FX HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyesV6NeVBdwSGV7Ib0aivtnFTziKapq7bhUAInCjaRY_c/ts
+#EXTINF:-1 xui-id="30231" tvg-id="" tvg-name="TR: MOVIESMART TURK FHD" tvg-logo="" group-title="TR - Sinema",TR: MOVIESMART TURK FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vMEokpRa3Bhwdn1EPNWwSEm/ts
+#EXTINF:-1 xui-id="30234" tvg-id="" tvg-name="TR: MOVIESMART FEST FHD" tvg-logo="" group-title="TR - Sinema",TR: MOVIESMART FEST FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vOgeAJ73aEFJxGuIET3-n4F/ts
+#EXTINF:-1 xui-id="30235" tvg-id="" tvg-name="TR: MOVIESMART CLASSIC FHD" tvg-logo="" group-title="TR - Sinema",TR: MOVIESMART CLASSIC FHD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vNVFi_8yqzYK3uVsZHd0sXi/ts
+#EXTINF:-1 xui-id="22004" tvg-id="" tvg-name="A HABER HD+" tvg-logo="https://www.yilmaztv.com/logo/ahaber.png" group-title="TR - Haber",A HABER HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6zsEk2Icg9_wy-p9Owvid3/ts
+#EXTINF:-1 xui-id="14700" tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="TR - Haber",A HABER HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOefNC3lWDUKA1UwJhOM-Bj/ts
+#EXTINF:-1 xui-id="21997" tvg-id="" tvg-name="HABERTURK HD+" tvg-logo="https://www.yilmaztv.com/logo/5dc2bf0c866ac331e0feb216.png" group-title="TR - Haber",HABERTURK HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyejHEalQCg7n3cCfXjsQNtEOhuwg8H0Ke1CfcT3Qzjer3/ts
+#EXTINF:-1 xui-id="14701" tvg-id="" tvg-name="HABER TURK HD" tvg-logo="" group-title="TR - Haber",HABER TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWNxSHkt5Z34FYIE4mAAi2WJ/ts
+#EXTINF:-1 xui-id="22006" tvg-id="" tvg-name="CNN TURK HD+" tvg-logo="https://www.yilmaztv.com/logo/5dc2beb0866ac31da06187b6.png" group-title="TR - Haber",CNN TURK HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6kyaFHTNR4EX_1gTai27sN/ts
+#EXTINF:-1 xui-id="32339" tvg-id="" tvg-name="CNN TURK HD" tvg-logo="" group-title="TR - Haber",CNN TURK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_CJztINVzEbUzdntkWBCJm4/ts
+#EXTINF:-1 xui-id="22005" tvg-id="" tvg-name="NTV HABER HD+" tvg-logo="http://xtvizle.nl:8000/images/13bf5154c0fc2676209a7ecd9ff05bde.png" group-title="TR - Haber",NTV HABER HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5CLGo3q8DpAL8KPGT1E0Hm/ts
+#EXTINF:-1 xui-id="14699" tvg-id="" tvg-name="NTV HABER HD" tvg-logo="" group-title="TR - Haber",NTV HABER HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevmEkQkjr9uwmCfT7WmmzhrZwmr5LaKPswkx1bvItd-S/ts
+#EXTINF:-1 xui-id="21998" tvg-id="" tvg-name="TGRT HABER+" tvg-logo="https://www.yilmaztv.com/logo/5c63c466866ac30cbc2ad84f.png" group-title="TR - Haber",TGRT HABER+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyejHEalQCg7n3cCfXjsQNtEMlusWO2ooMRyq13mIUeoA-/ts
+#EXTINF:-1 xui-id="14709" tvg-id="" tvg-name="TGRT HABER HD" tvg-logo="" group-title="TR - Haber",TGRT HABER HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWPwz49qJT8rHqiSpxwq3W2z/ts
+#EXTINF:-1 xui-id="22007" tvg-id="" tvg-name="TRT HABER HD+" tvg-logo="https://www.yilmaztv.com/logo/5c63ca3a866ac30cbc2ad87a.png" group-title="TR - Haber",TRT HABER HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7EzbUN7ROQ59UzggNvomFJ/ts
+#EXTINF:-1 xui-id="22002" tvg-id="" tvg-name="HALK TV HD+" tvg-logo="" group-title="TR - Haber",HALK TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw6DiQoB5m8yQDAdQvz-GPSb/ts
+#EXTINF:-1 xui-id="14704" tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="TR - Haber",HALK TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWN2NLjj8WH7JCbgTJtJIsoK/ts
+#EXTINF:-1 xui-id="22001" tvg-id="" tvg-name="360 TV HD+" tvg-logo="" group-title="TR - Haber",360 TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw4F3Tlh-24cyw2V1V4exYE0/ts
+#EXTINF:-1 xui-id="22000" tvg-id="" tvg-name="KANAL 24 TV HD+" tvg-logo="https://www.yilmaztv.com/logo/5dc2bca3866ac331e0feb1ed.png" group-title="TR - Haber",KANAL 24 TV HD+
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5bPmdqiA5L1UzirN4zfgQY/ts
+#EXTINF:-1 xui-id="14708" tvg-id="" tvg-name="ULKE TV HD" tvg-logo="" group-title="TR - Haber",ULKE TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWNSpikrlFzJY9QEzPJ6PIG-/ts
+#EXTINF:-1 xui-id="14703" tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="TR - Haber",TELE 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWNBT5bCxNRdNmlCu-RJvAIk/ts
+#EXTINF:-1 xui-id="22003" tvg-id="" tvg-name="TELE 1 +" tvg-logo="" group-title="TR - Haber",TELE 1 +
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw73GVmxrNEXjflf63m1BzwV/ts
+#EXTINF:-1 xui-id="14714" tvg-id="" tvg-name="BLOOMBERGHT HD" tvg-logo="http://xtvizle.nl:8000/images/b24daa3b7ab3721cdc69989e9f5f34f4.png" group-title="TR - Haber",BLOOMBERGHT HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWMYVOb6rlsWRtTT6AE7adiX/ts
+#EXTINF:-1 xui-id="4946" tvg-id="" tvg-name="24 TV HD" tvg-logo="" group-title="TR - Haber",24 TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqB8kb8HUGMzsGz0vLF27wpw-Y_SGQJuOBaFBkWUmCZ5/ts
+#EXTINF:-1 xui-id="32340" tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="TR - Haber",KRT TV HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_DDy2KkzQLfAwgRrGUPKJUE/ts
+#EXTINF:-1 xui-id="136" tvg-id="" tvg-name="#### TR COCUK ####" tvg-logo="" group-title="TR - Cocuk",#### TR COCUK ####
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyevhR_Q5C9Nq229wA_BhjPbC1DkFIxzkVjt17YhrnWJ3w/ts
+#EXTINF:-1 xui-id="14725" tvg-id="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="TR - Cocuk",TR: TRT COCUK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOZ2H4dcWH8lli47v0rEtBW/ts
+#EXTINF:-1 xui-id="14727" tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="TR - Cocuk",TR: NICK JR HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOXhhKkRKHG8lx5UJyo9cIm/ts
+#EXTINF:-1 xui-id="14732" tvg-id="" tvg-name="TR: MINICA GO HD" tvg-logo="" group-title="TR - Cocuk",TR: MINICA GO HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWP4tyxeLHK2yaTU7c4AiJfW/ts
+#EXTINF:-1 xui-id="14733" tvg-id="" tvg-name="TR: MINIKA COCUK HD" tvg-logo="" group-title="TR - Cocuk",TR: MINIKA COCUK HD
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWNWsk7mKx_4gDFPa48ArDZa/ts
+#EXTINF:-1 xui-id="14743" tvg-id="" tvg-name="TOM VE JERRY 7/24" tvg-logo="" group-title="TR - Cocuk",TOM VE JERRY 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWMTbQMzE1HHQ3dEOiWlZYbr/ts
+#EXTINF:-1 xui-id="14744" tvg-id="" tvg-name="PEPE TV" tvg-logo="" group-title="TR - Cocuk",PEPE TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOOsUQTmCRgtxi8bnTbwGZ3/ts
+#EXTINF:-1 xui-id="14746" tvg-id="" tvg-name="TR: NILOYA" tvg-logo="" group-title="TR - Cocuk",TR: NILOYA
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWMQLSiDDSei8MMK_3TDJu39/ts
+#EXTINF:-1 xui-id="22029" tvg-id="" tvg-name="TR | CANİM KARDESİM" tvg-logo="" group-title="TR - Cocuk",TR | CANİM KARDESİM
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw7tkE_aftQhT21VhLWtnctf/ts
+#EXTINF:-1 xui-id="22032" tvg-id="" tvg-name="TR | StarMaxX Seker Hoca TV 7/24" tvg-logo="" group-title="TR - Cocuk",TR | StarMaxX Seker Hoca TV 7/24
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyels9sISE4Z2iLiW8UxKGcw5rCjgc77NyD1NHuzJiLrGZ/ts
+#EXTINF:-1 xui-id="32394" tvg-id="" tvg-name="TR COCUK 24/7 | PISI TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | PISI TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_CTbJZso4SM-u-gbE8q3dbd/ts
+#EXTINF:-1 xui-id="32395" tvg-id="" tvg-name="TR COCUK 24/7 | PEPE TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | PEPE TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_CM6iLW8b2IBLwjJkxYuF9e/ts
+#EXTINF:-1 xui-id="32396" tvg-id="" tvg-name="TR COCUK 24/7 | BARBIE TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | BARBIE TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_DaSrMysHzctSgeGuW-DTnd/ts
+#EXTINF:-1 xui-id="32397" tvg-id="" tvg-name="TR COCUK 24/7 | KUZUCUK" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | KUZUCUK
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_Bh_lw3rX8soMMFhF8rwa-B/ts
+#EXTINF:-1 xui-id="32398" tvg-id="" tvg-name="TR COCUK 24/7 | KUKULI TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | KUKULI TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_DIQ-eYtrBcAcObU4QWfHOM/ts
+#EXTINF:-1 xui-id="32399" tvg-id="" tvg-name="TR COCUK 24/7 | MASAL TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | MASAL TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeu1DtxFr4YyxUp5US4SRD_CnsxO_NiIqd51gQmds9Yk1/ts
+#EXTINF:-1 xui-id="32400" tvg-id="" tvg-name="TR COCUK 24/7 | NILOYA TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | NILOYA TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6DUQ9ufTW6qiZTqVxf7qfI/ts
+#EXTINF:-1 xui-id="32401" tvg-id="" tvg-name="TR COCUK 24/7 | SIRINLER TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | SIRINLER TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4MoMpvx0d4gn5uRCl45G0a/ts
+#EXTINF:-1 xui-id="32402" tvg-id="" tvg-name="TR COCUK 24/7 | CAILLOU TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | CAILLOU TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ78M-uX07K89GgVJuGWwvpC/ts
+#EXTINF:-1 xui-id="32403" tvg-id="" tvg-name="TR COCUK 24/7 | TOM VE JERRY" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | TOM VE JERRY
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6L4UX4IdDv6gq1-HbW5Cc2/ts
+#EXTINF:-1 xui-id="32404" tvg-id="" tvg-name="TR COCUK 24/7 | EGE ILE GAGA" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | EGE ILE GAGA
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4eG7NmjHTwrUAFUl6pStkf/ts
+#EXTINF:-1 xui-id="32405" tvg-id="" tvg-name="TR COCUK 24/7 | POLLY POCKET" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | POLLY POCKET
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6xVMpfAEjKb2U7MQVwRytm/ts
+#EXTINF:-1 xui-id="32406" tvg-id="" tvg-name="TR COCUK 24/7 | KRAL SAKIR TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | KRAL SAKIR TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7_FYJpZBmQEKDZZ786kOa4/ts
+#EXTINF:-1 xui-id="32407" tvg-id="" tvg-name="TR COCUK 24/7 | PERI MASALLARI" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | PERI MASALLARI
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5KzdNqBOeL3CwbaoN73W_-/ts
+#EXTINF:-1 xui-id="32408" tvg-id="" tvg-name="TR COCUK 24/7 | ELIFIN DUSLERI" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | ELIFIN DUSLERI
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ4gD7CIIRqvVM5uVx4SYnvh/ts
+#EXTINF:-1 xui-id="32409" tvg-id="" tvg-name="TR COCUK 24/7 | SEKER HOCA TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | SEKER HOCA TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5ZpmlYnfSicGGXTKjW6yDI/ts
+#EXTINF:-1 xui-id="32410" tvg-id="" tvg-name="TR COCUK 24/7 | RAFADAN TAYFA" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | RAFADAN TAYFA
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5OHvti9Giwa9ak4yJNPcsS/ts
+#EXTINF:-1 xui-id="32411" tvg-id="" tvg-name="TR COCUK 24/7 | LOONEY TUNES TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | LOONEY TUNES TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5MPmotl5dtJBFeGTWA5Uf7/ts
+#EXTINF:-1 xui-id="32413" tvg-id="" tvg-name="TR COCUK 24/7 | PIJAMASKELILER TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | PIJAMASKELILER TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7cerhmQxgsO38S-R9gMwja/ts
+#EXTINF:-1 xui-id="32414" tvg-id="" tvg-name="TR COCUK 24/7 | LIMON ILE ZEYTIN TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | LIMON ILE ZEYTIN TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6hwfYXgytyVkmqCItBA0NH/ts
+#EXTINF:-1 xui-id="32415" tvg-id="" tvg-name="TR COCUK 24/7 | SEVIMLI DOSTLAR TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | SEVIMLI DOSTLAR TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5bNmxFfi69K0zpurcchSNh/ts
+#EXTINF:-1 xui-id="32416" tvg-id="" tvg-name="TR COCUK 24/7 | AKILLI TAVSAN MOMO" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | AKILLI TAVSAN MOMO
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6leg0eyhL6KxRe2S3jNvK9/ts
+#EXTINF:-1 xui-id="32417" tvg-id="" tvg-name="TR COCUK 24/7 | THE LOONEY TUNES 1" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | THE LOONEY TUNES 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ7urfSEPcm0ooSFNCHEIVof/ts
+#EXTINF:-1 xui-id="32418" tvg-id="" tvg-name="TR COCUK 24/7 | THE LOONEY TUNES 2" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | THE LOONEY TUNES 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ6MTewWmq-if1aYtKkm1d8e/ts
+#EXTINF:-1 xui-id="32424" tvg-id="" tvg-name="TR COCUK 24/7 | CANIM KARDESIM" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | CANIM KARDESIM
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5GN9E6zrlehWJD3QS-rKyM/ts
+#EXTINF:-1 xui-id="32425" tvg-id="" tvg-name="TR COCUK 24/7 | AFACAN TV" tvg-logo="" group-title="TR - Cocuk",TR COCUK 24/7 | AFACAN TV
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyemrU70ORVhQgzMO-libJFQ5X17n6NjvKzEE7a7_bpSjN/ts
+
+
+
 
