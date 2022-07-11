@@ -55,41 +55,21 @@ http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91401
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91402
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/91403
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 4 FHD (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 4 FHD (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93110
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93111
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93112
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/93113
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92455
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92457
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92459
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1*
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92010
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2*
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92011
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3*
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92012
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 1 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 1 720p
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92456
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 2 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 2 720p
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92458
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 3 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 3 720p
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92460
-#EXTINF:-1 tvg-id="" tvg-name="TR | Exxenn Sports 1  ʜᴅ" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | Exxenn Sports 1  ʜᴅ
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92007
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 2 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 2 HD
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92008
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 3 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 3 HD
-http://1.balans12.xyz:50750/digerpanel/MBh5nLHTz8Rw/92009
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 1
+http://213.183.47.50:2085/play/a0anFedexxen1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT FHD 1
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7FNzqIwngQOXWIjayvOliGG/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 2
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7E34NSh0hVncfjllGQVInnv/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 3
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeldhAoCBGEB3S7Lmkd9cb7G2gp4TvTgqMrYULq7glvIk/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 4
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vO73SCJ7MP1SbVhMr5LzYtt/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 5
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyet2HXBi9AAfmRICmI81K6vO7P9fX7sGzHgwr9g5kTglh/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 6
+http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyes1QXgZepSWh0yh1vCyfurnDbksqGNT3tfRrNAfz75oB/ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 7
+https://hlm4.gcdn.co/pme9GSjKpyI7ccb78W6tjA,1637880633/hlslive/6000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPORT UHD 8
+http://uydupro.xyz:8080/live/ozhan/fj9QQCavQp/56507.m3u8
