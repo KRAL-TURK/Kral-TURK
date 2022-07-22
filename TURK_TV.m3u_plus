@@ -583,3 +583,370 @@ http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/38302.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Üc Kurus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="	Yerli_Diziler_Son_Blm",Üc Kurus
 http://hayalimpro.de:1983/movie/IpmaGuencel/YR7wy1YMie/19743.mkv 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="=====GERMANY=====" tvg-logo="" group-title="DE: GERMANY",=====GERMANY=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74872.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="DE: GERMANY",DE: Das Erste HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74873.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="DE: GERMANY",DE: ZDF HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74874.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD+" tvg-logo="" group-title="DE: GERMANY",DE: RTL HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74875.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL II HD" tvg-logo="" group-title="DE: GERMANY",DE: RTL II HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74876.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 HD+" tvg-logo="" group-title="DE: GERMANY",DE: Sat 1 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74877.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben HD+" tvg-logo="" group-title="DE: GERMANY",DE: ProSieben HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74878.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD+" tvg-logo="" group-title="DE: GERMANY",DE: VOX HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74879.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins HD" tvg-logo="" group-title="DE: GERMANY",DE: Kabel Eins HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74880.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="" group-title="DE: GERMANY",DE: Kabel 1 Classics HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74881.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3sat " tvg-logo="" group-title="DE: GERMANY",DE: 3sat 
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74882.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: arte HD" tvg-logo="" group-title="DE: GERMANY",DE: arte HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74883.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ServusTV Deutschland HD" tvg-logo="" group-title="DE: GERMANY",DE: ServusTV Deutschland HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74884.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD (Web)" tvg-logo="" group-title="DE: GERMANY",DE: WDR HD (Web)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74885.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Euronews Deutsch Live" tvg-logo="" group-title="DE: GERMANY",DE: Euronews Deutsch Live
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74886.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: tagesschau24 HD" tvg-logo="" group-title="DE: GERMANY",DE: tagesschau24 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74887.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NTV" tvg-logo="" group-title="DE: GERMANY",DE: NTV
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74888.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo="" group-title="DE: GERMANY",DE: Phoenix HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74889.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT UHD" tvg-logo="" group-title="DE: GERMANY",DE: WELT UHD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74890.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: hr-fernsehen HD" tvg-logo="" group-title="DE: GERMANY",DE: hr-fernsehen HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74891.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 MAXX HD+" tvg-logo="" group-title="DE: GERMANY",DE: Pro7 MAXX HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74892.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben Fun HD" tvg-logo="" group-title="DE: GERMANY",DE: ProSieben Fun HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74893.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLplus HD" tvg-logo="" group-title="DE: GERMANY",DE: RTLplus HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74894.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="DE: GERMANY",DE: RTL Passion HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74895.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime HD" tvg-logo="" group-title="DE: GERMANY",DE: RTL Crime HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74896.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="DE: GERMANY",DE: RTL Living HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74897.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="DE: GERMANY",DE: RTL Passion HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74898.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT.1 emotions HD" tvg-logo="" group-title="DE: GERMANY",DE: SAT.1 emotions HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74899.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold HD+" tvg-logo="" group-title="DE: GERMANY",DE: Sat.1 Gold HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74900.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 HD+" tvg-logo="" group-title="DE: GERMANY",DE: TELE 5 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74901.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: BR Fernsehen Nord HD" tvg-logo="" group-title="DE: GERMANY",DE: BR Fernsehen Nord HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74902.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD (Web)" tvg-logo="" group-title="DE: GERMANY",DE: ONE HD (Web)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74903.ts
+#EXTINF:-1 tvg-id="" tvg-name="=====Sky Cinema=====" tvg-logo="" group-title="DE: Sky Cinema",=====Sky Cinema=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74904.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE HD" tvg-logo="" group-title="DE: Sky Cinema",DE: ANIXE HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74905.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street UHD" tvg-logo="" group-title="DE: Sky Cinema",DE: 13th Street UHD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74906.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kinowelt TV SD" tvg-logo="" group-title="DE: Sky Cinema",DE: Kinowelt TV SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74908.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="DE: Sky Cinema",DE: Romance TV HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74909.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Atlantic HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74910.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Action HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74911.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Best Of HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74912.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Family HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74913.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Fun HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74914.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics SD" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Classics SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74915.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren +24 HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Premieren +24 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74916.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Premieren HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74917.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Special FHD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74918.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Cinema Thriller HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74919.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky Krimi HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74920.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky One HD" tvg-logo="" group-title="DE: Sky Cinema",DE: Sky One HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74921.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: SYFY HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74922.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Comedy HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: TNT Comedy HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74923.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Film HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: TNT Film HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74924.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: TNT Serie HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74925.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central HD" tvg-logo="" group-title="DE: Sky Cinema",DE: Comedy Central HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74926.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NITRO HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: NITRO HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74927.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: SIXX HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74928.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: TLC HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74929.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Universal TV HD+" tvg-logo="" group-title="DE: Sky Cinema",DE: Universal TV HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74930.ts
+#EXTINF:-1 tvg-id="" tvg-name="=====SPORT=====" tvg-logo="" group-title="DE: SPORT",=====SPORT=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74932.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport News HD+" tvg-logo="" group-title="DE: SPORT",DE: S. Sport News HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74933.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport News HD" tvg-logo="" group-title="DE: SPORT",DE: S. Sport News HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74934.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar HD+" tvg-logo="" group-title="DE: SPORT",DE: DAZN 1 Bar HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74935.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="" group-title="DE: SPORT",DE: DAZN 1 Bar HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74936.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="" group-title="DE: SPORT",DE: DAZN 2 Bar HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74937.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="" group-title="DE: SPORT",DE: DAZN 2 Bar HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74938.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="" group-title="DE: SPORT",DE: Eurosport 2 HD Xtra
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74939.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD+" tvg-logo="" group-title="DE: SPORT",DE: Eurosport 1 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74940.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="DE: SPORT",DE: Eurosport 1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74941.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD+" tvg-logo="" group-title="DE: SPORT",DE: Eurosport 2 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74942.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="DE: SPORT",DE: Eurosport 2 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74943.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="DE: SPORT",DE: SPORT1+ HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74944.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="" group-title="DE: SPORT",DE: Sport Digital HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74945.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC BAYERN TV HD" tvg-logo="" group-title="DE: SPORT",DE: FC BAYERN TV HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74946.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EDGEsport SD RAW" tvg-logo="" group-title="DE: SPORT",DE: EDGEsport SD RAW
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74947.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 1 HD+" tvg-logo="" group-title="DE: SPORT",DE: S. Sport 1 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74949.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 1 HD" tvg-logo="" group-title="DE: SPORT",DE: S. Sport 1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74950.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 2 HD+" tvg-logo="" group-title="DE: SPORT",DE: S. Sport 2 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74951.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 2 HD" tvg-logo="" group-title="DE: SPORT",DE: S. Sport 2 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74952.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 1 HD" tvg-logo="" group-title="DE: SPORT",DE: DB Liga 1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74953.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 1 HD+" tvg-logo="" group-title="DE: SPORT",DE: DB Liga 1 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74954.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport Austria 1 HD+" tvg-logo="" group-title="DE: SPORT",DE: S. Sport Austria 1 HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74964.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport Austria 1 HD" tvg-logo="" group-title="DE: SPORT",DE: S. Sport Austria 1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74965.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport Austria 2 HD (During Games only)" tvg-logo="" group-title="DE: SPORT",DE: S. Sport Austria 2 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74966.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport Austria 3 HD (During Games only)" tvg-logo="" group-title="DE: SPORT",DE: S. Sport Austria 3 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74967.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S.Sport Austria 4 HD (During Games only)" tvg-logo="" group-title="DE: SPORT",DE: S.Sport Austria 4 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74968.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1 HD" tvg-logo="" group-title="DE: SPORT",DE: SPORT1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74980.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="DE: SPORT",DE: Sport 1+ HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74981.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor Sport HD" tvg-logo="" group-title="DE: SPORT",DE: Auto Motor Sport HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74982.ts
+#EXTINF:-1 tvg-id="" tvg-name="=====DOKU=====" tvg-logo="" group-title="DE: DOKU",=====DOKU=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74983.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFinfo HD" tvg-logo="" group-title="DE: DOKU",DE: ZDFinfo HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74984.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF neo HD" tvg-logo="" group-title="DE: DOKU",DE: ZDF neo HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74985.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Animal Planet HD" tvg-logo="" group-title="DE: DOKU",DE: Animal Planet HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74986.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Crime + Investigation" tvg-logo="" group-title="DE: DOKU",DE: Crime + Investigation
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74987.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="" group-title="DE: DOKU",DE: Kabel Eins Doku HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74988.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel UHD" tvg-logo="" group-title="DE: DOKU",DE: Discovery Channel UHD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74989.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: History HD+" tvg-logo="" group-title="DE: DOKU",DE: History HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74990.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainment HD" tvg-logo="" group-title="DE: DOKU",DE: E! Entertainment HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74991.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision TV HD" tvg-logo="" group-title="DE: DOKU",DE: Motorvision TV HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74992.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild UHD" tvg-logo="" group-title="DE: DOKU",DE: Nat Geo Wild UHD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74993.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo HD+" tvg-logo="" group-title="DE: DOKU",DE: Nat Geo HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74994.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku" tvg-logo="" group-title="DE: DOKU",DE: N24 Doku
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74995.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Planet HD" tvg-logo="" group-title="DE: DOKU",DE: Planet HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74996.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder" tvg-logo="" group-title="DE: DOKU",DE: Welt der Wunder
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74997.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD" tvg-logo="" group-title="DE: DOKU",DE: DMAX HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74998.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD+" tvg-logo="" group-title="DE: DOKU",DE: Spiegel Geschichte HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/74999.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="DE: DOKU",DE: Spiegel Geschichte HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75000.ts
+#EXTINF:-1 tvg-id="" tvg-name="=====Disney=====" tvg-logo="" group-title="DE: Disney",=====Disney=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75001.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="DE: Disney",DE: Boomerang HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75002.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network SD Raw" tvg-logo="" group-title="DE: Disney",DE: Cartoon Network SD Raw
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75003.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="DE: Disney",DE: Disney Channel HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75004.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiKA HD" tvg-logo="" group-title="DE: Disney",DE: KiKA HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75005.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick Jr." tvg-logo="" group-title="DE: Disney",DE: Nick Jr.
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75006.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK/MTV+ HD (Web)" tvg-logo="" group-title="DE: Disney",DE: NICK/MTV+ HD (Web)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75008.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nicktoons SD" tvg-logo="" group-title="DE: Disney",DE: Nicktoons SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75009.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL HD+" tvg-logo="" group-title="DE: Disney",DE: SUPER RTL HD+
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75010.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL HD" tvg-logo="" group-title="DE: Disney",DE: Super RTL HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75011.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO plus SD" tvg-logo="" group-title="DE: Disney",DE: TOGGO plus SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75012.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="" group-title="DE: Disney",DE: Disney Junior HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75013.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox SD" tvg-logo="" group-title="DE: Disney",DE: Jukebox SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75014.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Junior HD" tvg-logo="" group-title="DE: Disney",DE: Junior HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75015.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sony AXN HD" tvg-logo="" group-title="DE: Disney",DE: Sony AXN HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75016.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="DE: Disney",DE: Deluxe Music HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75017.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="" group-title="DE: Disney",DE: MTV HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75018.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Classica SD" tvg-logo="" group-title="DE: Disney",DE: Classica SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75019.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimatkanal SD" tvg-logo="" group-title="DE: Disney",DE: Heimatkanal SD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75020.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="DE: Disney",DE: Spiegel TV Wissen HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75021.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Stingray Classica" tvg-logo="" group-title="DE: Disney",DE: Stingray Classica
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75022.ts
+#EXTINF:-1 tvg-id="" tvg-name="=====Cinema Germany=====" tvg-logo="" group-title="DE: Cinema Germany",=====Cinema Germany=====
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75023.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 1 HD" tvg-logo="" group-title="DE: Cinema Germany",DE: Max Select 1 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75024.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 2 HD" tvg-logo="" group-title="DE: Cinema Germany",DE: Max Select 2 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75025.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 3 HD" tvg-logo="" group-title="DE: Cinema Germany",DE: Max Select 3 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75026.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 4 HD" tvg-logo="" group-title="DE: Cinema Germany",DE: Max Select 4 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75027.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 5 HD" tvg-logo="" group-title="DE: Cinema Germany",DE: Max Select 5 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75028.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Musical" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Musical
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75029.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Disney" tvg-logo="" group-title="DE: Cinema Germany",TR: Cine Gold Disney
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75032.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Romance" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Romance
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75033.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cind Max Star Wars" tvg-logo="" group-title="DE: Cinema Germany",DE: Cind Max Star Wars
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75034.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max James Bond" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max James Bond
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75035.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Jurassic Park" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max Jurassic Park
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75036.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max MARVEL" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max MARVEL
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75037.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Disney" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max Disney
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75038.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Harry Potter" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max Harry Potter
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75039.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max IMDB" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max IMDB
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75040.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold War" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold War
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75042.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Western" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Western
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75043.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Sci-Fi" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Sci-Fi
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75044.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Horror" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Horror
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75045.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Family" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Family
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75047.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Drama" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Drama
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75048.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Crime" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Crime
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75049.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Comedy" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Comedy
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75050.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Biography" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Biography
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75051.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Animation" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Animation
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75052.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Adventure" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Adventure
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75053.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Action/Thriller" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Gold Action/Thriller
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75054.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Fast and Furious" tvg-logo="" group-title="DE: Cinema Germany",DE: Cine Max Fast and Furious
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75055.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ABENTEUER" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA ABENTEUER
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75056.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA AKTION" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA AKTION
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75057.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA DRAMA" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA DRAMA
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75059.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA HORROR" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA HORROR
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75060.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA LACHELN" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA LACHELN
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75062.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA SCI-FI" tvg-logo="" group-title="DE: Cinema Germany",DE: EAGLE CINEMA SCI-FI
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75064.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 2 HD+ (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 2 HD+ (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75065.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 2 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 2 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75066.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 3 HD+ (During Games only)" tvg-logo="" group-title"DE: Bundesliga",DE: DB Liga 3 HD+ (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75067.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 3 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 3 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75068.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 4 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 4 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75069.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 5 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 5 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75070.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga  6 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga  6 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75071.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 7 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 7 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75072.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga 8 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga 8 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75073.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DB Liga  9 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: DB Liga  9 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75074.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 3 HD+ (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 3 HD+ (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75075.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 3 HD  (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 3 HD  (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75076.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 4 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 4 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75077.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 5 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 5 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75078.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 6 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 6 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75079.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 7 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 7 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75080.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 8 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 8 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75081.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport Sport 9 HD" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport Sport 9 HD
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75082.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 10 HD+ (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 10 HD+ (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75083.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 10 HD (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 10 HD (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75084.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S. Sport 11 HD+ (During Games only)" tvg-logo="" group-title="DE: Bundesliga",DE: S. Sport 11 HD+ (During Games only)
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/75085.ts
