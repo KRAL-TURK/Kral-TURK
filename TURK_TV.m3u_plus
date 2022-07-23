@@ -296,7 +296,7 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.tr" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://www.superkabonet.com/yukleme/download/130.png" group -title="ÇOCUK KANALI",DISNEY CHANNEL
-http://dezonlineku.xyz:8080/live/13/13/3214.ts
+http://iptvworld.nl:2095/live/MarkS/iJdiCDpCH9/14237.ts
 #EXTINF:-1 xui-id="14725" tvg-id="" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="" group-title="ÇOCUK KANALI",TRT ÇOCUK HD
 http://xtvizle.nl:80/play/tyrZEAklulFFfyBTDgIyeqmOatUUg2ATSJIusg4SpWOZ2H4dcWH8lli47v0rEtBW/ts
 #EXTINF:-1 xui-id="14727" tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="ÇOCUK KANALI",NICK JR HD
