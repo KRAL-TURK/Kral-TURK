@@ -215,6 +215,24 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 group-title="HABER KANALI" tvg-logo="https://i.resimyukle.xyz/SVdKCV.jpeg",HABER 61 TV
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 
+#EXTINF:-1 tvg-name="A HABER" group-title"HABER KANALI", A HABER 
+http://213.172.73.171:8081/nimble_live/1194__a_HBR/playlist.m3u8
+#EXTINF:-1 tvg-name="TELE 1" group-title"HABER KANALI",TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 tvg-name="FLASTV" group-title"HABER KANALI",FLAS TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-name="KRK TV" group-title"HABER KANALI",KRK TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-name="EKO TÜRK" group-title"HABER KANALI",EKOTÜRK
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERGHT" group-title"HABER KANALI",BLOOMBERGHT
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title"HABER KANALI",ULUSAL KANAL
+https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 tvg-name="TV 1002" group-title"HABER KANALI",TV 1002
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 tvg-name="TVNET" group-title"HABER KANALI",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
